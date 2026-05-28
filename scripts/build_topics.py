@@ -1,13 +1,17 @@
-"""Generate draft topic pages by keyword-matching against the AID index.
+"""Auto-generate topic pages as fact dashboards.
 
-Each topic gets:
-  - An editorial intro (hand-written, lives in TOPIC_TEMPLATES below)
-  - "Relevant meetings" — meetings whose attachments match any keyword
-  - "Relevant documents" — direct deep-links to specific docs that matched
+Each topic page = stable intro (hand-written, lives in the TOPICS dict)
++ four auto-aggregated sections:
 
-The output is clearly marked DRAFT. The maintainer is expected to prune,
-re-order, and add narrative. This script makes the *starting point* useful
-instead of empty.
+  1. 2026 meetings on this topic — meetings whose attachments matched.
+  2. 2026 documents on this topic — direct deep-links to PDFs.
+  3. 2026 press coverage on this topic — news articles matched by keyword.
+  4. Open questions — hand-written, stable.
+
+The page contains **no interpretive characterization added by the site**.
+Auto-aggregated sections refresh every time the script runs — so when
+the press file is updated, the topic pages reflect it the same day.
+This script is called by refresh_press.py as part of the daily refresh.
 """
 
 from __future__ import annotations
@@ -36,7 +40,7 @@ TOPICS: dict[str, dict] = {
             "Financial Oversight Committee meets monthly and most line items "
             "land in regular board meetings as consent-agenda approvals."
         ),
-        "body": (
+        "_disabled_body": (
             "## The 2026 financial crisis — what actually happened\n\n"
             "ICCSD's 2026 has been dominated by an unfolding financial-"
             "management crisis whose origin event is now well-documented "
@@ -161,7 +165,7 @@ TOPICS: dict[str, dict] = {
             "page collects discussions of the superintendent's performance, "
             "search and selection processes, contracts, and evaluations."
         ),
-        "body": (
+        "_disabled_body": (
             "## The 2026 transition\n\n"
             "Matt Degner is ICCSD's Superintendent of record going into "
             "2026 — recognized as a finalist for **National Superintendent "
@@ -254,7 +258,7 @@ TOPICS: dict[str, dict] = {
             "renovations, property sales and purchases, leases, and the "
             "PPEL / SAVE funding streams that pay for them."
         ),
-        "body": (
+        "_disabled_body": (
             "## $104M Facilities Master Plan paused (May 12, 2026)\n\n"
             "At the [May 12, 2026 regular meeting](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md), "
             "the board unanimously adopted the **Facilities Master Plan "
@@ -345,7 +349,7 @@ TOPICS: dict[str, dict] = {
             "Policy & Governance Committee, then at one or more regular board "
             "meetings before final adoption."
         ),
-        "body": (
+        "_disabled_body": (
             "## How policy work flows at ICCSD\n\n"
             "Policy work originates in the **Policy & Governance Committee** "
             "— chaired in 2026 by Director Mitch Lingo (he succeeded prior "
@@ -421,7 +425,7 @@ TOPICS: dict[str, dict] = {
             "every regular board meeting as routine consent-agenda items; "
             "boundary changes themselves are rarer and more consequential."
         ),
-        "body": (
+        "_disabled_body": (
             "## School closures and elementary reconfiguration\n\n"
             "In **March 2026**, the district's financial consultant **PFM** "
             "formally recommended that ICCSD evaluate closing or "
@@ -482,6 +486,69 @@ def matches(text: str, keywords: list[str]) -> list[str]:
     return [kw for kw in keywords if kw.lower() in lower]
 
 
+# --- press article parsing (shared structure with build_timeline.py) ---
+
+_H3_RE = re.compile(r"^###\s+(.+?)\s*$", re.MULTILINE)
+_PRESS_META_RE = re.compile(
+    r"^\*\*([^*]+?)\*\*\s*(?:—\s*([^—\n]+?))?\s*(?:—\s*\*([^*]+?)\*)?\s*$"
+)
+
+
+def parse_press_articles_for_topics(press_md: str) -> list[dict]:
+    """Return a flat list of press articles with headline/publication/date/url.
+
+    Format mirrors what build_timeline.py extracts so the two stay
+    consistent. Each topic page filters this list by keyword match.
+    """
+    articles: list[dict] = []
+    lines = press_md.splitlines()
+    i = 0
+    while i < len(lines):
+        m_h3 = _H3_RE.match(lines[i])
+        if not m_h3:
+            i += 1
+            continue
+        headline = m_h3.group(1).strip().strip('"')
+        publication = ""
+        date_str = ""
+        url = ""
+        for j in range(1, 8):
+            if i + j >= len(lines):
+                break
+            ln = lines[i + j].strip()
+            if not ln:
+                continue
+            mp = _PRESS_META_RE.match(ln)
+            if mp:
+                publication = mp.group(1).strip()
+                if mp.group(2):
+                    date_str = mp.group(2).strip()
+                continue
+            mu = re.search(r"\((https?://[^)\s]+)\)", ln)
+            if mu and not url:
+                url = mu.group(1)
+            if ln.startswith("## ") or ln.startswith("### "):
+                break
+        articles.append({
+            "headline": headline,
+            "publication": publication,
+            "date": date_str,
+            "url": url,
+        })
+        i += 1
+    return articles
+
+
+def match_articles_to_topic(articles: list[dict], keywords: list[str]) -> list[dict]:
+    """Filter to articles whose headline contains any of the keywords."""
+    out: list[dict] = []
+    for a in articles:
+        kws = matches(a["headline"], keywords)
+        if kws:
+            out.append({**a, "matched_keywords": kws})
+    return out
+
+
 def parse_date(title_dt: str) -> str:
     """Return YYYY-MM-DD or empty string."""
     m = re.match(r"(\d{1,2})/(\d{1,2})/(\d{4})", title_dt or "")
@@ -506,6 +573,7 @@ def meeting_page_link(date_str: str, title: str) -> str:
 
 
 def build_topic_page(slug: str, spec: dict, attachments_data: dict,
+                     press_articles: list[dict],
                      generated_at: str) -> str:
     """Compose the topic page."""
     matched_attachments: list[dict] = []
@@ -550,9 +618,11 @@ def build_topic_page(slug: str, spec: dict, attachments_data: dict,
         spec["intro"],
         "",
     ]
-    if spec.get("body"):
-        lines.append(spec["body"])
-        lines.append("")
+    # NOTE: `body` field is intentionally not rendered. Earlier versions of
+    # this generator included hand-written narrative bodies; those have
+    # been retired in favor of fact-dashboard sections only. See repo
+    # README for the rationale (the site auto-maintains and shouldn't
+    # parrot one source's framing).
     lines.extend([
         "## 2026 meetings on this topic",
         "",
@@ -590,6 +660,37 @@ def build_topic_page(slug: str, spec: dict, attachments_data: dict,
                 f"browse the meetings above to see them in context._"
             )
 
+    # --- press coverage section (auto, refreshes daily) ---
+    matched_articles = match_articles_to_topic(press_articles, spec["keywords"])
+    lines.extend([
+        "",
+        "## 2026 press coverage on this topic",
+        "",
+    ])
+    if not matched_articles:
+        lines.append(
+            "_No 2026 press articles matched the keyword set yet. New "
+            "coverage is picked up here automatically as the [press "
+            "index](../press/2026.md) is refreshed._"
+        )
+    else:
+        lines.append(
+            f"Articles matched by keyword from the [press index](../press/2026.md). "
+            f"{len(matched_articles)} article{'s' if len(matched_articles) != 1 else ''} "
+            f"matched. The headline and publication are the source's own; "
+            f"the site adds no characterization."
+        )
+        lines.append("")
+        for a in matched_articles:
+            pub = a.get("publication", "") or "(publication unknown)"
+            date = a.get("date", "") or ""
+            url = a.get("url", "")
+            display = f"\"{a['headline']}\""
+            line = f"- **{date or '—'}** — *{pub}* — {display}"
+            if url:
+                line += f" — [read article]({url})"
+            lines.append(line)
+
     lines.extend([
         "",
         "## Open questions",
@@ -604,12 +705,12 @@ def build_topic_page(slug: str, spec: dict, attachments_data: dict,
         "",
         "---",
         "",
-        f"*Meeting and document lists above are derived by keyword match "
-        f"against the 2026 attachment index "
-        f"([data/attachments_2026.json]"
-        f"(https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — "
-        f"so the lists update automatically as the archive expands. "
-        f"Page generated {generated_at}.*",
+        f"*All lists on this page are derived automatically by keyword match "
+        f"against the [2026 attachment index]"
+        f"(https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json) "
+        f"and the [press index](../press/2026.md). They refresh whenever the "
+        f"press file is updated. The site adds no characterization of its own — "
+        f"each entry shows the source's wording with the source's citation.*",
         "",
     ])
     return "\n".join(lines)
@@ -640,6 +741,10 @@ def build_topics_index(out_dir: Path) -> None:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--attachments", type=Path, required=True)
+    ap.add_argument("--press", type=Path, default=None,
+                    help="Optional path to docs/press/<year>.md. When "
+                         "provided, each topic page gets a 'press coverage' "
+                         "section listing matched articles.")
     ap.add_argument("--out", type=Path, required=True, help="docs/topics/")
     args = ap.parse_args()
 
@@ -648,11 +753,18 @@ def main() -> int:
     with open(args.attachments, encoding="utf-8") as f:
         data = json.load(f)
 
+    press_articles: list[dict] = []
+    if args.press and args.press.exists():
+        press_articles = parse_press_articles_for_topics(
+            args.press.read_text(encoding="utf-8")
+        )
+        print(f"Loaded {len(press_articles)} press articles for matching.")
+
     generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     build_topics_index(args.out)
     for slug, spec in TOPICS.items():
-        page = build_topic_page(slug, spec, data, generated_at)
+        page = build_topic_page(slug, spec, data, press_articles, generated_at)
         (args.out / f"{slug}.md").write_text(page, encoding="utf-8")
         print(f"Wrote {args.out / (slug + '.md')}")
 

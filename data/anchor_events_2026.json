@@ -1,0 +1,38 @@
+{
+  "_comment": "Hand-curated events for the auto-generated Timeline that aren't derivable from press articles or meeting summaries. Each entry MUST have a citation. Add entries here for pre-crisis history (events before press coverage began), out-of-band events (statewide policy changes affecting ICCSD), and any claim that needs a direct primary-source citation rather than a press-article citation.",
+  "events": [
+    {
+      "date": "2025-08",
+      "title": "Undisclosed $10 million interfund transfer from health-insurance fund to general fund",
+      "summary": "District administrators moved $10 million from the health-insurance fund into the general fund to cover a payroll cash-flow shortfall. The transfer was not reported to the board at the time and was omitted from the next quarterly financial report.",
+      "citations": [
+        {"label": "Reported by KCRG, Jan 30 2026", "url": "press/2026.md"},
+        {"label": "Detailed by The Cedar Rapids Gazette", "url": "press/2026.md"}
+      ]
+    },
+    {
+      "date": "2025-11",
+      "title": "Chief Financial Officer Adam Kurth leaves ICCSD",
+      "summary": "Adam Kurth, who had succeeded Leslie Finger as CFO in 2023, departs the district.",
+      "citations": [
+        {"label": "Reported by The Cedar Rapids Gazette", "url": "press/2026.md"}
+      ]
+    },
+    {
+      "date": "2023-09 — 2025-06",
+      "title": "ICCSD incurs $525,110 in federal tax penalties",
+      "summary": "Per Cedar Rapids Gazette reporting, the district accrued $525,110 in federal tax penalties between September 30, 2023 and June 30, 2025 for filing payroll and excise taxes \"significantly late.\"",
+      "citations": [
+        {"label": "The Cedar Rapids Gazette", "url": "press/2026.md"}
+      ]
+    },
+    {
+      "date": "2023-06",
+      "title": "Former CFO Leslie Finger retires after warning successor",
+      "summary": "Cedar Rapids Gazette obtained emails showing Finger had warned his successor Adam Kurth about ~$500K in federal tax penalties, the absence of financial reports, and growth in the special-education deficit \"by millions of dollars.\"",
+      "citations": [
+        {"label": "The Cedar Rapids Gazette", "url": "press/2026.md"}
+      ]
+    }
+  ]
+}

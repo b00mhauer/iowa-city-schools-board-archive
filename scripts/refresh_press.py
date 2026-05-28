@@ -166,12 +166,68 @@ def main() -> int:
             f.writelines(entry_lines)
         print(f"Appended {len(added) + len(removed)} change(s) to {args.changelog}.")
 
+    # --- Step 4b: chain downstream generators that depend on press content ---
+    # These are deterministic regenerators — they update the Timeline and the
+    # per-topic press sections so the site reflects the new press file the
+    # same day. Both are pure-Python aggregators (no LLM, no synthesis); a
+    # changelog of what they produced is on stdout for debugging.
+    scripts_dir = Path(__file__).parent
+    repo_root = scripts_dir.parent
+
+    iccsd_meetings_json = (
+        Path("C:/Users/MichaelParrott/480th Company/480th Back Offices - Documents")
+        / "Clients - Contracts" / "ICCSD" / "all_meetings.json"
+    )
+
+    if iccsd_meetings_json.exists():
+        try:
+            _run([
+                sys.executable, str(scripts_dir / "build_timeline.py"),
+                "--press", str(args.out),
+                "--summaries", str(repo_root / "data" / f"summaries_{args.year}.json"),
+                "--anchors", str(repo_root / "data" / f"anchor_events_{args.year}.json"),
+                "--meetings-json", str(iccsd_meetings_json),
+                "--year", str(args.year),
+                "--out", str(repo_root / "docs" / "timeline.md"),
+            ])
+            print(f"refreshed: docs/timeline.md")
+        except subprocess.CalledProcessError as e:
+            print(f"WARN: build_timeline failed: {e.stderr}", file=sys.stderr)
+        try:
+            _run([
+                sys.executable, str(scripts_dir / "build_topics.py"),
+                "--attachments", str(repo_root / "data" / f"attachments_{args.year}.json"),
+                "--press", str(args.out),
+                "--out", str(repo_root / "docs" / "topics"),
+            ])
+            print(f"refreshed: docs/topics/*.md")
+        except subprocess.CalledProcessError as e:
+            print(f"WARN: build_topics failed: {e.stderr}", file=sys.stderr)
+    else:
+        print(
+            f"NOTE: {iccsd_meetings_json} not found — skipping downstream "
+            f"generators. Run them manually with the right paths when on "
+            f"the maintainer's machine."
+        )
+
     # --- Step 5: optional commit / push ---
     if args.auto_commit:
         # Check working tree for any actual filesystem changes (cover the
         # case where mirror was a no-op due to byte-identical source).
-        status = _run(["git", "status", "--porcelain", str(args.out), str(args.changelog)],
-                      check=False).stdout
+        # Include downstream-generated files too.
+        downstream = [
+            str(repo_root / "docs" / "timeline.md"),
+            str(repo_root / "docs" / "topics" / "budget.md"),
+            str(repo_root / "docs" / "topics" / "superintendent.md"),
+            str(repo_root / "docs" / "topics" / "facilities.md"),
+            str(repo_root / "docs" / "topics" / "policies.md"),
+            str(repo_root / "docs" / "topics" / "boundaries.md"),
+            str(repo_root / "docs" / "topics" / "index.md"),
+        ]
+        status = _run([
+            "git", "status", "--porcelain",
+            str(args.out), str(args.changelog), *downstream,
+        ], check=False).stdout
         if not status.strip():
             print("git: no filesystem changes after mirror; skipping commit.")
             return 0
@@ -183,7 +239,10 @@ def main() -> int:
             msg_parts.append(f"-{len(removed)} removed")
         msg = " — ".join(msg_parts) if len(msg_parts) > 1 else msg_parts[0]
 
-        _run(["git", "add", str(args.out), str(args.changelog)])
+        _run([
+            "git", "add",
+            str(args.out), str(args.changelog), *downstream,
+        ])
         _run(["git", "commit", "-m", msg])
         print(f"git: committed — {msg}")
 
