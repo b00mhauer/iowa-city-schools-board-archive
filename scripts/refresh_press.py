@@ -203,6 +203,18 @@ def main() -> int:
             print(f"refreshed: docs/topics/*.md")
         except subprocess.CalledProcessError as e:
             print(f"WARN: build_topics failed: {e.stderr}", file=sys.stderr)
+        try:
+            _run([
+                sys.executable, str(scripts_dir / "build_home.py"),
+                "--index", str(repo_root / "docs" / "index.md"),
+                "--summaries", str(repo_root / "data" / f"summaries_{args.year}.json"),
+                "--press", str(args.out),
+                "--meetings-json", str(iccsd_meetings_json),
+                "--year", str(args.year),
+            ])
+            print(f"refreshed: docs/index.md (Latest block)")
+        except subprocess.CalledProcessError as e:
+            print(f"WARN: build_home failed: {e.stderr}", file=sys.stderr)
     else:
         print(
             f"NOTE: {iccsd_meetings_json} not found — skipping downstream "
@@ -223,6 +235,7 @@ def main() -> int:
             str(repo_root / "docs" / "topics" / "policies.md"),
             str(repo_root / "docs" / "topics" / "boundaries.md"),
             str(repo_root / "docs" / "topics" / "index.md"),
+            str(repo_root / "docs" / "index.md"),
         ]
         status = _run([
             "git", "status", "--porcelain",
