@@ -1,0 +1,73 @@
+---
+title: "Affidavit and Resolution re Conveyance of Real Property - Iowa City"
+---
+
+# Affidavit and Resolution re Conveyance of Real Property - Iowa City
+
+<div class="meeting-meta" markdown>
+
+**Meeting:** [Regular Meeting of the Board of Directors - Amended Agenda](../../2026-04-28-regular-meeting-of-the-board-of-directors-amended-agenda.md) — 2026-04-28
+
+**Agenda section:** L.03
+
+**Source PDF:** [Open original on district portal](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=551594&MID=28495)
+
+**Format:** Machine-extracted text from the source PDF
+
+</div>
+
+!!! warning "Machine-extracted text"
+
+    The text below was extracted automatically from the source PDF. Formatting (tables, columns, page breaks) is lost; some characters may be garbled where the PDF used non-standard encoding or rasterized text. **The source PDF is the authoritative copy** — link above. This extract exists so the content is searchable on this site and ingestible by AI tools.
+
+---
+
+```text
+Affidavit and Resolution re Disposition of Real Property
+[Pursuant to Iowa Code Section 297.22]
+Recorder’s Cover Sheet
+Preparer Information:
+Conner L. Wasson
+Ahlers & Cooney P.C.
+100 Court Avenue, Suite 600
+Des Moines, IA 50309
+(515) 243-7611
+Taxpayer Information:
+N/A
+Return Address
+Conner L. Wasson
+Ahlers & Cooney P.C.
+100 Court Avenue, Suite 600
+Des Moines, IA 50309
+Grantors: Iowa City Community School District
+Grantees: City of Iowa City
+Legal Description: See Page 3
+Document or instrument number of previously recorded documents:
+
+AFFIDAVIT
+RE: Lot 1, Press-Citizen Addition to Iowa City, Iowa according to the recorded plat thereof,
+recorded in Book 43, Page 311, Records of Johnson County, Iowa, excepting therefrom a
+12,350 square foot area located in the northwest corner thereof as shown and designated
+on the recorded plat as Right of Way Dedication.
+STATE OF IOWA )
+) SS
+COUNTY OF JOHNSON )
+I, Kim Colvin, am the Secretary of the Board of Directors of the Iowa City Community
+School District (“District”) in the County of Johnson, State of Iowa, and am authorized to make
+this Affidavit.
+This Affidavit is furnished to show compliance by the District with Iowa Code Chapter
+297 relative to the conveyance of certain property described herein (“Property”) to City of Iowa
+City.
+I certify that attached are true and complete copies of:
+1. Proof of Publication of Notice of Public Hearing published as required by Iowa
+Code Section 297.22.
+2. Resolution approving conveyance of the interest in the Property.
+WITNESS my hand hereto on _______________
+Kim Colvin, Board Secretary
+Iowa City Community School District
+Subscribed and sworn to before me, a notary public in and for the State of Iowa, on this
+____, ____________, ____.
+Notary Public
+Commission Expires: _______________
+4920-6337-7300-1\14546-047
+```

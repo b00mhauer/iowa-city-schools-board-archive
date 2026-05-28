@@ -1,0 +1,55 @@
+---
+title: "Iowa Code - Examining Board"
+---
+
+# Iowa Code - Examining Board
+
+<div class="meeting-meta" markdown>
+
+**Meeting:** [Regular Meeting of the Board of Directors Amended Agenda](../../2026-02-24-regular-meeting-of-the-board-of-directors-amended-agenda.md) — 2026-02-24
+
+**Agenda section:** G.01
+
+**Source PDF:** [Open original on district portal](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=526201&MID=25490)
+
+**Format:** Machine-extracted text from the source PDF
+
+</div>
+
+!!! warning "Machine-extracted text"
+
+    The text below was extracted automatically from the source PDF. Formatting (tables, columns, page breaks) is lost; some characters may be garbled where the PDF used non-standard encoding or rasterized text. **The source PDF is the authoritative copy** — link above. This extract exists so the content is searchable on this site and ingestible by AI tools.
+
+---
+
+```text
+IAC Ch 103, p.1
+701—103.14(441) Examining board.
+103.14(1) Membership. Each voting unit of the conference board shall appoint a member of the
+examining board. Members of the examining board shall not be members of the conference board, a body
+which selects a member of the conference board, or the local board of review (1960 O.A.G. 226). A person
+must be a resident of the assessing jurisdiction served to qualify for appointment as a member of the
+examining board. A member changing assessing jurisdiction residency after appointment to the board may
+continue to serve on the board until the member’s current term of office expires.
+103.14(2) Terms of members. Members of the examining board shall be appointed for terms of six
+years. In the event of death, resignation, or removal from office of a member of the examining board, the
+appropriate voting unit of the conference board shall appoint a successor to serve the unexpired term of the
+previous incumbent.
+103.14(3) Removal of member. A member of an examining board may be removed from office only
+after specific charges have been filed against the member and a public hearing has been held if requested
+by the member.
+103.14(4) Duties. The examining board may, at its discretion, contact all or some of the persons on
+the register of candidates eligible for appointment as assessor. The examining board may conduct
+interviews with interested persons and may administer such further examinations as may enable the board
+to submit a recommendation to the conference board. In arriving at its recommendation, the examining
+board may set other professional standards including, but not limited to, examination scores, education, and
+experience.
+103.14(5) Report to conference board. The report to the conference board required pursuant to Iowa
+Code section 441.6 should contain a complete description of the examining board’s investigations and
+activities. The report may, at the discretion of the examining board, contain recommendations to the
+conference board.
+103.14(6) Time for action. The examining board shall take all steps necessary to comply with the time
+frames set forth in Iowa Code section 441.6.
+This rule is intended to implement Iowa Code sections 441.2, 441.3, 441.4, and 441.6.
+[ARC 7726B, IAB 4/22/09, effective 5/27/09; Editorial change: IAC Supplement 11/2/22]
+```

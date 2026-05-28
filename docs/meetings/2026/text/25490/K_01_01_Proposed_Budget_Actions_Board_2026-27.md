@@ -1,0 +1,116 @@
+---
+title: "Proposed Budget Actions Board (2026-27)"
+---
+
+# Proposed Budget Actions Board (2026-27)
+
+<div class="meeting-meta" markdown>
+
+**Meeting:** [Regular Meeting of the Board of Directors Amended Agenda](../../2026-02-24-regular-meeting-of-the-board-of-directors-amended-agenda.md) — 2026-02-24
+
+**Agenda section:** K.01
+
+**Source PDF:** [Open original on district portal](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=526490&MID=25490)
+
+**Format:** Machine-extracted text from the source PDF
+
+</div>
+
+!!! warning "Machine-extracted text"
+
+    The text below was extracted automatically from the source PDF. Formatting (tables, columns, page breaks) is lost; some characters may be garbled where the PDF used non-standard encoding or rasterized text. **The source PDF is the authoritative copy** — link above. This extract exists so the content is searchable on this site and ingestible by AI tools.
+
+---
+
+```text
+2026-27 Proposed Budget Actions
+Administration
+Potential Savings: $500,000+
+Administrator Reductions and/or Reassignment
+● District administrator(s) reassigned to building positions
+● Reduce administrative contract positions
+Executive Cabinet Administrator 2026-27 Pay Freeze
+● Positions Included: Superintendent, Deputy Superintendent, Chief Human
+Resources Officer, Chief Operations Officer, Executive Director of Community
+Relations, Executive Director of Educational Services and Student Success, Executive
+Directors of Elementary and Secondary Schools
+District Office Savings
+Potential Savings: $1.8 million+
+Reassignment and/or Reduction of District Office Staff - $1.2 million
+● Reassignment of district office staff to school-based positions
+○ Projected: 12-16 FTE
+○ Not all savings would occur by July 1, as attrition and available positions will be
+the primary drivers of change
+● Adjustments to partial release curricular positions
+2025-26 Mid-Year Attrition - $300,000
+● Current resigned positions that will not be replaced for the 2026-27 school year
+Reduce Special Education Lead Support Teacher Positions - $360,000
+● Reassign special education lead support teachers to available teaching positions
+○ Projected: 4 FTE
+Probationary Teachers
+Potential Savings: $1 million
+Non-Renewal of Selected Probationary Teachers - $1 million
+● Performance-Based Non-Renewals as recommended by building administrators
+● Non-Renew identified probationary teachers
+○ The savings would be a combination of general and categorical funds
+__________________ IOWA CITY COMMUNITY SCHOOL DISTRICT __________________
+OFFICE OF HUMAN RESOURCES
+
+Elementary
+Potential Savings: $900,000
+Elementary WRAM Savings - $900,000
+● Reduce the elementary classroom teaching positions accomplished through
+retirements and resignations
+○ 2025-26: 301 Classroom Teacher FTE
+○ 2026-27: Projected 291 Classroom Teacher FTE
+■ Reductions occur while achieving subtle class size improvements
+Middle School
+Potential Savings: $500,000
+Middle School Staffing Adjustments - $500,000
+● Attrition-based staffing reductions and positions are not replaced
+○ Projected: 5-6 FTE
+High School
+Potential Savings: $600,000
+High School Staffing Adjustments - $600,000
+● Attrition-based staffing reductions and positions are not replaced
+○ Projected: 6-7 FTE
+Operations
+Potential Savings: $750,000
+Staffing Reductions - $550,000
+● Reassign custodial substitutes into open positions that occur through attrition
+● Attrition-based staffing reductions and positions are not replaced
+Reduce Summer Temporary Positions - $200,000
+● Reductions in temporary technology, grounds, and painting staff for summer 2026
+__________________ IOWA CITY COMMUNITY SCHOOL DISTRICT __________________
+OFFICE OF HUMAN RESOURCES
+
+District Personnel Adjustments
+Potential Savings: $950,000
+PK-12 Support Staff Adjustments - $600,000
+● Reduce support staff allocations through attrition
+Reduce Building Substitute Positions - $200,000
+● Reduce building substitute positions through attrition
+Stipend Adjustments - $150,000
+● Reduce staff stipends (ie, HRS Lead, Curriculum Advocates, Core Content Specialists)
+Special Education Reductions - TBD
+● Reductions in support personnel, including paraprofessionals
+Administrator Travel - TBD
+● Suspend all administrator travel for conference attendance
+Hiring Limitations and Positional Savings - TBD
+● Limiting the education and experience of essential teacher hires
+Non-Personnel Adjustments
+Potential Savings: $2 million+
+Transportation
+● Reduce or eliminate discretionary busing - $700,000 - $1 million
+● Reduce transportation costs for student events at the CFI or other trips - TBD
+Software Expenses - $300,000+
+● Elimination of redundant or underutilized software
+Delay Curriculum Purchases - $1,000,000+
+● 7-12 World Language, 9-12 Math
+● Elementary ELA Pilot
+Consulting Contracts - TBD
+● Elimination of consulting contracts that are underutilized or not impacting student
+learning
+__________________ IOWA CITY COMMUNITY SCHOOL DISTRICT __________________
+OFFICE OF HUMAN RESOURCES
+```

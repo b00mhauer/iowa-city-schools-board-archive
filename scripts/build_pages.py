@@ -219,8 +219,21 @@ def transform_agenda(md_in: str, meeting_record: dict, mid: int) -> tuple[str, d
     return body, {"replaced": replaced, "missed": missed}
 
 
+def _has_transcript(out_dir: Path, date_str: str, slug: str) -> bool:
+    """Check whether build_transcripts.py wrote a transcript for this meeting."""
+    candidate = out_dir / "transcripts" / f"{date_str}-{slug}.md"
+    return candidate.exists()
+
+
+def _has_extracts(out_dir: Path, mid: int) -> bool:
+    """Check whether publish_extracts.py wrote text extracts for this MID."""
+    candidate = out_dir / "text" / str(mid)
+    return candidate.exists() and any(candidate.iterdir())
+
+
 def render_meeting_page(meeting_record: dict, agenda_md: str | None,
-                        meeting_type: str, generated_at: str) -> tuple[str, dict]:
+                        meeting_type: str, generated_at: str,
+                        out_dir: Path, slug: str) -> tuple[str, dict]:
     """Compose the full markdown page for one meeting."""
     mid = meeting_record["mid"]
     title = meeting_record["title"]
@@ -262,6 +275,28 @@ def render_meeting_page(meeting_record: dict, agenda_md: str | None,
     header.append("")
     header.append("</div>")
     header.append("")
+
+    # "Watch & read" panel — transcripts and extracts where they exist.
+    has_t = _has_transcript(out_dir, date_str, slug)
+    has_e = _has_extracts(out_dir, mid)
+    if has_t or has_e:
+        header.append("## Watch & read")
+        header.append("")
+        if has_t:
+            header.append(
+                f"- **[Meeting transcript](transcripts/{date_str}-{slug}.md)** "
+                f"— machine-generated from the YouTube recording; "
+                f"timestamps link to the moment in the video."
+            )
+        if has_e:
+            header.append(
+                f"- **[Supporting documents (text)](text/{mid}/index.md)** "
+                f"— machine-extracted text of every attached PDF, "
+                f"linked back to the originals on the district portal."
+            )
+        header.append("")
+        header.append("---")
+        header.append("")
 
     stats = {"replaced": 0, "missed": 0}
     if agenda_md is not None:
@@ -452,11 +487,13 @@ def main() -> int:
             if local_entry else None
         )
 
-        page_md, stats = render_meeting_page(rec, agenda_md, meeting_type, generated_at)
+        slug = slugify(rec["title"])
+        page_md, stats = render_meeting_page(rec, agenda_md, meeting_type,
+                                             generated_at, args.out, slug)
         total_replaced += stats["replaced"]
         total_missed += stats["missed"]
 
-        slug = slugify(rec["title"])
+        # (slug already computed above for transcript/extracts lookup)
         filename = f"{date_str}-{slug}.md"
         # Disambiguate if same date+title appears twice (e.g. closed session
         # immediately following a regular meeting)

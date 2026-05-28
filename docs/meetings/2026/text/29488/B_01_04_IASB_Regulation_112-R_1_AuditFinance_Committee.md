@@ -1,0 +1,57 @@
+---
+title: "IASB_Regulation  112-R(1)  AuditFinance Committee"
+---
+
+# IASB_Regulation  112-R(1)  AuditFinance Committee
+
+<div class="meeting-meta" markdown>
+
+**Meeting:** [Financial Oversight Committee - Amended](../../2026-04-14-financial-oversight-committee-amended.md) — 2026-04-14
+
+**Agenda section:** B.01
+
+**Source PDF:** [Open original on district portal](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546810&MID=29488)
+
+**Format:** Machine-extracted text from the source PDF
+
+</div>
+
+!!! warning "Machine-extracted text"
+
+    The text below was extracted automatically from the source PDF. Formatting (tables, columns, page breaks) is lost; some characters may be garbled where the PDF used non-standard encoding or rasterized text. **The source PDF is the authoritative copy** — link above. This extract exists so the content is searchable on this site and ingestible by AI tools.
+
+---
+
+```text
+Board Policy Manual
+Iowa Association of School
+Boards
+RReegguullaattiioonn 111122--RR((11)):: AAuuddiitt//FFiinnaannccee CCoommmmiitttteeee SSttaattuuss:: ADOPTED
+OOrriiggiinnaall AAddoopptteedd DDaattee:: 03/10/2011 || LLaasstt RReevviieewweedd DDaattee:: 03/10/2011
+AUDIT/FINANCE COMMITTEE
+The Audit and Finance Committee shall:
+1. Advise the Board regarding the Board’s responsibilities to oversee:
+a. The quality, integrity and timeliness of financial reporting and financial statements, and internal controls related to risks;
+b. the function, disclosures and performance of corporate compliance, internal control and risk management systems regarding ethics, compliance,
+finance and accounting, and the adequacy of such systems throughout the association; and
+c. the independent certified public accountant’s qualification, independence and performance.
+2. Meet at least four (4) times per year.
+3. Discuss the planned scope of the annual independent audit with the independent certified public accountants and review the results of the audit with the
+independent certified public accountants and management.
+4. Review the annual financial report with the independent certified accountants and management.
+5. After considering the recommendations of management, recommend to the Board the certified public accountants to serve as independent auditor and the
+scope of their annual audit, and approve any services other than audit and audit related services provided by the certified public accountants.
+6. Have the power, through its chair or a majority vote of the committee members, to request management to address specific issues within the jurisdiction of
+the committee, and have the authority to engage independent counsel and other advisors to carry out the committee’s duties.
+7. Consider and recommend to the Board the annual budget of the Association as prepared by the executive director.
+8. Recommend to the Board on matters which commit the Association to expenditures in future years.
+9. Consider and recommend to the Board a course of action on all matters relating to the external financing of projects.
+10. Consider and recommend to the Board a course of action on any new Management Programs proposed under Policy Code 402.
+11. Determine the amount and character of surety bonds to be required of the Association’s officers and employees.
+12. Maintain and close bank accounts, both savings and commercial, in the name of the Association; prescribe the conditions under which deposits shall be made
+and funds withdrawn, and designate the representative of the Association who may make withdrawals.
+13. Recommend to the Board the membership fees to be assessed to members of the Association.
+Supporting Links
+Board Policy Manual Policy 402: Affiliated Programs - https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?
+S=100000&revid=Fuypt9AL2SowkkY21XNZCA==&ptid=02M1plusyrXH8cKSpKMqKzs9Q==&secid=droeIR9GMMoxPG8W9pzV8A==&PG=6&IRP=0&isPndg=false
+```
