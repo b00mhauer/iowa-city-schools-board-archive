@@ -36,6 +36,31 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import quote
+
+
+# Site URL — embedded in the AI prompts below so the tool fetches the
+# right page directly from GitHub Pages.
+SITE_URL = "https://b00mhauer.github.io/iowa-city-schools-board-archive"
+
+
+def _ai_buttons(prompt: str) -> str:
+    """Render a one-line 'Ask AI' button block with ChatGPT / Gemini /
+    Perplexity links, each pre-loaded with `prompt`.
+
+    The buttons just open each tool's web app with the prompt already
+    typed into the chat box (via the `?q=` query parameter). The user
+    hits enter; the tool fetches the URL embedded in the prompt and
+    answers from it. No backend required.
+    """
+    q = quote(prompt, safe="")
+    return (
+        f"[Ask ChatGPT](https://chatgpt.com/?q={q})"
+        f" &nbsp;·&nbsp; "
+        f"[Ask Gemini](https://gemini.google.com/app?q={q})"
+        f" &nbsp;·&nbsp; "
+        f"[Ask Perplexity](https://www.perplexity.ai/?q={q})"
+    )
 
 
 # --- helpers ---
@@ -400,6 +425,28 @@ def render_meeting_page(meeting_record: dict, agenda_md: str | None,
         header.append("")
         header.append("---")
         header.append("")
+
+    # Ask AI block — clicking opens ChatGPT / Gemini / Perplexity with a
+    # question about this meeting pre-loaded. The AI fetches this page
+    # (which is on the public site) and answers from it.
+    meeting_page_url = f"{SITE_URL}/meetings/{date_str[:4]}/{date_str}-{slug}/"
+    ai_prompt = (
+        f"Read this ICCSD Board of Directors meeting summary and supporting "
+        f"document list, then answer my questions about it. Start with a "
+        f"~150-word overview: what happened, who voted how on any contested "
+        f"items, and what's still unresolved. The page is at {meeting_page_url}"
+    )
+    header.append("## Ask an AI about this meeting")
+    header.append("")
+    header.append(
+        "These open an AI chat with a question about this meeting pre-loaded. "
+        "Just click and hit enter."
+    )
+    header.append("")
+    header.append(_ai_buttons(ai_prompt))
+    header.append("")
+    header.append("---")
+    header.append("")
 
     # The agenda body itself is no longer published on the website — it
     # was a verbose district-formatted document that read as a dump
