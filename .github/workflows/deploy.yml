@@ -40,6 +40,7 @@ jobs:
         run: mkdocs build --strict
 
       - name: Deploy to gh-pages
-        run: mkdocs gh-deploy --force --no-history --message "deploy: ${{ github.sha }}"
+        run: |
+          mkdocs gh-deploy --force --no-history --message "deploy ${{ github.sha }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
