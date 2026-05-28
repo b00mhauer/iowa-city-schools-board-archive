@@ -52,4 +52,4 @@ Questions worth digging into across the underlying records:
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 15:13 UTC.*
+*All lists on this page are derived automatically by keyword match against the [2026 attachment index](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json) and the [press index](../press/2026.md). They refresh whenever the press file is updated. The site adds no characterization of its own — each entry shows the source's wording with the source's citation.*
