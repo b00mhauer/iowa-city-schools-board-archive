@@ -286,8 +286,12 @@ def index_meeting_types(all_meetings: list[dict]) -> dict[int, str]:
 
 
 def write_index(out_dir: Path, year: int, pages: list[dict]) -> None:
-    """Group meetings by month and emit docs/meetings/<year>/index.md."""
-    pages_sorted = sorted(pages, key=lambda p: (p["date"], p["title"]))
+    """Group meetings by month and emit docs/meetings/<year>/index.md.
+
+    Sorted newest first — readers want the most recent meeting at the top.
+    """
+    pages_sorted = sorted(pages, key=lambda p: (p["date"], p["title"]),
+                          reverse=True)
 
     months_by_num = {
         1: "January", 2: "February", 3: "March", 4: "April",
