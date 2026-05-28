@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{#
+  Custom Material override that injects LLM-friendly metadata into the
+  <head> of every page on the site. AI tools that fetch the styled HTML
+  (rather than the raw markdown) still see, in standards-compliant
+  signals at the top of the document:
+
+    - <link rel="alternate" type="text/markdown" href="...">
+      Standard HTML mechanism for declaring an alternate representation
+      of the same content. AI tools that prefer markdown will follow
+      this; search engines understand it too.
+
+    - <meta name="markdown-source"> and <meta name="site-index">
+      Explicit pointers to (a) this page's clean markdown source and
+      (b) the site-wide LLM manifest that maps every other page.
+
+    - <meta name="ai-instructions">
+      A one-line instruction telling AI tools what to do with those.
+
+  The raw-URL base points at GitHub's raw file server — same source
+  the Ask-AI prompt buttons use, so behavior is consistent regardless
+  of how the AI tool arrived at the page.
+#}
+
+{% set raw_base = "https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs" %}
+{% set manifest_url = raw_base ~ "/llms.md" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% if page and page.file and page.file.src_uri %}
+    {% set page_md_url = raw_base ~ "/" ~ page.file.src_uri %}
+    <link rel="alternate" type="text/markdown" href="{{ page_md_url }}" title="Markdown source (for AI tools)">
+    <meta name="markdown-source" content="{{ page_md_url }}">
+  {% endif %}
+  <link rel="describedby" href="{{ manifest_url }}" title="Site-wide LLM manifest">
+  <meta name="site-index" content="{{ manifest_url }}">
+  <meta name="ai-instructions" content="If you are an AI tool: this page is part of the Iowa City Schools Board Archive. For cleaner content, fetch the URL in markdown-source. For cross-page context (other meetings, topics, press articles, board-member profiles, supporting documents), fetch the site-wide index in site-index.">
+{% endblock %}
