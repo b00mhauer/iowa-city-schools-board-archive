@@ -92,27 +92,40 @@ BOLD_LABEL_LINE_RE = re.compile(r"^\s*\*\*[^*\n]+\*\*\s*:?\s*$")
 
 
 def normalize_label_blocks(md: str) -> str:
-    """Insert a blank line after standalone bold-label lines so the label
-    and the content below it render as separate paragraphs.
+    """Convert standalone bold-label lines into small uppercase labels.
 
-    The district's agenda format looks like:
+    The district's agenda format emits structural labels as bold lines:
         **Recommendation**
         Motion to approve...
 
-    Without intervention, markdown renders that as "Recommendation Motion
-    to approve..." (single newlines join paragraphs with a space). We turn
-    it into:
-        **Recommendation**
+    Two problems with that:
+      1. Markdown collapses the single newline → "Recommendation Motion
+         to approve...".
+      2. Even rendered with a blank line, bold competes with the section
+         headings for visual weight.
+
+    We rewrite each such line to:
+        <p class="agenda-label">Recommendation</p>
 
         Motion to approve...
+
+    where `.agenda-label` is styled (in extra.css) as a small uppercase
+    tag — quieter than bold, but still clearly delineating the field.
     """
     lines = md.splitlines()
     out: list[str] = []
     for i, line in enumerate(lines):
-        out.append(line)
         if BOLD_LABEL_LINE_RE.match(line):
+            # Strip leading whitespace, ** wrappers, and any trailing ":"
+            # (the district sometimes writes `**Supporting Documents:**`
+            # — colon is inside the bold). The CSS handles separator
+            # styling so the colon would just be noise.
+            inner = line.strip().strip("*").rstrip(":").strip()
+            out.append(f'<p class="agenda-label">{inner}</p>')
             if i + 1 < len(lines) and lines[i + 1].strip() != "":
                 out.append("")
+        else:
+            out.append(line)
     return "\n".join(out)
 
 
@@ -228,8 +241,17 @@ def render_meeting_page(meeting_record: dict, agenda_md: str | None,
         "",
     ]
 
+    # Wrap the metadata header in a styled div so CSS can dampen its
+    # visual weight relative to the section headings. The `markdown`
+    # attribute (md_in_html extension) tells the renderer to still
+    # process bold + link inside.
     header = []
-    header.append(f"**Date / Time:** {date_str}" + (f" — {time_str}" if time_str else ""))
+    header.append('<div class="meeting-meta" markdown>')
+    header.append("")
+    header.append(
+        f"**Date / Time:** {date_str}"
+        + (f" — {time_str}" if time_str else "")
+    )
     header.append("")
     header.append(f"**Meeting Type:** {meeting_type}")
     header.append("")
@@ -238,7 +260,7 @@ def render_meeting_page(meeting_record: dict, agenda_md: str | None,
         f"[Simbli eBoard meeting page]({meeting_record['source_url']})"
     )
     header.append("")
-    header.append("---")
+    header.append("</div>")
     header.append("")
 
     stats = {"replaced": 0, "missed": 0}

@@ -6,13 +6,15 @@ mid: 25789
 ---
 
 # Education Committee Meeting 
+<div class="meeting-meta" markdown>
+
 **Date / Time:** 2026-01-20 — 04:30 PM
 
 **Meeting Type:** Committee Meeting
 
 **Official agenda on district site:** [Simbli eBoard meeting page](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25789)
 
----
+</div>
 ## A. Call to Order
 
 ## B. Elect Committee Chair
@@ -21,7 +23,7 @@ mid: 25789
 
 ### 1. December 16, 2025 Education Committee Meeting Minutes
 
-**Meeting Minutes**
+<p class="agenda-label">Meeting Minutes</p>
 
 Meeting Minutes
 
@@ -29,7 +31,7 @@ Meeting Minutes
 
 ### 1. Office of Professional Development
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Ed Committee Jan 2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=502937&MID=25789)
 - [Ed Committee December 2025](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=502938&MID=25789)
@@ -44,6 +46,6 @@ Meeting Minutes
 
 Agenda content carried through from the district's published materials for [MID 25789](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25789). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:54 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:58 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

@@ -6,18 +6,20 @@ mid: 25493
 ---
 
 # Regular Meeting - Board of Directors: Immediately Following Special Meeting/Budget Hearing - AMENDED
+<div class="meeting-meta" markdown>
+
 **Date / Time:** 2026-03-24 — 06:00 PM
 
 **Meeting Type:** Board Meeting
 
 **Official agenda on district site:** [Simbli eBoard meeting page](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25493)
 
----
+</div>
 ## A. Call to Order
 
 ## B. Welcome
 
-**Summary**
+<p class="agenda-label">Summary</p>
 
 The public is reminded that if they wish to speak, they need to complete a speaker form found at the table in the back of the room and turn it in. During community comment persons may speak to the Board about topics relevant to the district.  All community comment, directed at non agenda items and agenda items, shall take place at the beginning of the meeting during the Community Comment section of the agenda.
 
@@ -41,13 +43,13 @@ We will be accountable to the public, especially to our students.
 
 ## C. Agenda Approval
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Approve the agenda as presented.
 
 ### 1. Approve the March 24, 2026 Board Meeting Agenda
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Approve the March 24, 2026 board meeting agenda.
 
@@ -55,17 +57,17 @@ Approve the March 24, 2026 board meeting agenda.
 
 ### 1. Education Showcase
 
-**Quick Summary / Abstract**
+<p class="agenda-label">Quick Summary / Abstract</p>
 
 Shimek Elementary - PBIS
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Shimek School Showcase - March 24, 2026 (2)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=541307&MID=25493)
 
 ### 2. Community Comment
 
-**Quick Summary / Abstract**
+<p class="agenda-label">Quick Summary / Abstract</p>
 
 Thank you for your interest in Iowa City Community School District and for your willingness to share your comments. You are reminded to give your name, address, and topic on which you would like to speak. During community comment, persons may speak to the Board about topics relevant to the district. Speakers who make comments are reminded they are responsible for their own statements and may be subject to legal action for those which are threatening, harassing, or defamatory in nature. It is expected that speakers will address the board and each other with civility and abide by the stated time limits. All community comment, directed at non-agenda items and agenda items, shall take place at the beginning of the meeting and shall be limited to 4 minutes per speaker. The initial community comment period shall be limited to 1 hour. Remaining community comment, to the extent necessary, shall take place at the end of the meeting. The board will not engage in any discussion during public comment. The role of the board during this time is to listen.
 
@@ -73,7 +75,7 @@ Thank you for your interest in Iowa City Community School District and for your 
 
 ### 1. Conveyance of an Interest in Real Property Public Hearing
 
-**Quick Summary / Abstract**
+<p class="agenda-label">Quick Summary / Abstract</p>
 
 Now is the time and place for the public hearing on the Conveyance of an Interest in Real Property, a parcel of land in Sec. 22, Twp. 78N., R 6 West of the 5th P.M., in the town of Hills, Iowa.  The board of directors set the date for this public hearing on March 10, 2026. Notice of the Public Hearing was published in the Iowa City Press Citizen on March 11, 2026.
 
@@ -85,11 +87,11 @@ Are there any questions from the Board?
 
 Are there any questions from the public?
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Curt Pratt, Chief Operating Officer
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Notice for Newspaper](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540020&MID=25493)
 - [Resolution_conveyance_of_Real_Property](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540021&MID=25493)
@@ -97,118 +99,118 @@ Curt Pratt, Chief Operating Officer
 
 ## F. Consent Agenda Approval
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Motion to approve the consent agenda items.
 
 ### 1. Approve Minutes of the March 10, 2026 Board Meeting
 
-**Meeting Minutes**
+<p class="agenda-label">Meeting Minutes</p>
 
 Meeting Minutes
 
 ### 2. Approve Minutes of the March 10, 2026 Board Closed Session Meeting
 
-**Meeting Minutes**
+<p class="agenda-label">Meeting Minutes</p>
 
 Meeting Minutes
 
 ### 3. Approve Minutes of the March 3, 2026 Special Board Meeting
 
-**Meeting Minutes**
+<p class="agenda-label">Meeting Minutes</p>
 
 Meeting Minutes
 
 ### 4. Personnel Agenda
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Nick Proud, Chief Human Resources Officer
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [March 24, 2026 Board Agenda - Board Docs](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=539761&MID=25493)
 
 ### 5. Open Enrollments
 
-**Quick Summary / Abstract**
+<p class="agenda-label">Quick Summary / Abstract</p>
 
 Open Enrollments 2025-26  and  2026-27
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Motion to approve OE recommendations
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Office of Teaching and Learning
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [3-24-2026  Board Meeting  OE  (25-26)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=539935&MID=25493)
 - [3-24-2026  Board Meeting  OE  (26-27)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=539936&MID=25493)
 
 ### 6. Iowa LGRP Program Participation Agreement
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Recommend to approve the Iowa Local Government Risk Pool Commission Program Participation Agreement for FY27.
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Curt Pratt, Chief Operating Officer
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Iowa City CSD FY27 Participation Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540019&MID=25493)
 
 ### 7. SDPA - Inflection Point Learning
 
-**Quick Summary / Abstract**
+<p class="agenda-label">Quick Summary / Abstract</p>
 
 A student data privacy agreement between the Iowa City Community School District and Inflection Point Learning. Inflection Point Learning is the parent company for Beast Academy Online. Beast Academy is a comprehensive, gamified math curriculum for students ages 8-13, created by the Art of Problem Solving. It features interactive, comic-book-style lessons, puzzles, and videos designed to challenge advanced learners, foster critical thinking, and build a strong foundation for future, advanced math studies.
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Consent
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Joshua Reynolds, Senior Technology & Innovations Manager
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Iowa_DPA_2026 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=539753&MID=25493)
 
 ### 8. 2026 Roof Replacement Projects – Revocation of Award
 
-**Quick Summary / Abstract**
+<p class="agenda-label">Quick Summary / Abstract</p>
 
 On 2/10/26, the District approved 3 roof replacement projects for the summer of 2026: Lucas ES, West HS, and Wickham ES/Southeast MS.  Due to financial constraints, we will no longer proceed with these projects.  Shive-Hattery has been notified, and no contracts were executed with the low bidders.
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Recommend revocation of the 2/10/26 approval of the roof replacement projects.
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Curt Pratt, Chief Operating Officer
 
-**Project Funding**
+<p class="agenda-label">Project Funding</p>
 
 These projects are funded by PPEL life cycle funds.
 
 ### 9. Appendix 9 Approval Requests and Project Updates
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Recommend approval of Appendix 9 approval requests.
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Curt Pratt, Chief Operating Officer
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Summary of Appendix 9 Approval Requests and Project Updates](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540023&MID=25493)
 - [City HS Baseball & Softball at Mercer Park](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540024&MID=25493)
@@ -218,15 +220,15 @@ Curt Pratt, Chief Operating Officer
 
 ### 10. Conflict Waiver Request - Conveyance of Real Property
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Approve the Conflict Waiver Request - Conveyance of Real Property
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Chace Ramey, Deputy Superintendent
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Conflict Waiver Letter to Iowa City CSD](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540552&MID=25493)
 
@@ -234,11 +236,11 @@ Chace Ramey, Deputy Superintendent
 
 ### 1. Accounts Payable
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Motion to approve consent agenda item 4 - Accounts Payables.
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Accounts Payable Summaries 20260317](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540009&MID=25493)
 - [3-17-26_BoardReport10003](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540010&MID=25493)
@@ -248,19 +250,19 @@ Motion to approve consent agenda item 4 - Accounts Payables.
 
 ## I. Policy Review
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Motion to review and adopt ...
 
 ### 1. 700 Policies - Noninstructional Operations & Business Services
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [700 Policies – Noninstructional Operations & Business Services](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=539786&MID=25493)
 
 ### 2. Policy 303.4 - Administrator Salary and Other Compensation
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [303.4 - Administrator Salary and Other Compensation](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=539302&MID=25493)
 - [303.4 - Administrator Salary and Other Compensation - Version 2](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540961&MID=25493)
@@ -268,7 +270,7 @@ Motion to review and adopt ...
 
 ### 3. Policy 200.3G4 -Financial Oversight Committee
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [200.3G4 - Financial Oversight Committee Charter](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=539304&MID=25493)
 
@@ -276,11 +278,11 @@ Motion to review and adopt ...
 
 ### 1. Interim Chief Financial Officer Report
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Kim Michael-Lee, Interim Chief Financial Officer
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Interim Chief Operating Officer Report - Summary of Progress as of March 20, 2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540694&MID=25493)
 - [Interim Chief Financial Officer Report - Summary of Progress as of 3.14.26](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540577&MID=25493)
@@ -290,7 +292,7 @@ Kim Michael-Lee, Interim Chief Financial Officer
 
 ### 2. Board Financial Leadership Update 
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Board Financial leadership Update](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540537&MID=25493)
 
@@ -298,7 +300,7 @@ Kim Michael-Lee, Interim Chief Financial Officer
 
 ### 4. Resolution Declaring April 2026 to be National Arab American Heritage Month
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Resolution Decalring April 2026 to be to be National Arab American Heritage Month](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540017&MID=25493)
 
@@ -306,21 +308,21 @@ Kim Michael-Lee, Interim Chief Financial Officer
 
 ### 1. Certified Budget Presentation
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Curt Pratt, Chief Operating Officer
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [FY27 Certified Budget Presentation - Mar 24 Board Meeting (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=541003&MID=25493)
 
 ### 2. Review of Capital Accounts and Borrowing Need
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Curt Pratt, Chief Operating Officer
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Capital Outlay Borrowing Need Memo](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540831&MID=25493)
 - [Capital Outlay & Anticipated Borrowing Strategy (2)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=541296&MID=25493)
@@ -329,17 +331,17 @@ Curt Pratt, Chief Operating Officer
 
 ### 1. Recommended Budget Reductions
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Recommend approval of the recommended budget reductions.
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Proposed Budet Actions  (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540598&MID=25493)
 
 ### 2. Audit Resolution
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Proposed audit resolution:
 
@@ -349,15 +351,15 @@ Motion to approve the audit resolution.
 
 ### 3. SBRC Exhibits
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Recommend approval of the SBRC exhibits.
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Curt Pratt, Chief Operating Officer
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [ICCSD Cover Letter 3.24.2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540693&MID=25493)
 - [Exhibit 2a & 2b - Exhibits & Narrative (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540846&MID=25493)
@@ -372,46 +374,46 @@ Curt Pratt, Chief Operating Officer
 
 ### 4. Budget Guarantee Resolution
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 RESOLVED, that the Board of Directors at Iowa City Community School District will levy property taxes for fiscal year 2026-2027 for the regular program budget adjustment as allowed under section 257.14, Code of Iowa.
 
 Motion to approve the budget guarantee resolution.
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Curt Pratt, Chief Operating Officer
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [FY27 Budget Guarantee Resolution](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=539246&MID=25493)
 
 ### 5. Resolution Authorizing Conveyance of Real Property, parcel of Land in Sec. 22, Twp. 78N., R. 6 West of the 5th P.M., in the Town of Hills, Iowa
 
-**Quick Summary / Abstract**
+<p class="agenda-label">Quick Summary / Abstract</p>
 
 Conveyance of Real Property, parcel of Land in Sec. 22, Twp. 78N., R. 6 West of the 5th P.M., in the Town of Hills, Iowa
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Recommend the approval of the resolution authorizing proposed conveyance of real property to the City of Hills, Iowa as presented.
 
-**Contact Person**
+<p class="agenda-label">Contact Person</p>
 
 Curt Pratt, Chief Operating Officer
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Second Resolution - 3.24.26 - Iowa city CSD (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=539244&MID=25493)
 - [ Affidavit and Resolution re Conveyance of Real Property - Iowa City CSD (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=539243&MID=25493)
 
 ### 6. Resolution Declaring April 2026 to be National Arab American Heritage Month
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Adopt resolution declaring April 2026 to be National Arab American Heritage Month
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [Resolution Decalring April 2026 to be to be National Arab American Heritage Month](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540018&MID=25493)
 
@@ -419,7 +421,7 @@ Adopt resolution declaring April 2026 to be National Arab American Heritage Mont
 
 ### 1. Legislative Update
 
-**Quick Summary / Abstract**
+<p class="agenda-label">Quick Summary / Abstract</p>
 
 Legisltive Forums
 
@@ -431,7 +433,7 @@ The forums will be held in the boardroom (Room 200) at the Educational Services 
 
 ### 2. Agenda Setting
 
-**Supporting Documents:**
+<p class="agenda-label">Supporting Documents</p>
 
 - [4.1.26 Board Work Session - DRAFT](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540039&MID=25493)
 - [4.14.26 Board Work Session Agenda - DRAFT](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540038&MID=25493)
@@ -439,7 +441,7 @@ The forums will be held in the boardroom (Room 200) at the Educational Services 
 
 ## N. Adjourn
 
-**Recommendation**
+<p class="agenda-label">Recommendation</p>
 
 Motion to adjourn the meeting
 
@@ -449,6 +451,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 25493](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25493). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:54 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:58 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

@@ -102,6 +102,9 @@ nav:
   - Chat with the Archive: chat-with-the-archive.md
   - About: about.md
 
+extra_css:
+  - stylesheets/extra.css
+
 extra:
   social:
     - icon: fontawesome/brands/github
