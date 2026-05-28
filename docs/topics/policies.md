@@ -1,17 +1,8 @@
 # Policies
 
-!!! warning "Draft — pending editorial review"
-
-    This page is auto-generated from keyword matches against the 2026
-    attachment index. It's a starting point, not a finished page.
-    Items below may be relevant or may be incidental keyword hits.
-    See [Methodology](../methodology.md) for the editorial standard.
-
-## Overview
-
 Board policy adoptions, revisions, and rescissions. ICCSD uses a multi-reading process; policy changes typically appear at the Policy & Governance Committee, then at one or more regular board meetings before final adoption.
 
-## Relevant meetings (2026)
+## 2026 meetings on this topic
 
 - **2026-05-26** — [Policy & Governance Committee - AMENDED AGENDA](../meetings/2026/2026-05-26-policy-governance-committee-amended-agenda.md)
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
@@ -31,7 +22,7 @@ Board policy adoptions, revisions, and rescissions. ICCSD uses a multi-reading p
 - **2026-01-27** — [Regular Meeting of the Board of Directors ](../meetings/2026/2026-01-27-regular-meeting-of-the-board-of-directors.md)
 - **2026-01-13** — [Regular Meeting of the Board of Directors](../meetings/2026/2026-01-13-regular-meeting-of-the-board-of-directors.md)
 
-## Relevant documents
+## 2026 documents on this topic
 
 Direct deep-links to specific supporting documents on the district portal.
 
@@ -90,9 +81,11 @@ _28 more matched documents not shown — browse the meetings above to see them i
 
 ## Open questions
 
+Questions worth digging into across the underlying records:
+
 - Which board policies have been amended or adopted in the past 12 months?
 - What policies are currently in the multi-reading pipeline?
 
 ---
 
-*Auto-generated draft on 2026-05-28 06:03 UTC. 17 matching meeting(s), 78 matching document(s) found by keyword search. Curated content will replace this list as the topic page is written.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:11 UTC.*

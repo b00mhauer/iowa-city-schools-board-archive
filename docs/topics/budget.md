@@ -1,17 +1,8 @@
 # Budget
 
-!!! warning "Draft — pending editorial review"
-
-    This page is auto-generated from keyword matches against the 2026
-    attachment index. It's a starting point, not a finished page.
-    Items below may be relevant or may be incidental keyword hits.
-    See [Methodology](../methodology.md) for the editorial standard.
-
-## Overview
-
 How ICCSD raises and spends money — annual budgets, property tax levies, audits, fund balances, and significant transfers. The Financial Oversight Committee meets monthly and most line items land in regular board meetings as consent-agenda approvals.
 
-## Relevant meetings (2026)
+## 2026 meetings on this topic
 
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
 - **2026-05-12** — [Regular Meeting of the Board of Directors](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md)
@@ -27,7 +18,7 @@ How ICCSD raises and spends money — annual budgets, property tax levies, audit
 - **2026-02-10** — [Regular Meeting of the Board of Directors - Amended Agenda](../meetings/2026/2026-02-10-regular-meeting-of-the-board-of-directors-amended-agenda.md)
 - **2026-01-13** — [Financial Oversight Committee](../meetings/2026/2026-01-13-financial-oversight-committee.md)
 
-## Relevant documents
+## 2026 documents on this topic
 
 Direct deep-links to specific supporting documents on the district portal.
 
@@ -86,10 +77,12 @@ _8 more matched documents not shown — browse the meetings above to see them in
 
 ## Open questions
 
+Questions worth digging into across the underlying records:
+
 - What is the multi-year trend in the general-fund balance and spending authority?
 - How has the property-tax levy moved year over year, and what drove the changes?
 - Where are the largest discretionary line items, and how have they shifted?
 
 ---
 
-*Auto-generated draft on 2026-05-28 06:03 UTC. 13 matching meeting(s), 58 matching document(s) found by keyword search. Curated content will replace this list as the topic page is written.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:11 UTC.*

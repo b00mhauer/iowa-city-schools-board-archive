@@ -1,21 +1,12 @@
 # Superintendent
 
-!!! warning "Draft — pending editorial review"
-
-    This page is auto-generated from keyword matches against the 2026
-    attachment index. It's a starting point, not a finished page.
-    Items below may be relevant or may be incidental keyword hits.
-    See [Methodology](../methodology.md) for the editorial standard.
-
-## Overview
-
 The superintendent's role, evaluation, and any transitions. This page collects discussions of the superintendent's performance, search and selection processes, contracts, and evaluations.
 
-## Relevant meetings (2026)
+## 2026 meetings on this topic
 
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
 
-## Relevant documents
+## 2026 documents on this topic
 
 Direct deep-links to specific supporting documents on the district portal.
 
@@ -24,9 +15,11 @@ Direct deep-links to specific supporting documents on the district portal.
 
 ## Open questions
 
+Questions worth digging into across the underlying records:
+
 - What is the current superintendent's contract and evaluation cycle?
 - Have there been recent leadership transitions, and what process was used to fill them?
 
 ---
 
-*Auto-generated draft on 2026-05-28 06:03 UTC. 1 matching meeting(s), 2 matching document(s) found by keyword search. Curated content will replace this list as the topic page is written.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:11 UTC.*

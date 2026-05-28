@@ -194,18 +194,9 @@ def build_topic_page(slug: str, spec: dict, attachments_data: dict,
     lines = [
         f"# {spec['title']}",
         "",
-        "!!! warning \"Draft — pending editorial review\"",
-        "",
-        "    This page is auto-generated from keyword matches against the 2026",
-        "    attachment index. It's a starting point, not a finished page.",
-        "    Items below may be relevant or may be incidental keyword hits.",
-        "    See [Methodology](../methodology.md) for the editorial standard.",
-        "",
-        "## Overview",
-        "",
         spec["intro"],
         "",
-        "## Relevant meetings (2026)",
+        "## 2026 meetings on this topic",
         "",
     ]
     if not meetings_sorted:
@@ -217,7 +208,7 @@ def build_topic_page(slug: str, spec: dict, attachments_data: dict,
             lines.append(f"- **{m['date']}** — [{m['title']}]({rel_path})")
     lines.extend([
         "",
-        "## Relevant documents",
+        "## 2026 documents on this topic",
         "",
         "Direct deep-links to specific supporting documents on the district portal.",
         "",
@@ -245,6 +236,8 @@ def build_topic_page(slug: str, spec: dict, attachments_data: dict,
         "",
         "## Open questions",
         "",
+        "Questions worth digging into across the underlying records:",
+        "",
     ])
     for q in spec["questions"]:
         lines.append(f"- {q}")
@@ -253,10 +246,12 @@ def build_topic_page(slug: str, spec: dict, attachments_data: dict,
         "",
         "---",
         "",
-        f"*Auto-generated draft on {generated_at}. "
-        f"{len(meetings_sorted)} matching meeting(s), "
-        f"{len(matched_attachments)} matching document(s) found by keyword search. "
-        f"Curated content will replace this list as the topic page is written.*",
+        f"*Meeting and document lists above are derived by keyword match "
+        f"against the 2026 attachment index "
+        f"([data/attachments_2026.json]"
+        f"(https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — "
+        f"so the lists update automatically as the archive expands. "
+        f"Page generated {generated_at}.*",
         "",
     ])
     return "\n".join(lines)
@@ -266,16 +261,14 @@ def build_topics_index(out_dir: Path) -> None:
     lines = [
         "# Topics",
         "",
-        "Topic pages stitch related decisions across many meetings. They are "
-        "the most editorial part of the archive — the maintainer's reading "
-        "of the record, with citations to every meeting and document so "
-        "claims can be checked.",
+        "Topic pages stitch related decisions across many meetings. Each "
+        "page leads with a neutral overview of the topic, then lists every "
+        "2026 meeting and supporting document that referenced it — with "
+        "direct deep-links back to the district portal.",
         "",
-        "!!! note \"Draft state\"",
-        "",
-        "    All topic pages are currently auto-generated drafts from a "
-        "keyword scan of 2026 meetings. Expect them to evolve substantially "
-        "as they are curated.",
+        "The meeting and document lists are derived programmatically from "
+        "the [2026 attachment index](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json) "
+        "by keyword match, so they stay in sync as the archive expands.",
         "",
         "## Current topics",
         "",

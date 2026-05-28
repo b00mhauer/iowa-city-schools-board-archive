@@ -1,27 +1,69 @@
+---
+title: Administrators
+---
+
 # Administrators
 
-!!! warning "Draft — pending editorial review"
+The senior administrative team that reports up to the Superintendent and,
+through the Superintendent, to the Board.
 
-    This page will list senior ICCSD administrators — superintendent,
-    deputy and associate superintendents, chief officers, and other
-    cabinet-level roles — with role, tenure, and any notable history
-    documented in board materials.
+Roster as published on the district's official
+[Meet Our Admin Team page](https://www.iowacityschools.org/our-district/meet-our-admin-team).
 
-## Source of truth
+!!! note "Leadership transition in progress"
 
-For the current organizational chart, see the district's
-[Leadership page](https://www.iowacityschools.org/) and recent board
-materials documenting any changes.
+    As of the May 2026 board meetings, the board is actively conducting an
+    **Interim Superintendent search** — see the
+    [2026-05-26 board meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
+    Discussion Items section for the search proposal and options comparison.
+    The district's public roster page has not yet been updated to reflect
+    any forthcoming transition, so the table below reflects the *currently
+    published* roster, not what may be in effect after the search concludes.
 
-## How this page will work
+## Cabinet
 
-For each senior administrator, this archive will surface:
+| Role | Name |
+|---|---|
+| **Superintendent** | Matt Degner |
+| **Deputy Superintendent** | Chace Ramey |
 
-- Role and reporting line
-- Date of appointment (and prior role at ICCSD, if any)
-- Board actions involving the role (contract approvals, evaluations, etc.)
-- Notable initiatives that the role has led, with links to the meetings
-  where they were presented
+## Executive Cabinet (reports to Superintendent)
 
-Past administrators will be listed below current ones, with the period of
-their service.
+| Role | Name |
+|---|---|
+| Chief Operating Officer | Curt Pratt |
+| Chief Human Resources Officer | Nick Proud |
+| Executive Director, Educational Services & Student Success | Laura Cottrell-Atekwana |
+| Executive Director, Elementary Schools | Eliza Proctor |
+| Executive Director, Secondary Schools | Lucas Ptacek |
+| Executive Director, Community Relations | Kristin Pedersen |
+
+## Directors
+
+| Role | Name |
+|---|---|
+| Director of Finance | Alan Moran |
+| Director of Student Services | Kate Hoffey |
+| Director of Curriculum, Instruction & Assessment | Carmen Gwenigale |
+| Director of District Activities | Tunisia May |
+| Director of Nutrition Services | Alison Demory |
+
+## Recent transitions tracked in board materials
+
+The board agendas surface administrative transitions before the district's
+public roster does. Items to know:
+
+- **New Chief Financial Officer** announced in district communications on
+  **April 1, 2026**. The district's admin-team page lists the Finance role
+  as "Director of Finance"; the title on board materials uses "Chief
+  Financial Officer." Either way, the position is staffed and a "CFO
+  Update" appears as a Discussion Item on the
+  [2026-05-26 meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md).
+- **Interim Superintendent search** is in progress as of May 2026.
+
+## Reporting a correction
+
+District-side updates are the source of truth. If the table above is stale,
+open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues)
+and the page will be re-synced from
+[the district's admin team page](https://www.iowacityschools.org/our-district/meet-our-admin-team).

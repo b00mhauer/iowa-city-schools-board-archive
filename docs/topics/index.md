@@ -1,10 +1,8 @@
 # Topics
 
-Topic pages stitch related decisions across many meetings. They are the most editorial part of the archive — the maintainer's reading of the record, with citations to every meeting and document so claims can be checked.
+Topic pages stitch related decisions across many meetings. Each page leads with a neutral overview of the topic, then lists every 2026 meeting and supporting document that referenced it — with direct deep-links back to the district portal.
 
-!!! note "Draft state"
-
-    All topic pages are currently auto-generated drafts from a keyword scan of 2026 meetings. Expect them to evolve substantially as they are curated.
+The meeting and document lists are derived programmatically from the [2026 attachment index](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json) by keyword match, so they stay in sync as the archive expands.
 
 ## Current topics
 
