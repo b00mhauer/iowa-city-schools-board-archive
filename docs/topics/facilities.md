@@ -2,6 +2,29 @@
 
 Buildings, land, and capital projects — new construction, renovations, property sales and purchases, leases, and the PPEL / SAVE funding streams that pay for them.
 
+## Three property sales in 2026
+
+ICCSD moved three district-owned properties through the statutory public-hearing-and-conveyance process during 2026, with the proceeds of each sale directed to the General Fund:
+
+- **Hills property** — 301 W. Main Street, Hills, Iowa.   Public hearing and proceeds-deposit resolution adopted at   the [May 26, 2026 board meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md).
+- **Educational Services Center (ESC)** — 1725 N. Dodge   Street, Iowa City. Hearing-date set at the   [April 14 meeting](../meetings/2026/2026-04-14-regular-meeting-of-the-board-of-directors.md);   conveyance public hearing and authorizing resolution   adopted at the   [April 28 meeting](../meetings/2026/2026-04-28-regular-meeting-of-the-board-of-directors-amended-agenda.md);   proceeds deposit confirmed at the May 26 meeting alongside   the Hills and Scanlon sales.
+- **Scanlon parcel** — ~42.4 acres of unimproved real estate   previously purchased from Scanlon Family, L.L.C. Public   hearing and proceeds-deposit resolution adopted at the   May 26 meeting.
+
+All three sales were part of the year's larger response to the district's [unfolding financial-management crisis](budget.md).
+
+## Capital projects in flight
+
+- **Facilities Master Plan (FMP) resolution** — Director   Lingo led drafting and the motion at the   [May 12, 2026 meeting](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md).   Tracked through Financial Oversight Committee as a project-  prioritization tool.
+- **West HS Auditorium Improvements** — multi-meeting capital   project referenced from the [Jan 27 meeting](../meetings/2026/2026-01-27-regular-meeting-of-the-board-of-directors.md)   onward.
+- **City HS Auditorium / Opstad Theater Lighting Upgrades**   — discussed at the [March 10 meeting](../meetings/2026/2026-03-10-regular-meeting-of-the-board-of-directors.md).
+- **Capital Projects Status Report** — recurring report at 8   of the 10 Financial Oversight + General meetings in 2026.
+- **Forevergreen Road easements** — Temporary Construction   Easement and Public Utilities Easement resolutions adopted   in stages across the [Jan 13](../meetings/2026/2026-01-13-regular-meeting-of-the-board-of-directors.md)   and [Jan 27](../meetings/2026/2026-01-27-regular-meeting-of-the-board-of-directors.md) meetings.
+
+## Funding streams
+
+ICCSD's capital work is funded primarily through PPEL (Physical Plant and Equipment Levy) and SAVE (Secure an Advanced Vision for Education / 1¢ statewide sales tax). Bonding capacity against these streams is a recurring discussion in Financial Oversight Committee, particularly around the FMP ranking work.
+
+
 ## 2026 meetings on this topic
 
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
@@ -38,6 +61,7 @@ Direct deep-links to specific supporting documents on the district portal.
 - **2026-05-12** — [800 Policies - Buildings and Sites](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568661&MID=29980) _(matched: building)_
 - **2026-05-12** — [DRAFT Facilities Master Plan Resolution - REVISED.docx](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569973&MID=29980) _(matched: facilities)_
 - **2026-05-12** — [800 Policies - Buildings and Sites](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568662&MID=29980) _(matched: building)_
+- **2026-05-12** — [City HS 2025 Opstad Theater Lighting](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568110&MID=29980) _(matched: Opstad)_
 - **2026-05-12** — [West HS Renovation Phase 3](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568112&MID=29980) _(matched: renovation)_
 - **2026-05-12** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568113&MID=29980) _(matched: capital project)_
 - **2026-05-12** — [5.12.26 Resolution Fixing Date of Hearings for Deposit](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569387&MID=29980) _(matched: property sale)_
@@ -52,34 +76,34 @@ Direct deep-links to specific supporting documents on the district portal.
 - **2026-04-28** — [Second Resolution - 4.28.26 - Iowa City](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=551595&MID=28495) _(matched: Dodge Street)_
 - **2026-04-28** — [Proposed Resolution on the Facilities Master Plan](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=551644&MID=28495) _(matched: facilities)_
 - **2026-04-28** — [800 Policies  Buildings & Sites](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=551090&MID=28495) _(matched: building)_
+- **2026-04-28** — [City HS 2025 Opstad Theater Lighting](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=551581&MID=28495) _(matched: Opstad)_
 - **2026-04-28** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=551583&MID=28495) _(matched: capital project)_
 - **2026-04-28** — [Affidavit of Publication 12237023](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=551591&MID=28495) _(matched: Dodge Street)_
 - **2026-04-28** — [Notice of Public Hearing to PC](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=551592&MID=28495) _(matched: Dodge Street)_
 - **2026-04-28** — [Frist Resolution 1725 N Dodge - Signed](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=551593&MID=28495) _(matched: Dodge Street)_
 - **2026-04-28** — [800 Policies  Buildings & Sites](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=551091&MID=29580) _(matched: building)_
+- **2026-04-14** — [City HS Auditorium Upgrades](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545697&MID=28493) _(matched: auditorium)_
 - **2026-04-14** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545702&MID=28493) _(matched: capital project)_
 - **2026-03-24** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540026&MID=25493) _(matched: capital project)_
 - **2026-03-10** — [Center for Innovation 2025 Building Renovation Dream Accelerator](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536130&MID=25492) _(matched: renovation, building)_
+- **2026-03-10** — [City HS Auditorium Upgrades 2025 Opstad Theater Lighting](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536131&MID=25492) _(matched: auditorium, Opstad)_
 - **2026-03-10** — [West HS Renovation - Phase 3](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536133&MID=25492) _(matched: renovation)_
 - **2026-03-10** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536134&MID=25492) _(matched: capital project)_
 - **2026-02-10** — [Center for Innovation 2025 Building Renovation Dream Accelerator](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=510768&MID=25489) _(matched: renovation, building)_
 - **2026-02-10** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=510776&MID=25489) _(matched: capital project)_
 - **2026-01-27** — [Temporary Construction Easement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=509308&MID=25486) _(matched: construction)_
 - **2026-01-27** — [Forevergreen Temporary Construction Easement Affidavit](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504281&MID=25486) _(matched: construction)_
-- **2026-01-27** — [Forevergreen Temporary Construction Easement Resolution 2](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504282&MID=25486) _(matched: construction)_
-- **2026-01-27** — [Proof of Publication](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504283&MID=25486) _(matched: construction)_
-- **2026-01-27** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504273&MID=25486) _(matched: capital project)_
-- **2026-01-27** — [DLR Group-Iowa City CSD-Kitchen Renovations-Proposal Letter](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504280&MID=25486) _(matched: renovation)_
 
-_7 more matched documents not shown — browse the meetings above to see them in context._
+_12 more matched documents not shown — browse the meetings above to see them in context._
 
 ## Open questions
 
 Questions worth digging into across the underlying records:
 
-- What major capital projects are underway or planned?
-- What district-owned properties have been sold, and where did the proceeds go?
+- What are the realized proceeds from each of the three 2026 property sales, and exactly how is each tranche being applied?
+- Where does the FMP project-ranking list currently stand, and which projects are funded vs. unfunded?
+- How has PPEL / SAVE bonding capacity moved over the past three years, and what's the headroom for the next capital cycle?
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:22 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:33 UTC.*

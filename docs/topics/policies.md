@@ -2,6 +2,29 @@
 
 Board policy adoptions, revisions, and rescissions. ICCSD uses a multi-reading process; policy changes typically appear at the Policy & Governance Committee, then at one or more regular board meetings before final adoption.
 
+## How policy work flows at ICCSD
+
+Policy work originates in the **Policy & Governance Committee** — chaired in 2026 by Director Mitch Lingo (he succeeded prior chair Director Lisa Williams in January). Draft language is iterated in committee, then brought to a regular board meeting for review, action, or tabling. Most policy changes touch multiple meetings before adoption.
+
+## 2026 policy adoptions
+
+- **Policy 200.3G4 — Financial Oversight Committee Charter.**   Adopted at the   [May 26, 2026 meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)   after several rounds in committee. Key changes: two   consistent board liaisons (rather than rotating), six   meetings/year cadence, narrowed audit-oversight scope to   *review and recommend approval* (rather than *review and   approval*).
+- **Policy 303.4 — Administrator Salary and Other   Compensation.** Adopted at the same May 26 meeting, after   sitting in committee since March.
+- **600-policy series** (curriculum / instruction). Adopted   at the [March 10 meeting](../meetings/2026/2026-03-10-regular-meeting-of-the-board-of-directors.md)   by a 5–2 vote — Directors Abraham and Finch voted no,   citing RAM class-size sizing concerns and impact on   teachers.
+
+## Tabled / in active review
+
+- **Policy 207 — Board of Directors Legal Counsel.** Tabled   at multiple meetings while the committee works out what   constitutes "significant cost" thresholds.
+- **Policy 303.2 — Administrator Qualifications,   Recruitment, and Appointment.** Tabled. This policy is   central to ongoing arguments about board involvement in   administrator hiring — see [Superintendent](superintendent.md).   Sticking point in committee: how many board members may   participate in interview committees, and at what   administrative levels (executive, executive director,   building-level).
+- **700-policy series — Noninstructional Operations &   Business Services.** Tabled at May 26 to incorporate 14 new   Policy Primers from the IASB and address fiscal-management   edits, internal-controls changes, and a three-year email-  retention provision.
+- **500-policy series — Students.** In active review (4   meetings referenced in 2026).
+- **900-policy series — School District-Community   Relations.** Small edits to designate Deputy Superintendent   / Chief Operating Officer roles; under review.
+
+## Policy Primers (IASB)
+
+ICCSD receives Policy Primers from the Iowa Association of School Boards as state and federal regulations change. The May 26 P&G readout referenced **14 new primers** in the 700 series alone, which is why the series was tabled rather than rushed.
+
+
 ## 2026 meetings on this topic
 
 - **2026-05-26** — [Policy & Governance Committee - AMENDED AGENDA](../meetings/2026/2026-05-26-policy-governance-committee-amended-agenda.md)
@@ -83,9 +106,10 @@ _28 more matched documents not shown — browse the meetings above to see them i
 
 Questions worth digging into across the underlying records:
 
-- Which board policies have been amended or adopted in the past 12 months?
-- What policies are currently in the multi-reading pipeline?
+- Which 700-series policies will land in the final adoption when the committee brings them back?
+- How will Policy 303.2 (administrator hiring) be amended given the May 2026 leadership-transition context, and will it apply retroactively?
+- What is the typical multi-reading timeline from first committee discussion to final board adoption?
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:22 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:33 UTC.*

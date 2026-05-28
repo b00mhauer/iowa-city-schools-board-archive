@@ -16,6 +16,14 @@ mid: 25493
 
 </div>
 
+## What happened
+
+**What happened.** The March 24 board meeting (held immediately following a Special Meeting / Budget Hearing on the proposed FY27 property-tax levy) ratified the **FY26-27 Budget Actions** by a **5–2 vote** — Directors Finch and Lingo voted no. Finch's stated reason on the record: 'I'm just still not seeing a clear effort to rebuild trust and acknowledge the seriousness of the situation by leadership.' Director Eastham explained his yes vote in the context of community members of color and their different relationship to district leadership accountability.
+
+**Other actions.** The Arab American Heritage Month resolution (originated by Director Finch and discussed at the March 10 meeting) was adopted unanimously. 51 supporting documents — the second-largest agenda of the year. Capital projects work continued. The earlier Special Meeting / Budget Hearing (separate meeting, same date) hosted the statutory public hearing on the proposed property-tax levy.
+
+---
+
 ## Watch & read
 
 - **[Meeting transcript](transcripts/2026-03-24-regular-meeting-board-of-directors-immediately-following-spe.md)** — machine-generated from the YouTube recording; timestamps link to the moment in the video.
@@ -458,6 +466,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 25493](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25493). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:23 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:33 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

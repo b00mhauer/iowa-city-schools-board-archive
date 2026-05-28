@@ -16,6 +16,14 @@ mid: 25492
 
 </div>
 
+## What happened
+
+**What happened.** The March 10 board meeting produced two notable split votes. First, the **600-policy series** (curriculum / instruction) was adopted **5–2**: Directors Abraham and Finch voted no, citing RAM (resource-allocation methodology) class-size sizing concerns and the impact on teachers — Abraham described 12 elementary classrooms at ≥30 students and 4 kindergartens at ≥24 as 'unsustainable.' Second, a motion to **table the FY26 budget reductions** carried **4–3** (Eastham, Finch, Lingo, Malone yes to tabling; Abraham, Horn-Frasier, Williams no). Director Finch's stated reason for the tabling vote: 'I really need to see what these adjustments are gonna be before I vote on these budget reductions.'
+
+**Other items.** Capital projects discussion covered West HS Auditorium Improvements and the City HS Auditorium / Opstad Theater Lighting Upgrades. Director Finch raised an Arab American Heritage Month resolution for later adoption. Discussion touched the restorative-practices framework Director Horn-Frasier has been advocating (relationships and trust as central to governance work). 30 supporting documents on this agenda — a meaty meeting.
+
+---
+
 ## Watch & read
 
 - **[Meeting transcript](transcripts/2026-03-10-regular-meeting-of-the-board-of-directors.md)** — machine-generated from the YouTube recording; timestamps link to the moment in the video.
@@ -420,6 +428,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 25492](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25492). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:23 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:33 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

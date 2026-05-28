@@ -16,6 +16,14 @@ mid: 25490
 
 </div>
 
+## What happened
+
+**What happened.** The February 24 meeting was the **first formal landing of the FY27 Certified Budget Update** and Proposed Budget Actions on the board's regular agenda. The FY27 Certified Budget Update document laid out the certified-budget process timeline (March 5: establish maximum tax rate; March 10: publish first hearing date; March 24: hold the first budget hearing). 22 supporting documents.
+
+**Context.** This was also the meeting where the board began to integrate the Audit RFP Recommendation from the February 17 Work Session into its ongoing financial-management response. Object Code Spending review for the meeting was attached for board scrutiny.
+
+---
+
 ## Watch & read
 
 - **[Meeting transcript](transcripts/2026-02-24-regular-meeting-of-the-board-of-directors-amended-agenda.md)** — machine-generated from the YouTube recording; timestamps link to the moment in the video.
@@ -336,6 +344,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 25490](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25490). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:23 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:33 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

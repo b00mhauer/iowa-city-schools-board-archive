@@ -171,17 +171,67 @@ TOPICS: dict[str, dict] = {
             "ESC", "Educational Services Center", "school sale",
             "property sale", "Hills property", "Dodge Street",
             "Scanlon", "lease", "real estate", "capital project",
-            "PPEL", "SAVE",
+            "PPEL", "SAVE", "FMP", "auditorium", "Opstad",
         ],
         "intro": (
             "Buildings, land, and capital projects — new construction, "
             "renovations, property sales and purchases, leases, and the "
             "PPEL / SAVE funding streams that pay for them."
         ),
+        "body": (
+            "## Three property sales in 2026\n\n"
+            "ICCSD moved three district-owned properties through the "
+            "statutory public-hearing-and-conveyance process during 2026, "
+            "with the proceeds of each sale directed to the General Fund:\n\n"
+            "- **Hills property** — 301 W. Main Street, Hills, Iowa. "
+            "  Public hearing and proceeds-deposit resolution adopted at "
+            "  the [May 26, 2026 board meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md).\n"
+            "- **Educational Services Center (ESC)** — 1725 N. Dodge "
+            "  Street, Iowa City. Hearing-date set at the "
+            "  [April 14 meeting](../meetings/2026/2026-04-14-regular-meeting-of-the-board-of-directors.md); "
+            "  conveyance public hearing and authorizing resolution "
+            "  adopted at the "
+            "  [April 28 meeting](../meetings/2026/2026-04-28-regular-meeting-of-the-board-of-directors-amended-agenda.md); "
+            "  proceeds deposit confirmed at the May 26 meeting alongside "
+            "  the Hills and Scanlon sales.\n"
+            "- **Scanlon parcel** — ~42.4 acres of unimproved real estate "
+            "  previously purchased from Scanlon Family, L.L.C. Public "
+            "  hearing and proceeds-deposit resolution adopted at the "
+            "  May 26 meeting.\n\n"
+            "All three sales were part of the year's larger response to "
+            "the district's [unfolding financial-management crisis](budget.md).\n\n"
+            "## Capital projects in flight\n\n"
+            "- **Facilities Master Plan (FMP) resolution** — Director "
+            "  Lingo led drafting and the motion at the "
+            "  [May 12, 2026 meeting](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md). "
+            "  Tracked through Financial Oversight Committee as a project-"
+            "  prioritization tool.\n"
+            "- **West HS Auditorium Improvements** — multi-meeting capital "
+            "  project referenced from the [Jan 27 meeting](../meetings/2026/2026-01-27-regular-meeting-of-the-board-of-directors.md) "
+            "  onward.\n"
+            "- **City HS Auditorium / Opstad Theater Lighting Upgrades** "
+            "  — discussed at the [March 10 meeting](../meetings/2026/2026-03-10-regular-meeting-of-the-board-of-directors.md).\n"
+            "- **Capital Projects Status Report** — recurring report at 8 "
+            "  of the 10 Financial Oversight + General meetings in 2026.\n"
+            "- **Forevergreen Road easements** — Temporary Construction "
+            "  Easement and Public Utilities Easement resolutions adopted "
+            "  in stages across the [Jan 13](../meetings/2026/2026-01-13-regular-meeting-of-the-board-of-directors.md) "
+            "  and [Jan 27](../meetings/2026/2026-01-27-regular-meeting-of-the-board-of-directors.md) meetings.\n\n"
+            "## Funding streams\n\n"
+            "ICCSD's capital work is funded primarily through PPEL "
+            "(Physical Plant and Equipment Levy) and SAVE (Secure an "
+            "Advanced Vision for Education / 1¢ statewide sales tax). "
+            "Bonding capacity against these streams is a recurring "
+            "discussion in Financial Oversight Committee, particularly "
+            "around the FMP ranking work.\n"
+        ),
         "questions": [
-            "What major capital projects are underway or planned?",
-            "What district-owned properties have been sold, and where did the "
-            "proceeds go?",
+            "What are the realized proceeds from each of the three 2026 "
+            "property sales, and exactly how is each tranche being applied?",
+            "Where does the FMP project-ranking list currently stand, and "
+            "which projects are funded vs. unfunded?",
+            "How has PPEL / SAVE bonding capacity moved over the past "
+            "three years, and what's the headroom for the next capital cycle?",
         ],
     },
     "policies": {
@@ -197,10 +247,68 @@ TOPICS: dict[str, dict] = {
             "Policy & Governance Committee, then at one or more regular board "
             "meetings before final adoption."
         ),
+        "body": (
+            "## How policy work flows at ICCSD\n\n"
+            "Policy work originates in the **Policy & Governance Committee** "
+            "— chaired in 2026 by Director Mitch Lingo (he succeeded prior "
+            "chair Director Lisa Williams in January). Draft language is "
+            "iterated in committee, then brought to a regular board meeting "
+            "for review, action, or tabling. Most policy changes touch "
+            "multiple meetings before adoption.\n\n"
+            "## 2026 policy adoptions\n\n"
+            "- **Policy 200.3G4 — Financial Oversight Committee Charter.** "
+            "  Adopted at the "
+            "  [May 26, 2026 meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md) "
+            "  after several rounds in committee. Key changes: two "
+            "  consistent board liaisons (rather than rotating), six "
+            "  meetings/year cadence, narrowed audit-oversight scope to "
+            "  *review and recommend approval* (rather than *review and "
+            "  approval*).\n"
+            "- **Policy 303.4 — Administrator Salary and Other "
+            "  Compensation.** Adopted at the same May 26 meeting, after "
+            "  sitting in committee since March.\n"
+            "- **600-policy series** (curriculum / instruction). Adopted "
+            "  at the [March 10 meeting](../meetings/2026/2026-03-10-regular-meeting-of-the-board-of-directors.md) "
+            "  by a 5–2 vote — Directors Abraham and Finch voted no, "
+            "  citing RAM class-size sizing concerns and impact on "
+            "  teachers.\n\n"
+            "## Tabled / in active review\n\n"
+            "- **Policy 207 — Board of Directors Legal Counsel.** Tabled "
+            "  at multiple meetings while the committee works out what "
+            "  constitutes \"significant cost\" thresholds.\n"
+            "- **Policy 303.2 — Administrator Qualifications, "
+            "  Recruitment, and Appointment.** Tabled. This policy is "
+            "  central to ongoing arguments about board involvement in "
+            "  administrator hiring — see [Superintendent](superintendent.md). "
+            "  Sticking point in committee: how many board members may "
+            "  participate in interview committees, and at what "
+            "  administrative levels (executive, executive director, "
+            "  building-level).\n"
+            "- **700-policy series — Noninstructional Operations & "
+            "  Business Services.** Tabled at May 26 to incorporate 14 new "
+            "  Policy Primers from the IASB and address fiscal-management "
+            "  edits, internal-controls changes, and a three-year email-"
+            "  retention provision.\n"
+            "- **500-policy series — Students.** In active review (4 "
+            "  meetings referenced in 2026).\n"
+            "- **900-policy series — School District-Community "
+            "  Relations.** Small edits to designate Deputy Superintendent "
+            "  / Chief Operating Officer roles; under review.\n\n"
+            "## Policy Primers (IASB)\n\n"
+            "ICCSD receives Policy Primers from the Iowa Association of "
+            "School Boards as state and federal regulations change. The "
+            "May 26 P&G readout referenced **14 new primers** in the 700 "
+            "series alone, which is why the series was tabled rather than "
+            "rushed.\n"
+        ),
         "questions": [
-            "Which board policies have been amended or adopted in the past "
-            "12 months?",
-            "What policies are currently in the multi-reading pipeline?",
+            "Which 700-series policies will land in the final adoption when "
+            "the committee brings them back?",
+            "How will Policy 303.2 (administrator hiring) be amended given "
+            "the May 2026 leadership-transition context, and will it apply "
+            "retroactively?",
+            "What is the typical multi-reading timeline from first committee "
+            "discussion to final board adoption?",
         ],
     },
     "boundaries": {
@@ -215,11 +323,44 @@ TOPICS: dict[str, dict] = {
             "every regular board meeting as routine consent-agenda items; "
             "boundary changes themselves are rarer and more consequential."
         ),
+        "body": (
+            "## Open enrollment in 2026\n\n"
+            "Open-enrollment approvals appear on nearly every 2026 "
+            "regular board meeting consent agenda — one or two batches "
+            "per meeting covering both the in-progress school year "
+            "(25-26) and the upcoming year (26-27). These are routine "
+            "approvals of individual student transfer requests; the board "
+            "does not typically discuss them on the record beyond the "
+            "consent-agenda motion.\n\n"
+            "Representative recent batches:\n\n"
+            "- *5-26-2026 Board Meeting OE (25-26)* and *5-26-2026 Board "
+            "  Meeting OE (26-27)* — adopted at the "
+            "  [May 26, 2026 meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md) "
+            "  as Consent Agenda item 7.\n"
+            "- Similar batches appear in every prior 2026 regular meeting "
+            "  on the [meeting index](../meetings/2026/index.md).\n\n"
+            "## Attendance-area boundary changes\n\n"
+            "**No district-wide attendance-area boundary changes have "
+            "appeared on the 2026 board agendas reviewed.** Boundary "
+            "shifts in ICCSD are rare events that typically require "
+            "multi-meeting deliberation and community engagement, and "
+            "none reached the public agenda during 2026.\n\n"
+            "Several public commenters at recent meetings have raised "
+            "**potential school closures** in connection with the "
+            "district's [financial crisis](budget.md) — for example, the "
+            "May 26 public-comment period included direct questions about "
+            "how many schools might need to close. Those are speakers' "
+            "framings of what may be coming, not formal board actions on "
+            "the record yet.\n"
+        ),
         "questions": [
-            "When were the current attendance boundaries last revised, and "
-            "what drove the change?",
-            "How does the open-enrollment process work, and what are typical "
-            "approval/denial patterns?",
+            "When was the last district-wide attendance-area review, and "
+            "what's the trigger threshold for the next one?",
+            "If school closures do come onto the agenda as a financial-"
+            "crisis response, what process will the board use, and what "
+            "community engagement is required?",
+            "What are the recent open-enrollment approval/denial rates, "
+            "and which schools are net-receivers vs. net-senders?",
         ],
     },
 }

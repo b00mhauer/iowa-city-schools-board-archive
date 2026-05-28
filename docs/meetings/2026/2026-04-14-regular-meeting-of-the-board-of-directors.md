@@ -16,6 +16,14 @@ mid: 28493
 
 </div>
 
+## What happened
+
+**What happened.** A 74-document agenda — the largest single regular meeting agenda of 2026. Two procedural items dominated the action portion: (1) **Director Eastham was the sole nay vote** on the consent agenda (minus item 15) — a 6–1 split — based on a question about that item's content; (2) Director Lingo pulled **item 15** for separate discussion, raising questions about a $3.2 million property valuation. Director Williams flagged ISU's cybersecurity center FEMA-funded resilience exercises as a potentially useful resource for the district.
+
+**Set the table for property sales.** The board set the date of April 28, 2026, at 6:00 PM for a Public Hearing on the conveyance of an interest in real property at 1725 N. Dodge Street (the ESC). This was the procedural step that led directly to the April 28 hearing and authorization, and on to the May 26 proceeds-deposit resolution.
+
+---
+
 ## Watch & read
 
 - **[Meeting transcript](transcripts/2026-04-14-regular-meeting-of-the-board-of-directors.md)** — machine-generated from the YouTube recording; timestamps link to the moment in the video.
@@ -610,6 +618,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 28493](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=28493). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:23 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:33 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

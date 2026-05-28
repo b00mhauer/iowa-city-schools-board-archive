@@ -2,6 +2,22 @@
 
 School attendance areas, boundary changes, and open-enrollment decisions. ICCSD's open-enrollment line items appear in nearly every regular board meeting as routine consent-agenda items; boundary changes themselves are rarer and more consequential.
 
+## Open enrollment in 2026
+
+Open-enrollment approvals appear on nearly every 2026 regular board meeting consent agenda — one or two batches per meeting covering both the in-progress school year (25-26) and the upcoming year (26-27). These are routine approvals of individual student transfer requests; the board does not typically discuss them on the record beyond the consent-agenda motion.
+
+Representative recent batches:
+
+- *5-26-2026 Board Meeting OE (25-26)* and *5-26-2026 Board   Meeting OE (26-27)* — adopted at the   [May 26, 2026 meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)   as Consent Agenda item 7.
+- Similar batches appear in every prior 2026 regular meeting   on the [meeting index](../meetings/2026/index.md).
+
+## Attendance-area boundary changes
+
+**No district-wide attendance-area boundary changes have appeared on the 2026 board agendas reviewed.** Boundary shifts in ICCSD are rare events that typically require multi-meeting deliberation and community engagement, and none reached the public agenda during 2026.
+
+Several public commenters at recent meetings have raised **potential school closures** in connection with the district's [financial crisis](budget.md) — for example, the May 26 public-comment period included direct questions about how many schools might need to close. Those are speakers' framings of what may be coming, not formal board actions on the record yet.
+
+
 ## 2026 meetings on this topic
 
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
@@ -42,9 +58,10 @@ Direct deep-links to specific supporting documents on the district portal.
 
 Questions worth digging into across the underlying records:
 
-- When were the current attendance boundaries last revised, and what drove the change?
-- How does the open-enrollment process work, and what are typical approval/denial patterns?
+- When was the last district-wide attendance-area review, and what's the trigger threshold for the next one?
+- If school closures do come onto the agenda as a financial-crisis response, what process will the board use, and what community engagement is required?
+- What are the recent open-enrollment approval/denial rates, and which schools are net-receivers vs. net-senders?
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:22 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:33 UTC.*
