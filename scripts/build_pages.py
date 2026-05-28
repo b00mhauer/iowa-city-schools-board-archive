@@ -257,12 +257,76 @@ def load_summaries(path: Path) -> dict[int, str]:
     return {int(k): v for k, v in raw.items() if v}
 
 
+def render_supporting_docs(attachments: list[dict]) -> str:
+    """Render the supporting-documents list grouped by agenda item.
+
+    Each attachment record has `section` (e.g. "E.01"), `item_title`
+    (e.g. "1. Resolution on the Proposed Deposit..."), `title` (the
+    document's own title), and `url` (the direct district deep-link).
+
+    We group by section.item_title — items with multiple attached PDFs
+    show as a single subsection with a bulleted list; single-attachment
+    items still render as a labeled subsection so the agenda context is
+    preserved.
+    """
+    if not attachments:
+        return ""
+
+    # Sort by section then by an implicit attachment order
+    sorted_atts = sorted(attachments, key=lambda a: (a.get("section", ""),))
+
+    # Group by (section, item_title) tuple, preserving order
+    groups: list[tuple[str, str, list[dict]]] = []
+    by_key: dict[tuple[str, str], list[dict]] = {}
+    for a in sorted_atts:
+        key = (a.get("section", ""), a.get("item_title", "") or "(no item title)")
+        if key not in by_key:
+            by_key[key] = []
+            groups.append((key[0], key[1], by_key[key]))
+        by_key[key].append(a)
+
+    out = ["## Supporting documents", ""]
+    out.append(
+        f"{len(attachments)} document"
+        f"{'s' if len(attachments) != 1 else ''} attached to this meeting on "
+        f"the district portal, grouped by agenda item. Click any title to "
+        f"open the PDF directly."
+    )
+    out.append("")
+    for section, item_title, atts in groups:
+        # Trim leading numbers/punctuation from item title for cleaner display
+        clean_title = re.sub(r"^\s*\d+\.?\s*", "", item_title).strip()
+        if not clean_title:
+            clean_title = item_title
+        out.append(f"### {clean_title}")
+        out.append("")
+        for a in atts:
+            out.append(f"- [{a['title']}]({a['url']})")
+        out.append("")
+    return "\n".join(out)
+
+
 def render_meeting_page(meeting_record: dict, agenda_md: str | None,
                         meeting_type: str, generated_at: str,
                         out_dir: Path, slug: str,
                         corpus_root: Path,
                         summary: str | None = None) -> tuple[str, dict]:
-    """Compose the full markdown page for one meeting."""
+    """Compose the full markdown page for one meeting.
+
+    Page body for a meeting:
+      1. Frontmatter
+      2. H1 title
+      3. Metadata card (date, type, source URL)
+      4. "What happened" editorial summary if curated
+      5. Watch & read on source — YouTube + district portal links
+      6. Supporting documents grouped by agenda item
+      7. About-this-page footer
+
+    The verbose section-by-section agenda body is intentionally NOT
+    included here — readers who want the district's own agenda follow
+    the portal link in step 5. The agenda markdown is preserved in
+    /corpus/agendas/ for AI ingestion.
+    """
     mid = meeting_record["mid"]
     title = meeting_record["title"]
     title_dt = meeting_record["title_datetime"]
@@ -337,11 +401,19 @@ def render_meeting_page(meeting_record: dict, agenda_md: str | None,
         header.append("---")
         header.append("")
 
+    # The agenda body itself is no longer published on the website — it
+    # was a verbose district-formatted document that read as a dump
+    # rather than a synthesized page. Readers who want it follow the
+    # "Full agenda on district portal" link above. (The agenda markdown
+    # is preserved in /corpus/agendas/ for AI ingestion.)
     stats = {"replaced": 0, "missed": 0}
-    if agenda_md is not None:
-        body, stats = transform_agenda(agenda_md, meeting_record, mid)
-    else:
-        body = _stub_body(meeting_record)
+    body = render_supporting_docs(meeting_record.get("attachments", []))
+    if not body:
+        body = (
+            "_No supporting documents were attached to this meeting on "
+            "the district portal. See the official meeting page for any "
+            "minutes or motions published after the fact._"
+        )
 
     footer_lines = [
         "",
@@ -499,6 +571,11 @@ def main() -> int:
     args = ap.parse_args()
 
     args.out.mkdir(parents=True, exist_ok=True)
+    # Mirror agenda.md content into /corpus/agendas/ so it's preserved
+    # in the repo for AI ingestion even though it's no longer on the site.
+    corpus_root = args.corpus_root or Path("corpus")
+    agendas_corpus = corpus_root / "agendas" / str(args.year)
+    agendas_corpus.mkdir(parents=True, exist_ok=True)
 
     attachments_data = load_json(args.attachments)
     all_meetings = load_json(args.meetings_json)
@@ -533,6 +610,11 @@ def main() -> int:
             local_entry["agenda_path"].read_text(encoding="utf-8")
             if local_entry else None
         )
+        # Mirror raw agenda content to corpus (AI ingestion); not used
+        # by the rendered page itself.
+        if agenda_md is not None:
+            agenda_corpus_path = agendas_corpus / f"{date_str}-{slugify(rec['title'])}.md"
+            agenda_corpus_path.write_text(agenda_md, encoding="utf-8")
 
         slug = slugify(rec["title"])
         page_md, stats = render_meeting_page(

@@ -22,13 +22,11 @@ mid: 29488
 - **[Full agenda + supporting documents on the district portal](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=29488)** — every attached PDF lives there. Direct deep-links to specific documents are listed on this page below.
 
 ---
-## A. Call to Order
+## Supporting documents
 
-## B. Discussion Items
+13 documents attached to this meeting on the district portal, grouped by agenda item. Click any title to open the PDF directly.
 
-### 1. Policy 200.3G4 - Financial Oversight Committee Charter
-
-<p class="agenda-label">Supporting Documents</p>
+### Policy 200.3G4 - Financial Oversight Committee Charter
 
 - [200.3G4 - Financial Oversight Committee Charter](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546160&MID=29488)
 - [ICCSD Financial Oversight Charter Proposal_2026 04 01](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546818&MID=29488)
@@ -41,25 +39,17 @@ mid: 29488
 - [Waterloo committee structure](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546804&MID=29488)
 - [Waukee](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546803&MID=29488)
 
-### 2. Policy 208.R1 - Board Committees Regulation
-
-<p class="agenda-label">Supporting Documents</p>
+### Policy 208.R1 - Board Committees Regulation
 
 - [208.R1 - Board Committees - Regulation _](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546159&MID=29488)
 
-### 3. Board Financial Leadership Update
-
-<p class="agenda-label">Supporting Documents</p>
+### Board Financial Leadership Update
 
 - [Board Financial Leadership Update](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546830&MID=29488)
 
-### 4. 700 Policies - Noninstructional Operations & Business Services
-
-<p class="agenda-label">Supporting Documents</p>
+### 700 Policies - Noninstructional Operations & Business Services
 
 - [700 Policies – Noninstructional Operations & Business Services](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546800&MID=29488)
-
-## C. Adjourn
 
 ---
 
@@ -67,6 +57,6 @@ mid: 29488
 
 Agenda content carried through from the district's published materials for [MID 29488](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=29488). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:39 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:46 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

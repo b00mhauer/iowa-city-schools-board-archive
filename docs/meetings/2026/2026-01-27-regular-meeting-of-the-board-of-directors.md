@@ -18,7 +18,7 @@ mid: 25486
 
 ## What happened
 
-**What happened.** A 33-document January follow-up meeting. Action items continued the Forevergreen Road land-use work begun at the January 13 meeting: Temporary Construction Easement Resolutions 1 and 2, Public Utilities Easement Resolution 1, Utilities Agreement Resolution 2, and a Utilities Agreement Affidavit. The board also adopted a **Resolution Approving Interfund Loan** for ICCSD — a financial mechanism the district used to manage cash flow.
+A 33-document January follow-up meeting. Action items continued the Forevergreen Road land-use work begun at the January 13 meeting: Temporary Construction Easement Resolutions 1 and 2, Public Utilities Easement Resolution 1, Utilities Agreement Resolution 2, and a Utilities Agreement Affidavit. The board also adopted a **Resolution Approving Interfund Loan** for ICCSD — a financial mechanism the district used to manage cash flow.
 
 **Committee leadership transitions.** Director Lisa Williams handed off the Policy & Governance Committee chairmanship to Director Mitch Lingo at this meeting's P&G session, completing the committee-chair slate for the year (Lingo also chairs FOC; Horn-Frasier chairs Education). Capital projects work included a discussion of West HS Auditorium Improvements.
 
@@ -30,291 +30,43 @@ mid: 25486
 - **[Full agenda + supporting documents on the district portal](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25486)** — every attached PDF lives there. Direct deep-links to specific documents are listed on this page below.
 
 ---
-## A. Call to Order
+## Supporting documents
 
-## B. Welcome
+33 documents attached to this meeting on the district portal, grouped by agenda item. Click any title to open the PDF directly.
 
-<p class="agenda-label">Summary</p>
-
-The public is reminded that if they wish to speak, they need to complete a speaker form found at the table in the back of the room and turn it in. During community comment persons may speak to the Board about topics relevant to the district.  All community comment, directed at non agenda items and agenda items, shall take place at the beginning of the meeting during the Community Comment section of the agenda.
-
-Board Norms
-
-As members of the Iowa City Community School District Board of Directors, our commitment is to implement and follow our operating set of Board Norms.
-
-We will foster open, honest, and transparent communication.
-
-We will listen with the goal of understanding.
-
-We will act in good faith and assume positive intent, with a focus on the best interest of students.
-
-We will model the behavior and values we wish to see in students and staff.
-
-We will be prepared for discussion on agenda topics.
-
-We will embrace our roles as mentors and mentees.
-
-We will be accountable to the public, especially to our students.
-
-## C. Agenda Approval
-
-<p class="agenda-label">Recommendation</p>
-
-Approve the agenda as presented.
-
-### 1. Approve January 27,2026 Board Meeting Agenda
-
-<p class="agenda-label">Recommendation</p>
-
-Motion to approve the January 27, 2026 board meeting agenda.
-
-## D. Public Forum
-
-### 1. Education Showcase
-
-<p class="agenda-label">Quick Summary / Abstract</p>
-
-Garner Elementary Orff Club Performance
-
-Travis Dyer, Garner Principal
-
-Nathan Kelley
-
-Garner 4th & 5th grade students
-
-### 2. GWAEA Awards Presentation
-
-### 3. Community Comment
-
-<p class="agenda-label">Quick Summary / Abstract</p>
-
-Thank you for your interest in Iowa City Community School District and for your willingness to share your comments. You are reminded to give your name, address, and topic on which you would like to speak. During community comment, persons may speak to the Board about topics relevant to the district. Speakers who make comments are reminded they are responsible for their own statements and may be subject to legal action for those which are threatening, harassing, or defamatory in nature. It is expected that speakers will address the board and each other with civility and abide by the stated time limits. All community comment, directed at non-agenda items and agenda items, shall take place at the beginning of the meeting and shall be limited to 4 minutes per speaker. The initial community comment period shall be limited to 1 hour. Remaining community comment, to the extent necessary, shall take place at the end of the meeting. The board will not engage in any discussion during public comment. The role of the board during this time is to listen.
-
-## E. Public Hearings
-
-### 1. 2026 Wickham Elementary School and Southeast Middle School Roof Replacement Project Public Hearing
-
-<p class="agenda-label">Contact Person</p>
-
-Curt Pratt, Chief Operating Officer
-
-<p class="agenda-label">Description</p>
-
-Now is the time and place for the public hearing on the proposed plans and specifications for the 2026 Wickham Elementary School and Southeast Middle School Roof Replacement Project. The Board of Directors set the date for this public hearing on January 13, 2026. Notice of Public Hearing was published in the Iowa City Press-Citizen on January 14, 2026. The District will receive bids on this project at 2:30 PM on January 29, 2026, at the Facilities Management Conference Center, 1137 S Riverside Drive, Iowa City, Iowa. Notice to Contractors was published as required by law in multiple statewide  plan rooms and on the Iowa City Community School District website on January 14, 2026.
-
- 
-
-Are there any questions from the Board?
-
- 
-
-Are there any questions from the public?
-
-### 2. 2026 West High School Roof Replacement Project Public Hearing
-
-<p class="agenda-label">Contact Person</p>
-
-Curt Pratt, Chief Operating Officer
-
-<p class="agenda-label">Description</p>
-
-Now is the time and place for the public hearing on the proposed plans and specifications for the 2026 West High School Roof Replacement Project. The Board of Directors set the date for this public hearing on January 13, 2026. Notice of Public Hearing was published in the Iowa City Press-Citizen on January 14, 2026. The District will receive bids on this project at 1:30 PM on January 29, 2026, at the Facilities Management Conference Center, 1137 S Riverside Drive, Iowa City, Iowa. Notice to Contractors was published as required by law in multiple statewide  plan rooms and on the Iowa City Community School District website on January 14, 2026.
-
- 
-
-Are there any questions from the Board?
-
- 
-
-Are there any questions from the public?
-
-### 3. West HS Track & Turf Improvements, Public Hearing
-
-<p class="agenda-label">Contact Person</p>
-
-Curt Pratt, Chief Operating Officer
-
-<p class="agenda-label">Description</p>
-
-Now is the time and place for the public hearing on the proposed plans and specifications for the 2026 West HS Track & Turf Improvements Project. The Board of Directors set the date for this public hearing on January 13, 2026. Notice of Public Hearing was published in the Iowa City Press-Citizen on January 14, 2026. The District will receive bids on this project at 2:00 PM February 10, 2026, at the Facilities Management Conference Center, 1137 S Riverside Drive, Iowa City, Iowa. Notice to Contractors was published as required by law in multiple statewide  plan rooms and on the Iowa City Community School District website on January 14, 2026.
-
-Are there any questions from the Board?
-
-Are there any questions from the public?
-
-### 4. 2026 Lucas Elementary School Roof Replacement Project Public Hearing
-
-<p class="agenda-label">Contact Person</p>
-
-Curt Pratt, Chief Operating Officer
-
-<p class="agenda-label">Description</p>
-
-Now is the time and place for the public hearing on the proposed plans and specifications for the 2026 Lucas Elementary School Roof Replacement Project. The Board of Directors set the date for this public hearing on January 13, 2026. Notice of Public Hearing was published in the Iowa City Press-Citizen on January 14, 2026. The District will receive bids on this project at 2:00 PM January 29, 2026, at the Facilities Management Conference Center, 1137 S Riverside Drive, Iowa City, Iowa. Notice to Contractors was published as required by law in multiple statewide  plan rooms and on the Iowa City Community School District website on January 14, 2026.
-
-Are there any questions from the Board?
-
-Are there any questions from the public?
-
-### 5. Forevergreen Road Expansion Phase 1 Van Allen ES Temporary Construction Easement Public Hearing
-
-<p class="agenda-label">Quick Summary / Abstract</p>
-
-Now is the time and place for the public hearing on the Forevergreen Road Expansion Phase 1 Van Allen ES Temporary Construction Easement.  The Board of Directors set the date for this public hearing on January 13, 2026.  Notice of the Public Hearing was published in the Iowa City Press Citizen on January 14, 2026.
-
-Are there any questions from the Board?
-
-Are there any questions from the public?
-
-<p class="agenda-label">Contact Person</p>
-
-Curt Pratt, Chief Operating Officer
-
-<p class="agenda-label">Supporting Documents</p>
+### Forevergreen Road Expansion Phase 1 Van Allen ES Temporary Construction Easement Public Hearing
 
 - [Temporary Construction Easement Proof of Publication](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504291&MID=25486)
 - [Forevergreen Rd. Temporary Construction Easement Resolution 1](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504292&MID=25486)
 
-### 6. Forevergreen Road Expansion Phase 1 Van Allen ES Temporary Public Utilities Easement Public Hearing
-
-<p class="agenda-label">Quick Summary / Abstract</p>
-
-Now is the time and place for the public hearing on the Forevergreen Road Expansion Phase 1 Van Allen ES Temporary Public Utilities Easement.  The Board of Directors set the date for this public hearing on January 13, 2026.  Notice of the Public Hearing was published in the Iowa City Press Citizen on January 14, 2026.
-
-Are there any questions from the Board?
-
-Are there any questions from the public?
-
-<p class="agenda-label">Contact Person</p>
-
-Curt Pratt, Chief Operating Officer
-
-<p class="agenda-label">Supporting Documents</p>
+### Forevergreen Road Expansion Phase 1 Van Allen ES Temporary Public Utilities Easement Public Hearing
 
 - [Utility Easement - Proof of Publication](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504289&MID=25486)
 - [Forevergreen Rd. Public Utilities Easement Resolution 1](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504290&MID=25486)
 
-## F. Consent Agenda Approval
-
-<p class="agenda-label">Recommendation</p>
-
-Recommendation to approve the following consent items:
-
-### 1. Minutes of the January 13, 2026 Regular Board Meeting 
-
-<p class="agenda-label">Meeting Minutes</p>
-
-Meeting Minutes
-
-### 2. Accounts Payable  Items
-
-<p class="agenda-label">Quick Summary / Abstract</p>
-
-Accounts Payble  Items
-
-<p class="agenda-label">Recommendation</p>
-
-Consent Agenda:  Approval of Accounts Payable items.
-
-<p class="agenda-label">Contact Person</p>
-
-Curt Pratt, Chief Operating Officer
-
-Alan Moran, Director of Finance
-
-<p class="agenda-label">Supporting Documents</p>
+### Accounts Payable  Items
 
 - [Accounts_Payable_Summaries - 20260120](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=503858&MID=25486)
 - [1-13-26BoardReport10003](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=503859&MID=25486)
 - [1-20-26BoardReport10003](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=503860&MID=25486)
 
-### 3. Personnel Agenda 1.27.2026
-
-<p class="agenda-label">Quick Summary / Abstract</p>
-
-Personnel Agenda 1.27.2026
-
-<p class="agenda-label">Contact Person</p>
-
-Nick Proud, Chief Human Resources Officer
-
-<p class="agenda-label">Supporting Documents</p>
+### Personnel Agenda 1.27.2026
 
 - [January 27, 2026 Board Agenda - Google Sheets](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504046&MID=25486)
 
-### 4. Open Enrollments
-
-<p class="agenda-label">Quick Summary / Abstract</p>
-
-Open Enrollments 25-26
-
-<p class="agenda-label">Recommendation</p>
-
-RECOMMENDED ACTION= Motion to approve OE recommendations
-
-<p class="agenda-label">Contact Person</p>
-
-Office of Teaching and Learning
-
-<p class="agenda-label">Supporting Documents</p>
+### Open Enrollments
 
 - [1-27-2026  Board Meeting  OE (25-26)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=503791&MID=25486)
 
-### 5. SDPA - Accredible
-
-<p class="agenda-label">Quick Summary / Abstract</p>
-
-The attached document is a student data privacy agreement between EdInvent, Inc (Accredible) and Iowa City Community School District. Accredible is a digital badging and certification platform.  Accredible helps schools issue secure, verifiable certificates for achievements and course completion, which students can showcase to colleges and employers.  Platforms facilitate the attainment of industry-recognized digital credentials that connect classroom achievement to career opportunities, helping students demonstrate proficiency in areas such as computer science, business, and technical trades.  These platforms empower students to track their achievements over time, build portfolios of skills, and increase engagement through recognition of both academic and career-oriented competencies.  Accredible underpins Iowa’s strategy for improving K-12 student outcomes by validating skills and competencies, supporting CTE objectives, and providing students with portable, employer-recognized records of achievement.
-
-<p class="agenda-label">Recommendation</p>
-
-Consent Agenda Item: Approve Student Data Privacy Agreement between EdInvent, Inc (Accredible) and Iowa City Community School District.
-
-<p class="agenda-label">Contact Person</p>
-
-Joshua Reynolds, Technology and Innovation Manager
-
-<p class="agenda-label">Supporting Documents</p>
+### SDPA - Accredible
 
 - [IowaSDPA[25]Accredible 12152025 FINAL](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=503790&MID=25486)
 
-### 6. Grant Wood Kitchen Remodel – Design Proposal
-
-<p class="agenda-label">Recommendation</p>
-
-The District recommends approval of the design proposal with DLR Group in the amount of $22,500.
-
-<p class="agenda-label">Contact Person</p>
-
-Curt Pratt, Chief Operating Officer
-
-<p class="agenda-label">Description</p>
-
-The District requested design proposals to remodel the Grant Wood Elementary kitchen, including potential wall & flooring changes, ceiling & lighting upgrades, and MEP systems.  The following proposals were received:
-
-DLR Group - $22,500
-
-CMBA Architects - $25,000
-
-<p class="agenda-label">Project Funding</p>
-
-This project will be funded by PPEL Lifecycle funding designated for building remodels.
-
-<p class="agenda-label">Supporting Documents</p>
+### Grant Wood Kitchen Remodel – Design Proposal
 
 - [DLR Group-Iowa City CSD-Kitchen Renovations-Proposal Letter](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504280&MID=25486)
 
-### 7. Appendix 9 Approval Requests and Project Updates
-
-<p class="agenda-label">Recommendation</p>
-
-Recommend approval of the Appendix 9 approval requests.
-
-<p class="agenda-label">Contact Person</p>
-
-Curt Pratt, Chief Operating Officer
-
-<p class="agenda-label">Supporting Documents</p>
+### Appendix 9 Approval Requests and Project Updates
 
 - [Combined Appendix 9 Approval Requests and Project Updates](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504272&MID=25486)
 - [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504273&MID=25486)
@@ -325,128 +77,40 @@ Curt Pratt, Chief Operating Officer
 - [City HS Addition Phase 3](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504278&MID=25486)
 - [Summary of Appendix 9 Approval Requests and Project Updates](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504279&MID=25486)
 
-## G. Items Withdrawn from Consent Agenda
-
-## H. Committee Reports
-
-### 1. Education Committee Report
-
-<p class="agenda-label">Quick Summary / Abstract</p>
-
-Chair Horn-Frasier will report on the January 20, 2026 Education Committee meeting.
-
-## I. Policy Review
-
-<p class="agenda-label">Recommendation</p>
-
-Motion to review and adopt ...
-
-### 1. 500 Policy Series - Students
-
-<p class="agenda-label">Supporting Documents</p>
+### 500 Policy Series - Students
 
 - [500 Policies - Students](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504044&MID=25486)
 
-### 2. Policy Primers
-
-<p class="agenda-label">Supporting Documents</p>
+### Policy Primers
 
 - [202.2 - Oath of Office](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504045&MID=25486)
 
-## J. Discussion Items
-
-## K. Presentations
-
-### 1. Unified Sports Update
-
-<p class="agenda-label">Contact Person</p>
-
-Tunisia May, Director of District Activities
-
-<p class="agenda-label">Supporting Documents</p>
+### Unified Sports Update
 
 - [Unified Sports Presentation](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=508365&MID=25486)
 
-## L. Action Items
-
-### 1. Interfund Loan
-
-<p class="agenda-label">Recommendation</p>
-
-Motion to approve the Resolution Approving Interfund Loan.
-
-<p class="agenda-label">Contact Person</p>
-
-Curt Pratt, Chief Operating Officer
-
-<p class="agenda-label">Supporting Documents</p>
+### Interfund Loan
 
 - [Resolution Approving Interfund Loan ICCSD](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504295&MID=25486)
 
-### 2. Forevergreen Road Expansion Phase 1 Van Allen ES Temporary Construction Easement 
-
-<p class="agenda-label">Recommendation</p>
-
-Recommend action to grant resolution approving conveyance of real property between the City of Coralville and Iowa City Community School District.
-
-<p class="agenda-label">Contact Person</p>
-
-Curt Pratt, Chief Operating Officer
-
-<p class="agenda-label">Supporting Documents</p>
+### Forevergreen Road Expansion Phase 1 Van Allen ES Temporary Construction Easement
 
 - [Temporary Construction Easement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=509308&MID=25486)
 - [Forevergreen Temporary Construction Easement Affidavit](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504281&MID=25486)
 - [Forevergreen Temporary Construction Easement Resolution 2](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504282&MID=25486)
 - [Proof of Publication](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504283&MID=25486)
 
-### 3. Forevergreen Road Expansion Phase 1 Van Allen ES Temporary Public Utilities Easement
-
-<p class="agenda-label">Recommendation</p>
-
-Recommend action to grant a resolution approving conveyance of an easement interest to MidAmerican Energy Company, Linn County Rural Cooperative, Lumen, Mediacom, South Slope Cooperative, Metronet and ImOn Communications from Iowa City Community School District.
-
-<p class="agenda-label">Contact Person</p>
-
-Curt Pratt, Chief Operating Officer
-
-<p class="agenda-label">Supporting Documents</p>
+### Forevergreen Road Expansion Phase 1 Van Allen ES Temporary Public Utilities Easement
 
 - [Utility Easement - ICCSD](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=509240&MID=25486)
 - [Forevergreen Utilities Agreement Resolution 2](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504284&MID=25486)
 - [Forevergreen Utilities Agreement Affidavit](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504285&MID=25486)
 - [Proof of Publication](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504286&MID=25486)
 
-## M. Upcoming Events and Community Updates
-
-### 1. Legislative Update
-
-<p class="agenda-label">Quick Summary / Abstract</p>
-
-Legisltive Forums
-
-Friday, January 30  - 4:00-5:00
-
-Friday, February 27 - 4:00-5:00
-
-Friday, March 27 - 4:00-5:00
-
-Friday, April 24 - 4:00-5:00
-
-The forums will be held in the boardroom (Room 200) at the Educational Services Center, 2255 N. Dubuque Rd., Iowa City, IA 52245
-
-### 2. Agenda Setting
-
-<p class="agenda-label">Supporting Documents</p>
+### Agenda Setting
 
 - [2.10.26 Regular Meeting of the Board of Directors Agenda - Draft](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504136&MID=25486)
 - [2.10.26 Operations Committee Meeting Agenda - DRAFT](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504137&MID=25486)
-
-## N. Adjourn
-
-<p class="agenda-label">Recommendation</p>
-
-Motion to adjourn the meeting
 
 ---
 
@@ -454,6 +118,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 25486](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25486). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:39 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:46 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.
