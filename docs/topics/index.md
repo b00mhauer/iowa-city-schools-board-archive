@@ -1,0 +1,16 @@
+# Topics
+
+Topic pages stitch related decisions across many meetings. They are the most editorial part of the archive — the maintainer's reading of the record, with citations to every meeting and document so claims can be checked.
+
+!!! note "Draft state"
+
+    All topic pages are currently auto-generated drafts from a keyword scan of 2026 meetings. Expect them to evolve substantially as they are curated.
+
+## Current topics
+
+- [Budget](budget.md) — How ICCSD raises and spends money — annual budgets, property tax levies, audits, fund balances, and significant transfer...
+- [Superintendent](superintendent.md) — The superintendent's role, evaluation, and any transitions. This page collects discussions of the superintendent's perfo...
+- [Facilities](facilities.md) — Buildings, land, and capital projects — new construction, renovations, property sales and purchases, leases, and the PPE...
+- [Policies](policies.md) — Board policy adoptions, revisions, and rescissions. ICCSD uses a multi-reading process; policy changes typically appear ...
+- [Boundaries](boundaries.md) — School attendance areas, boundary changes, and open-enrollment decisions. ICCSD's open-enrollment line items appear in n...
+

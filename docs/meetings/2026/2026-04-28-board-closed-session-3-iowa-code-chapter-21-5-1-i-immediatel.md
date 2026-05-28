@@ -1,0 +1,26 @@
+---
+title: "Board Closed Session 3: Iowa Code Chapter 21.5 (1)(i) - Immediately Following Board Closed Session 2"
+date: 2026-04-28
+meeting_type: "Board Closed Session"
+mid: 30084
+---
+
+# Board Closed Session 3: Iowa Code Chapter 21.5 (1)(i) - Immediately Following Board Closed Session 2
+**Date / Time:** 2026-04-28 — 06:00 PM
+
+**Meeting Type:** Board Closed Session
+
+**Official agenda on district site:** [Simbli eBoard meeting page](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=30084)
+
+---
+_No supporting documents were attached to this meeting on the district portal. See the official meeting page for any motions or minutes published after the fact._
+
+---
+
+## About this page
+
+Agenda content carried through from the district's published materials for [MID 30084](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=30084). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
+
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:21 UTC.
+
+Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

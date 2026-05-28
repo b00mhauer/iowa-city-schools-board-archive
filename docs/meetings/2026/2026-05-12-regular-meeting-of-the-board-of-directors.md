@@ -1,0 +1,689 @@
+---
+title: "Regular Meeting of the Board of Directors"
+date: 2026-05-12
+meeting_type: "Board Meeting"
+mid: 29980
+---
+
+# Regular Meeting of the Board of Directors
+**Date / Time:** 2026-05-12 — 06:00 PM
+
+**Meeting Type:** Board Meeting
+
+**Official agenda on district site:** [Simbli eBoard meeting page](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=29980)
+
+---
+## A. Call to Order
+
+## B. Welcome
+
+**Summary**
+The public is reminded that if they wish to speak, they need to complete a speaker form found at the table in the back of the room and turn it in. During community comment persons may speak to the Board about topics relevant to the district.  All community comment, directed at non agenda items and agenda items, shall take place at the beginning of the meeting during the Community Comment section of the agenda.
+
+Board Norms
+
+As members of the Iowa City Community School District Board of Directors, our commitment is to implement and follow our operating set of Board Norms.
+
+We will foster open, honest, and transparent communication.
+
+We will listen with the goal of understanding.
+
+We will act in good faith and assume positive intent, with a focus on the best interest of students.
+
+We will model the behavior and values we wish to see in students and staff.
+
+We will be prepared for discussion on agenda topics.
+
+We will embrace our roles as mentors and mentees.
+
+We will be accountable to the public, especially to our students.
+
+## C. Agenda Approval
+
+### 1. Motion to approve the May 12, 2026 Regular Board Meeting Agenda
+
+**Recommendation**
+Motion to approve the May 12, 2026 Regular Board Meeting agenda.
+
+## D. Public Forum
+
+### 1. Student Representative Updates
+
+**Quick Summary / Abstract**
+Tate High: Video Update 
+
+West High: Waleed and Eddie
+
+ Liberty High: John and Mia
+
+City High: Alma and Tobiah
+
+### 2. ICEA Update
+
+**Quick Summary / Abstract**
+Nathan Kelley, ICEA President
+
+### 3. Community Comment
+
+**Quick Summary / Abstract**
+Thank you for your interest in Iowa City Community School District and for your willingness to share your comments. You are reminded to give your name, address, and topic on which you would like to speak. During community comment, persons may speak to the Board about topics relevant to the district. Speakers who make comments are reminded they are responsible for their own statements and may be subject to legal action for those which are threatening, harassing, or defamatory in nature. It is expected that speakers will address the board and each other with civility and abide by the stated time limits. All community comment, directed at non-agenda items and agenda items, shall take place at the beginning of the meeting and shall be limited to 4 minutes per speaker. The initial community comment period shall be limited to 1 hour. Remaining community comment, to the extent necessary, shall take place at the end of the meeting. The board will not engage in any discussion during public comment. The role of the board during this time is to listen.
+
+## E. Public Hearings
+
+### 1. Pubic Hearing for the Amended 2025-2026 Certified Budget
+
+**Quick Summary / Abstract**
+Now is the time and place for the public hearing on the District's proposed FY2026 Certified Budget Amendment.  Notice of Public Hearing was published in the Iowa City Press Citizen on April 29, 2026.
+
+Are there any comments from the Board?
+
+Is there anyone from the community that would like to advise or provide comment to the Board on  the proposed FY2026 Budget Amendment?
+
+**Supporting Documents:**
+
+- [Affidavit of Publication](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568108&MID=29980)
+
+## F. Consent Agenda Approval
+
+**Recommendation**
+Motion to approve the consent agenda
+
+### 1. Minutes of the April 28, 2026 Regular Board Meeting
+
+**Recommendation**
+Approve the minutes of the April 28, 2026 Regular Board Meeting
+
+**Meeting Minutes**
+Meeting Minutes
+
+### 2. Minutes of the April 28, 2026 Board Closed Session 1
+
+**Recommendation**
+Approve minutes of the April 28, 2026 Board Closed Session 1
+
+**Meeting Minutes**
+Meeting Minutes
+
+### 3. Minutes of the April 28, 2026 Board Closed Session 2
+
+**Recommendation**
+Approve minutes of the April 28, 2026 Board Closed Session 2
+
+**Meeting Minutes**
+Meeting Minutes
+
+### 4. Minutes of the April 28, 2026 Board Closed Session 3
+
+**Recommendation**
+Approve minutes of the April 28, 2026 Board Closed Session 3
+
+**Meeting Minutes**
+Meeting Minutes
+
+### 5. Minutes of the April 24, 2026 Legislative Forum
+
+**Recommendation**
+Approve minutes of the April 24, 2026 Legislative Forum
+
+**Meeting Minutes**
+Meeting Minutes
+
+### 6. Accounts Payable
+
+**Recommendation**
+Approval of Accounts Payable
+
+**Contact Person**
+Alan Moran Director of Finance
+
+**Supporting Documents:**
+
+- [AP Board Report  5.12.2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568712&MID=29980)
+- [BoardReport10003 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568713&MID=29980).pdf) — 162,706 bytes
+- [4-28-2026_Boardreport10003](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568714&MID=29980)
+
+### 7. Personnel Agenda May 12, 2026
+
+**Quick Summary / Abstract**
+Personnel Agenda
+
+**Recommendation**
+Motion to approve the personnel agenda
+
+**Contact Person**
+Nick Proud, Chief Human Resources Officer
+
+**Supporting Documents:**
+
+- [May 12, 2026 Board Agenda v3](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=570611&MID=29980)
+
+### 8. Open Enrollments
+
+**Quick Summary / Abstract**
+Open Enrollments: 2025-26 and 2026-27
+
+**Recommendation**
+Motion to approve OE recommendations
+
+**Contact Person**
+Office of Teaching and Learning
+
+**Supporting Documents:**
+
+- [5-12-2026 Board Meeting  OE (25-26)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568008&MID=29980)-.pdf) — 180,571 bytes
+- [5-12-2026  Board Meeting  OE (26-27)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568009&MID=29980)-.pdf) — 180,688 bytes
+
+### 9. 2026-2027 iJAG MOU
+
+**Quick Summary / Abstract**
+Iowa Jobs for America’s Graduates (iJAG) provides comprehensive drop-out prevention and school-to-work transition services for youth. iJAG works to develop workplace competencies in students that assist in their success in career/life transitions by providing individual career education, increasing academic achievement, and providing
+
+school-to-work transition. Each iJAG program is operated as an elective course for credit during the regular school day.
+
+**Recommendation**
+Recommend approval and signature for the iJAG MOU.
+
+**Contact Person**
+Carmen Gwenigale; Director of Curriculum, Instruction, and Assessment
+
+**Supporting Documents:**
+
+- [2026-2027 iJAG MOU](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568366&MID=29980)
+
+### 10. 2026 Recycling Program Contract
+
+**Quick Summary / Abstract**
+On Feb 20, 2026 the District received two quotes for the District’s recycling program; Republic Services, & ABC Disposal Systems. ABC Disposal Systems of Iowa City, Iowa had the lowest pricing schedule.  The estimated annual contract amount is based on a mixed schedule of 1–2 pickups per week at all District buildings. Extra fees will apply if additional pickups are needed, container sizes change, or supplemental charges are added.
+
+**Recommendation**
+Recommend approval of the contract from ABC Disposal Systems of Iowa City, Iowa in the amount of $37,992.
+
+**Contact Person**
+Curt Pratt, Chief Operating Officer
+
+**Project Funding**
+This program will be funded with general funds.
+
+**Supporting Documents:**
+
+- [ABC Recycling](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568107&MID=29980)
+
+### 11. Data Privacy Agreement - Parchment
+
+**Quick Summary / Abstract**
+A student data privacy agreement between the Iowa City Community School District and Instructure. Instructure is the parent company for Parchment. Parchment is a credential management platform and will enable a secure exchange of digital transcripts, diplomas, and certificates.
+
+**Recommendation**
+Consent with signature
+
+**Contact Person**
+Joshua Reynolds, Technology and Innovation Manager
+
+**Supporting Documents:**
+
+- [Iowa City Community School District_Privacy_DPA_2026-04-01](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568079&MID=29980)
+
+### 12. Privacy Agreement - Issue Badge
+
+**Quick Summary / Abstract**
+A student data privacy agreement between Iowa City Community School District and Issue Badge. Issue Badge is a cloud-based platform used to create, customize, and issue secure, verifiable digital badges and certificates.
+
+**Recommendation**
+Recommend approval with signature.
+
+**Contact Person**
+Joshua Reynolds, Technology & Innovation Manager
+
+**Supporting Documents:**
+
+- [IowaStandardDPA_IssueBadge](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568082&MID=29980)
+
+### 13. Student Data Privacy - GearLocker
+
+**Quick Summary / Abstract**
+A student data privacy agreement between the Iowa City Community School District and GearLocker.  GearLocker is a sports equipment management software. GearLocker helps track inventory, handle checkouts,  and help eliminate list equipment.
+
+**Recommendation**
+Consent with signature
+
+**Contact Person**
+Joshua Reynolds, Technology and Innovation Manager
+
+**Supporting Documents:**
+
+- [IowaSDPA[26]GearLocker](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568083&MID=29980)
+
+### 14. Student Data Privacy - Clever Prototypes LLC
+
+**Quick Summary / Abstract**
+A student data privacy agreement between the Iowa City Community School District and Clever Prototypes LLC. Clever Prototypes LLC is the parent company for Storyboard That. Storyboard That is a browser-based drag-and-drop tool to create storyboards, comics, and graphic organizers.
+
+**Recommendation**
+Consent with signature
+
+**Contact Person**
+Joshua Reynolds, Technology and Innovation Manager
+
+**Supporting Documents:**
+
+- [IowaSDPA[26]CleverPrototypesLLC](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568084&MID=29980)
+
+### 15. Data Privacy Agreement - HMH
+
+**Quick Summary / Abstract**
+A student data privacy agreement between the Iowa City Community School District and Houghton Mifflin Harcourt Company. HMH is a publisher of textbooks, instructional technology materials, assessments, and reference works.
+
+**Recommendation**
+Consent with signature
+
+**Contact Person**
+Joshua Reynolds, Technology and Innovation Manager
+
+**Supporting Documents:**
+
+- [2026-01-26_HMH_IndianolaSigned](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568085&MID=29980)
+- [2026-01-26_HMH_Signed](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568086&MID=29980)
+
+### 16. Data Privacy Agreement - Vista
+
+**Quick Summary / Abstract**
+An Exhibit E student data privacy agreement between the Iowa City Community School District and Vista Higher Learning, Inc. Vista Higher Learning, Inc is a specialized educational publisher and technology provider focusing on language learning for K-12 and higher education.
+
+**Recommendation**
+Consent
+
+**Contact Person**
+Joshua Reynolds, Technology and Innovation Manager
+
+**Supporting Documents:**
+
+- [2025-09-26_11089_1167_signed_agreement_file](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568087&MID=29980)
+- [VHL_signed_agreement_file](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568088&MID=29980)
+
+### 17. Infinite Campus Contract
+
+**Quick Summary / Abstract**
+The Iowa City Community School District seeks Board approval to renew its annual agreement with Infinite Campus, Inc. for the Student Information System (SIS) and related services for the period of July 1, 2026, through June 30, 2027. The agreement includes core SIS licensing, cloud hosting, data warehouse services, Campus Learning, Online Registration, workflow tools, reporting modules, and data services. These systems support student data management, instructional tools, registration, reporting, and operational workflows across the district. The total cost of the annual services is $201,703.60.
+
+**Recommendation**
+Recommend approval of the Infinite Campus contract renewal to ensure continuity of critical student information and operational systems.
+
+**Contact Person**
+Josh Reynolds, Technology and Innovation Manager
+
+**Supporting Documents:**
+
+- [Contract Invoice-Grouped-CI-00006765](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568089&MID=29980)
+
+### 18. Set the date of May 26, 2026 at 6:00 PM for a public hearing on the Resolution for the proceeds of the Hills property to be placed in the General Fund
+
+**Supporting Documents:**
+
+- [5.12.26 Resolution Fixing Date of Hearings for Deposit](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569385&MID=29980)
+- [Hills Property Notice of Public Hearing  Deposit of Proceeds to General Fund](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569388&MID=29980)
+
+### 19. Set the date of May 26, 2026 at 6:00 PM for a public hearing on the Resolution for the proceeds of the ESC (1725 N Dodge St) property to be placed in the General Fund
+
+**Supporting Documents:**
+
+- [5.12.26 Resolution Fixing Date of Hearings for Deposit](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569386&MID=29980)
+- [1725 N. Dodge Street - Notice of PH for Deposit of Proceeds to General Fund](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569389&MID=29980)
+
+### 20. Set the date of May 26, 2026 at 6:00 PM for a public hearing on the Resolution for Conveyance of an Interest in Real Property
+
+**Supporting Documents:**
+
+- [Resolution - Scanlon Familly, L.L.C.](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569376&MID=29980)
+- [Scanlon Property - Conveyance of Real Property - Notice of Public Hearing](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569380&MID=29980)
+
+### 21. Set the date of May 26, 2026 at 6:00 PM for a public hearing on the Resolution  for the proceeds of property sale to be placed in the General Fund
+
+**Supporting Documents:**
+
+- [5.12.26 Resolution Fixing Date of Hearings for Deposit](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569387&MID=29980)
+- [Scanlon Property - Notice of Public Hearing](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569391&MID=29980)
+
+### 22. Appendix 9 Approval Requests and Project Updates
+
+**Quick Summary / Abstract**
+Recommend approval or Appendix 9 approval requests.
+
+**Contact Person**
+Curt Pratt, Chief Operating Officer
+
+**Supporting Documents:**
+
+- [Summary of Appendix 9 Approval Requests and Project Updates](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568109&MID=29980)
+- [City HS 2025 Opstad Theater Lighting](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568110&MID=29980)
+- [HVAC Upgrades 2023 Lemme ES HVAC Upgrades](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568111&MID=29980)
+- [West HS Renovation Phase 3](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568112&MID=29980)
+- [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568113&MID=29980)
+- [Combined Appendix 9 Approval Requests and Project Updates](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568114&MID=29980)
+
+## G. Items Withdrawn from Consent Agenda
+
+## H. Committee Reports
+
+## I. Policy Review
+
+### 1. 800 Policies Buildings and Sites
+
+**Supporting Documents:**
+
+- [800 Policies - Buildings and Sites](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568662&MID=29980)
+
+### 2. Policy Primers
+
+**Supporting Documents:**
+
+- [Policy Primers](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568097&MID=29980)
+
+## J. Discussion Items
+
+### 1. Interim Chief Financial Officer Update
+
+**Contact Person**
+Kim Michael-Lee, Interim Chief Financial Officer
+
+**Supporting Documents:**
+
+- [Summary of progress 5.1.26](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569768&MID=29980)
+- [Summary Status 4.30](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569949&MID=29980)
+- [Summary of Progress as of 5.8.26](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569767&MID=29980)
+- [Summary Status 5.7](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569948&MID=29980)
+
+### 2. Board Financial Leadership Update
+
+**Supporting Documents:**
+
+- [Board Financial Leadership Update](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569733&MID=29980)
+
+### 3. Facilities Master Plan Resolution
+
+**Supporting Documents:**
+
+- [DRAFT Facilities Master Plan Resolution - REVISED.docx](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569973&MID=29980)
+
+### 4. Coralville Rec Center
+
+**Supporting Documents:**
+
+- [Coralville Pool Options - 5.8.26 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569889&MID=29980).pdf) — 631,594 bytes
+
+### 5. Wear Orange Day 2026 Resolution
+
+**Supporting Documents:**
+
+- [2026 SCHOOL DISTRICT RESOLUTION](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568171&MID=29980)
+
+## K. Presentations
+
+### 1. Farm to School Greenhouse Grant
+
+**Supporting Documents:**
+
+- [Farm to School Board Presentation (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569734&MID=29980).pdf) — 942,068 bytes
+
+### 2. Third Quarter Financial Report 
+
+**Supporting Documents:**
+
+- [Financials as of 3.31.26 Board Mtg 5.12.26](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569770&MID=29980)
+
+### 3. Personal Device Survey Results
+
+**Contact Person**
+Lucas Ptacek, Executive Director of Secondary Schools
+
+**Supporting Documents:**
+
+- [Updated Personal Device Survey Results Board Meeting (5-12-26)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=570898&MID=29980).pdf) — 977,499 bytes
+
+## L. Action Items
+
+### 1. 800 Policies Buildings and Sites
+
+**Recommendation**
+Motion to approve the 800 policies as presented.
+
+**Supporting Documents:**
+
+- [800 Policies - Buildings and Sites](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568661&MID=29980)
+
+### 2. Policy Primers
+
+**Recommendation**
+Motion to approve the policy primers as presented.
+
+**Supporting Documents:**
+
+- [Policy Primers](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568098&MID=29980)
+
+### 3. SBRC Exhibits Approval
+
+**Recommendation**
+Motion to approve the SBRC exhibits
+
+**Contact Person**
+Curt Pratt, Chief Operating Officer
+
+**Supporting Documents:**
+
+- [ICCSD Cover Letter 3.2026 Updated 5.2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569920&MID=29980)
+- [Exhibit 2l - Narrative Update May 2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569891&MID=29980)
+- [Exhibit 2m - Board Financial Leadership Update - May 12, 2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569895&MID=29980)
+
+### 4. Resolution - Interfund Loan General Fund to SAVE
+
+**Recommendation**
+Motion to approve and adopt the resolution approving the interfund loan.
+
+**Supporting Documents:**
+
+- [Anticipated Borrowing Need Memo Update for 4_28](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=570206&MID=29980)
+- [Resolution Approving Interfund Loan GF to SAVE Iowa City CSD](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569345&MID=29980)
+- [PFM Presentation ICCSD YTD General Fund Fiscal Progress add Update Regarding Warrants 04-29-2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569351&MID=29980)
+
+### 5. Facilities Master Plan Resolution
+
+**Recommendation**
+Motion to approve the Facilities Master Plan Resolution.
+
+**Supporting Documents:**
+
+- [DRAFT Facilities Master Plan Resolution - REVISED.docx](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569974&MID=29980)
+
+### 6. Approve Amended 2025-2026 Certified Budget
+
+**Recommendation**
+Motion to approve the amended 2025-2026 certified budget.
+
+**Contact Person**
+Curt Pratt, Chief Operating Officer
+
+**Supporting Documents:**
+
+- [Affidavit of Publication](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568105&MID=29980)
+- [FY26 Certified Budget Amendment Public Hearing Notice](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568104&MID=29980)
+
+### 7. UEN Steering Committee Member
+
+**Quick Summary / Abstract**
+As part of the standard rotation of the UEN Steering Committee, it is time for a board member from Iowa City to join the Steering Committee.  The board will need to appoint a director to serve on the UEN Steereing Committee.
+
+UEN Steering Committee Info: https://uen-ia.org/uen-steeringcommittee
+
+ 
+
+Meeting Schedule for 2026-27
+
+Friday, September 25, 2026 (12-1) via Zoom
+
+Wednesday, November 18, 2026 in Des Moines during IASB Convention (Lunch 12:30, Mtg 1-2)
+
+Friday, February 19, 2027 (12-1) via Zoom
+
+Friday, April 30, 2027 (12-1) via Zoom
+
+ Annual Dinner:
+
+Wednesday, November 18, 2026 at 6 - 8:30 pm at Hilton Des Moines Downtown
+
+**Recommendation**
+Motion to appoint UEN steering Committee Member
+
+## M. Upcoming Events and Community Updates
+
+### 1. Legislative Update
+
+### 2. Director Liaison Reports
+
+**Quick Summary / Abstract**
+Molly Abraham
+
+Charlie Eastham
+
+Jayne Finch
+
+Jennifer Horn-Frasier
+
+April 13: Black Voices Project meeting
+
+April 14: Meeting with community member
+
+April 16: Attended online conference: K-12 Education in Iowa
+
+April 17: Meeting with Superintendent Degner
+
+April 20: Meeting with Kristin Pedersen & President Malone
+
+April 20: Joint Entities meeting 
+
+April 21: Education Committee meeting
+
+April 22: Meeting with Eliza Proctor and Lucas Ptacek
+
+April 22: Student art show at the ESC
+
+April 24: Legislative forum
+
+May 6: Principal candidate interviews at Liberty HS
+
+May 6: Silver Salute
+
+May 7: Education is Everybody's Business breakfast
+
+May 7: Visit to West High
+
+May 7: Meeting with community member
+
+Mitch Lingo
+
+April 13 - Black Voices Project
+
+April 16 - Longfellow Talent Show
+
+April 16 - Forwald Relays
+
+April 16 - Meeting with Matt Degner
+
+April 21 - Education Committee Meeting
+
+April 23 - Meeting with Director Finch and President Malone
+
+April 25 - City High Soccer Tournament
+
+April 25 - Frozen: The Musical at City High
+
+May 1 - Lincoln Elementary Carnival
+
+May 2 - Iowa City Farmers Market Listening Post
+
+May 6 - Longfellow PTA Meeting
+
+Too many phone conversations to list. 
+
+Ruthina Malone
+
+April 15: Phone call with Superintendent Degner
+
+     Meeting with District Staff
+
+April 17: Meeting with community member
+
+              Telephone call with district staff
+
+April 18: Telephone call with district families
+
+April 20: Agenda setting meeting
+
+     Meeting with Kristin Pedersen & President Malone
+
+April 22: Lunch meeting with district staff
+
+              ICCSD Art show at CFI
+
+April 23: Meeting with Directors Lingo and Finch
+
+April 24: Telephone with district family
+
+April 27:  Meeting with community member
+
+May 1:    Meeting with district staff members
+
+May 6:    Silver Salute
+
+May 8:    Telephone call with district family
+
+Lisa Williams
+
+April 15:  Meeting with Superintendent Degner
+
+April 16:  Meeting with community member
+
+April 22:  Guest Speaker, Iowa College of Medicine Leadership Elective Class
+
+April 22:  Meeting with community member
+
+April 24:  Meeting with community member 
+
+April 24:  Legislative forum
+
+April 24:  Meeting with Superintendent Degner
+
+April 27:  Secretary negotiations 
+
+April 27:  Meeting with community member
+
+April 28:  Meeting with community member
+
+May 1:  Physical Plant negotiations
+
+May 6:  Liberty High School Principal interviews
+
+May 6: Silver Salute
+
+May 7:  Education is Everyone's Business Breakfast
+
+### 3. Agenda Setting
+
+**Supporting Documents:**
+
+- [5.14.26 Board Closed Session_ Iowa Code Chapter 21.5 (1)(i) - DRAFT](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568659&MID=29980)(i) - DRAFT.pdf) — 1,043,691 bytes
+- [5.26.26 Policy & Governance Committee Meeting - DRAFT](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568657&MID=29980)
+- [5.26.26 Board Meeting Agenda - DRAFT](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568658&MID=29980)
+
+## N. Adjourn
+
+**Recommendation**
+Motion to adjourn the meeting
+
+---
+
+## About this page
+
+Agenda content carried through from the district's published materials for [MID 29980](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=29980). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
+
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:21 UTC.
+
+Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

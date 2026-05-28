@@ -1,0 +1,104 @@
+site_name: Iowa City Schools Board Archive
+site_description: >-
+  A public, searchable archive of Iowa City Community School District
+  Board of Directors meetings — agendas, supporting documents, key topics,
+  and decisions over time.
+site_url: https://b00mhauer.github.io/iowa-city-schools-board-archive/
+repo_url: https://github.com/b00mhauer/iowa-city-schools-board-archive
+repo_name: b00mhauer/iowa-city-schools-board-archive
+edit_uri: edit/main/docs/
+
+copyright: >-
+  Editorial content licensed under
+  <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+  Primary-source documents remain the public records of ICCSD.
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.tabs.link
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+
+# Per-meeting pages are reached via the 2026 index page, not the sidebar
+# (a 51-item sidebar would be unwieldy). This silences the "pages not in
+# nav" info during mkdocs build.
+not_in_nav: |
+  /meetings/2026/2026-*.md
+
+nav:
+  - Home: index.md
+  - How to Use: how-to-use.md
+  - Timeline: timeline.md
+  - Meetings:
+      - 2026: meetings/2026/index.md
+  - Topics:
+      - Overview: topics/index.md
+      - Budget: topics/budget.md
+      - Superintendent: topics/superintendent.md
+      - Facilities: topics/facilities.md
+      - Policies: topics/policies.md
+      - Boundaries: topics/boundaries.md
+  - People:
+      - Board Members: people/board-members.md
+      - Administrators: people/administrators.md
+  - Key Documents: documents/key-documents.md
+  - Methodology: methodology.md
+  - Chat with the Archive: chat-with-the-archive.md
+  - About: about.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/b00mhauer/iowa-city-schools-board-archive
+  generator: false

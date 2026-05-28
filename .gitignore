@@ -1,0 +1,37 @@
+# Build output
+site/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Node (in case we add JS tooling later)
+node_modules/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+.claude/
+
+# Secrets / local config
+.env
+.env.local
+*.local
+
+# Logs
+*.log
+
+# Large media — link to district site or YouTube instead of committing
+*.mp4
+*.mov
+*.zip
+
+# Scraped raw PDFs are NOT in this repo by design — see methodology page
+*.pdf
