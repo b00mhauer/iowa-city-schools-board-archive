@@ -6,14 +6,34 @@ hide:
 
 # Iowa City Schools Board Archive
 
-A public, searchable archive of Iowa City Community School District (ICCSD)
-Board of Directors meeting materials.
+2026 has been one of the most consequential years for ICCSD in a
+generation: a financial crisis surfaced in January, the district lost its
+bond rating, the $104M facilities plan was paused in May, and
+Superintendent Matt Degner stepped down. This site pulls every public
+board meeting, every supporting document, every YouTube recording, and
+70+ news articles into one searchable place — so you can follow what's
+actually happening without clicking through the district's portal one
+meeting at a time.
 
-This site is a citizen's working reference, not a district publication. It
-links to every official document in its original location on the district's
-[Simbli eBoardSolutions site](https://simbli.eboardsolutions.com/), and adds
-neutral summaries, cross-meeting topic threads, and a searchable timeline so
-the public record is easier to use.
+**Independent. Free. Updated daily.**
+
+<!-- LATEST_ACTIVITY:START -->
+<!-- This block is regenerated daily by scripts/build_home.py.
+     Don't edit the contents between START/END markers by hand. -->
+
+## Latest
+
+**Most recent board meeting — May 26, 2026:** [Regular Meeting of the Board of Directors - AMENDED AGENDA](meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md). The May 26 board meeting was dominated by Superintendent Matt Degner's transition out of the superintendency.
+
+**Recent press coverage:**
+
+- **May 26, 2026** — *KCRG-TV9* — [Iowa City School Board searches for interim superintendent amid financial crisis](https://www.kcrg.com/2026/05/26/iowa-city-school-board-searches-interim-superintendent-amid-financial-crisis/)
+- **May 26, 2026** — *CBS2 Iowa (KGAN)* — [Iowa City school board begins interim superintendent search amid leadership concerns](https://cbs2iowa.com/news/local/iowa-city-school-board-begins-interim-superintendent-search-amid-leadership-concerns)
+- **May 26, 2026** — *KCRG-TV9* — [Iowa City school board keeps superintendent on staff despite public criticism](https://www.kcrg.com/2026/05/27/iowa-city-school-board-keeps-superintendent-staff-despite-public-criticism/)
+
+[Browse all 2026 press coverage →](press/2026.md) · [Browse all 2026 meetings →](meetings/2026/index.md)
+
+<!-- LATEST_ACTIVITY:END -->
 
 ## Start here
 
@@ -23,8 +43,8 @@ the public record is easier to use.
 
     ---
 
-    Every public board meeting in 2026, with agendas, votes, and direct links
-    to every supporting document.
+    Every public board meeting in 2026, with agendas, votes, supporting
+    documents, and a "what happened" summary.
 
     [:octicons-arrow-right-24: 2026 Meetings](meetings/2026/index.md)
 
@@ -32,50 +52,52 @@ the public record is easier to use.
 
     ---
 
-    Topical threads stitch decisions across meetings — budget, superintendent
-    search, facilities, policy changes, boundary lines.
+    Budget, superintendent transition, facilities, policy work,
+    boundary / enrollment — each topic stitches the relevant meetings,
+    documents, and press together.
 
     [:octicons-arrow-right-24: Topics](topics/index.md)
 
--   :material-history:{ .lg .middle } **Browse by timeline**
+-   :material-history:{ .lg .middle } **Browse the timeline**
 
     ---
 
-    Chronological view of major events and decisions.
+    Every meeting and every press article, in date order — newest
+    first, with citations.
 
     [:octicons-arrow-right-24: Timeline](timeline.md)
 
--   :material-magnify:{ .lg .middle } **Search everything**
+-   :material-robot-outline:{ .lg .middle } **Ask an AI**
 
     ---
 
-    Full-text search across agendas, summaries, and topic pages. The search
-    box is in the top bar.
+    Pre-loaded ChatGPT, Gemini, and Perplexity prompts that read any page
+    on this site and answer questions about it.
+
+    [:octicons-arrow-right-24: Chat with the Archive](chat-with-the-archive.md)
 
 </div>
 
-## What this archive is, and isn't
+## About this archive
 
-**It is** a working reference — a way to follow the board's decisions without
-clicking through the district's portal one meeting at a time. Every claim
-links back to the primary source.
+This site is a **citizen's working reference, not a district
+publication**. It links to every official document on the district's
+[Simbli eBoardSolutions portal](https://simbli.eboardsolutions.com/),
+mirrors the YouTube recording of every meeting, and indexes every news
+article published about ICCSD this year. The press index auto-refreshes
+daily; the Timeline and Topic pages regenerate alongside it.
 
-**It is not** a district website, an official record, or a substitute for the
-originals. When the editorial summary on this site says one thing and the PDF
-on the district site says another, **the PDF wins**. Open an
-[issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) and we'll fix
-it.
+The site **doesn't add its own characterization** of events — it puts
+the primary sources (meetings, documents, articles) in one place with
+citations and lets you draw your own conclusions. When something on
+this site contradicts the underlying PDF or article, **the original
+wins** — [open an issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues)
+and we'll fix it.
 
-See [How to Use This Archive](how-to-use.md) for what each section means and
-when to trust the markdown vs. the source PDF, and [Methodology](methodology.md)
-for how the archive was assembled.
+See [How to Use This Archive](how-to-use.md) for what each section
+means, and [Methodology](methodology.md) for how it was built.
 
 ## Scope
 
-The MVP covers **calendar year 2026**. Earlier years (2023–2025) will be
-backfilled in subsequent phases.
-
----
-
-*Last full re-scrape: see the footer of any meeting page. The site is
-rebuilt on every push to `main`.*
+The current archive covers **calendar year 2026**. Earlier years
+(2023–2025) will be backfilled in subsequent phases.
