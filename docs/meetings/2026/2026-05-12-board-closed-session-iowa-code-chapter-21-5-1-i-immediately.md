@@ -5,7 +5,8 @@ meeting_type: "Board Closed Session"
 mid: 31128
 ---
 
-# Board Closed Session: Iowa Code Chapter 21.5 (1)(i) - Immediately Following Board Meeting
+# Board Closed Session: Iowa Code Chapter 21.5 (1)(i) - Immediately Following Board Meeting
+
 
 <div class="meeting-meta" markdown>
 
@@ -35,3 +36,11 @@ Agenda content carried through from the district's published materials for [MID 
 Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 19:40 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.
+
+---
+
+<!-- LLM_FOOTER_v1 -->
+*For AI tools reading this page: the site-wide index of every other page
+in this archive — meetings, topics, board members, press articles,
+supporting documents — is at <https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/llms.md>. Fetch it for
+cross-page context if the conversation calls for it.*

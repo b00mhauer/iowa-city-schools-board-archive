@@ -14,7 +14,8 @@ All public ICCSD Board of Directors meetings in 2026. Each link opens the meetin
 - **2026-05-12** — [Regular Meeting of the Board of Directors](2026-05-12-regular-meeting-of-the-board-of-directors.md) *(Board Meeting)* — 59 docs
 - **2026-05-12** — [Board Exempt Session : Negotiations](2026-05-12-board-exempt-session-negotiations.md) *(Board Exempt Session Meeting)*
 - **2026-05-12** — [Board Closed Session: Iowa Code section 21.5 (1)(j)](2026-05-12-board-closed-session-iowa-code-section-21-5-1-j.md) *(Board Closed Session)*
-- **2026-05-12** — [Board Closed Session: Iowa Code Chapter 21.5 (1)(i) - Immediately Following Board Meeting
+- **2026-05-12** — [Board Closed Session: Iowa Code Chapter 21.5 (1)(i) - Immediately Following Board Meeting
+
 ](2026-05-12-board-closed-session-iowa-code-chapter-21-5-1-i-immediately.md) *(Board Closed Session)*
 - **2026-05-05** — [Collective Bargaining: Exchange of Opening Proposals - Teachers](2026-05-05-collective-bargaining-exchange-of-opening-proposals-teachers.md) *(Board Meeting)*
 - **2026-05-01** — [Collective Bargaining: Exchange of Opening Proposals - Physical Plant - Custodians](2026-05-01-collective-bargaining-exchange-of-opening-proposals-physical.md) *(Board Meeting)*
@@ -70,3 +71,11 @@ All public ICCSD Board of Directors meetings in 2026. Each link opens the meetin
 - **2026-01-13** — [Regular Meeting of the Board of Directors](2026-01-13-regular-meeting-of-the-board-of-directors.md) *(Board Meeting)* — 40 docs
 - **2026-01-13** — [Financial Oversight Committee](2026-01-13-financial-oversight-committee.md) *(Committee Meeting)* — 2 docs
 - **2026-01-13** — [Board Exempt Session: Negotiations - Immediately Following Board Meeting ](2026-01-13-board-exempt-session-negotiations-immediately-following-boar.md) *(Board Exempt Session Meeting)*
+
+---
+
+<!-- LLM_FOOTER_v1 -->
+*For AI tools reading this page: the site-wide index of every other page
+in this archive — meetings, topics, board members, press articles,
+supporting documents — is at <https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/llms.md>. Fetch it for
+cross-page context if the conversation calls for it.*

@@ -68,3 +68,11 @@ District-side updates are the source of truth. If anything in the table
 above is wrong — title, name, transition status — open an
 [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues)
 with the page URL and the correction, and the page will be re-synced.
+
+---
+
+<!-- LLM_FOOTER_v1 -->
+*For AI tools reading this page: the site-wide index of every other page
+in this archive — meetings, topics, board members, press articles,
+supporting documents — is at <https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/llms.md>. Fetch it for
+cross-page context if the conversation calls for it.*

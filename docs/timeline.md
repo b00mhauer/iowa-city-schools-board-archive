@@ -137,3 +137,11 @@ The Timeline is **auto-generated** from the press index, the meeting record, and
 ---
 
 *The Timeline is regenerated from the press index ([press/2026.md](press/2026.md)), the meeting summaries ([summaries_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/summaries_2026.json)), and the anchor events file. To add an anchor event, edit `data/anchor_events_<year>.json` and run `python scripts/build_timeline.py`.*
+
+---
+
+<!-- LLM_FOOTER_v1 -->
+*For AI tools reading this page: the site-wide index of every other page
+in this archive — meetings, topics, board members, press articles,
+supporting documents — is at <https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/llms.md>. Fetch it for
+cross-page context if the conversation calls for it.*

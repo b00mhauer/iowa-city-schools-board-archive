@@ -107,3 +107,11 @@ and [People → Administrators](../people/administrators.md).
 discrete major action. Spot something that belongs here and isn't, or
 something here that shouldn't be? Open an
 [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues).*
+
+---
+
+<!-- LLM_FOOTER_v1 -->
+*For AI tools reading this page: the site-wide index of every other page
+in this archive — meetings, topics, board members, press articles,
+supporting documents — is at <https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/llms.md>. Fetch it for
+cross-page context if the conversation calls for it.*

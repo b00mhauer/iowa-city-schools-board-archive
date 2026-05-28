@@ -110,3 +110,11 @@ that shouldn't be public — please open an issue with the page URL and the
 nature of the concern. Even though everything here is sourced from the
 district's already-public portal, the archive maintainer reviews privacy
 flags on a case-by-case basis.
+
+---
+
+<!-- LLM_FOOTER_v1 -->
+*For AI tools reading this page: the site-wide index of every other page
+in this archive — meetings, topics, board members, press articles,
+supporting documents — is at <https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/llms.md>. Fetch it for
+cross-page context if the conversation calls for it.*

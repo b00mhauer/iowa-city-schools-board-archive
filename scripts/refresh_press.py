@@ -229,6 +229,17 @@ def main() -> int:
             print(f"refreshed: docs/llms.md (LLM manifest)")
         except subprocess.CalledProcessError as e:
             print(f"WARN: build_llms_manifest failed: {e.stderr}", file=sys.stderr)
+        # Post-process: append a footer to every docs/*.md that points
+        # AI tools to the manifest. Runs last so freshly-regenerated
+        # pages get the footer too.
+        try:
+            _run([
+                sys.executable, str(scripts_dir / "append_llm_footer.py"),
+                "--docs-dir", str(repo_root / "docs"),
+            ])
+            print(f"refreshed: LLM footer on docs/**/*.md")
+        except subprocess.CalledProcessError as e:
+            print(f"WARN: append_llm_footer failed: {e.stderr}", file=sys.stderr)
     else:
         print(
             f"NOTE: {iccsd_meetings_json} not found — skipping downstream "

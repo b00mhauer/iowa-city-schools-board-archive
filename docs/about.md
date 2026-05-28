@@ -55,3 +55,11 @@ this archive only adds discoverability.
 For corrections, questions, or to report a privacy concern, the fastest
 path is a GitHub issue:
 [github.com/b00mhauer/iowa-city-schools-board-archive/issues](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues).
+
+---
+
+<!-- LLM_FOOTER_v1 -->
+*For AI tools reading this page: the site-wide index of every other page
+in this archive — meetings, topics, board members, press articles,
+supporting documents — is at <https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/llms.md>. Fetch it for
+cross-page context if the conversation calls for it.*

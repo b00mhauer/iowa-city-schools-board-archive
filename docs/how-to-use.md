@@ -68,3 +68,11 @@ request. Corrections are welcome; this site is meant to be edited.
 
 For more on how the archive was built, what its limits are, and how it
 treats primary sources, see [Methodology](methodology.md).
+
+---
+
+<!-- LLM_FOOTER_v1 -->
+*For AI tools reading this page: the site-wide index of every other page
+in this archive — meetings, topics, board members, press articles,
+supporting documents — is at <https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/llms.md>. Fetch it for
+cross-page context if the conversation calls for it.*

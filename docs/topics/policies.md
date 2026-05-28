@@ -101,3 +101,11 @@ Questions worth digging into across the underlying records:
 ---
 
 *All lists on this page are derived automatically by keyword match against the [2026 attachment index](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json) and the [press index](../press/2026.md). They refresh whenever the press file is updated. The site adds no characterization of its own — each entry shows the source's wording with the source's citation.*
+
+---
+
+<!-- LLM_FOOTER_v1 -->
+*For AI tools reading this page: the site-wide index of every other page
+in this archive — meetings, topics, board members, press articles,
+supporting documents — is at <https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/llms.md>. Fetch it for
+cross-page context if the conversation calls for it.*

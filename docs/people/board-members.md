@@ -252,3 +252,11 @@ All split votes located in 2026 regular-meeting records had 7 directors casting 
 - Profile content reflects what is **on the public record** in the 2026 meeting transcripts. Members who speak less at meetings are correspondingly less represented here — that's a limit of the source material, not a judgment about their work.
 
 For corrections — including misattributed quotes, mis-stated committee assignments, or biographical data we can add — open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues).
+
+---
+
+<!-- LLM_FOOTER_v1 -->
+*For AI tools reading this page: the site-wide index of every other page
+in this archive — meetings, topics, board members, press articles,
+supporting documents — is at <https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/llms.md>. Fetch it for
+cross-page context if the conversation calls for it.*

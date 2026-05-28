@@ -12,3 +12,11 @@ The meeting and document lists are derived programmatically from the [2026 attac
 - [Policies](policies.md) — Board policy adoptions, revisions, and rescissions. ICCSD uses a multi-reading process; policy changes typically appear ...
 - [Boundaries](boundaries.md) — School attendance areas, boundary changes, and open-enrollment decisions. ICCSD's open-enrollment line items appear in n...
 
+
+---
+
+<!-- LLM_FOOTER_v1 -->
+*For AI tools reading this page: the site-wide index of every other page
+in this archive — meetings, topics, board members, press articles,
+supporting documents — is at <https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/llms.md>. Fetch it for
+cross-page context if the conversation calls for it.*
