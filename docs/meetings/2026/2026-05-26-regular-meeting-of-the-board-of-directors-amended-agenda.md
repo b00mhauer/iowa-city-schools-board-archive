@@ -18,6 +18,7 @@ mid: 29981
 ## B. Welcome
 
 **Summary**
+
 The public is reminded that if they wish to speak, they need to complete a speaker form found at the table in the back of the room and turn it in. During community comment persons may speak to the Board about topics relevant to the district.  All community comment, directed at non agenda items and agenda items, shall take place at the beginning of the meeting during the Community Comment section of the agenda.
 
 Board Norms
@@ -41,6 +42,7 @@ We will be accountable to the public, especially to our students.
 ## C. Agenda Approval
 
 **Recommendation**
+
 Motion to approve the May 26, 2026 Board Meeting Agenda
 
 ## D. Public Forum
@@ -48,11 +50,13 @@ Motion to approve the May 26, 2026 Board Meeting Agenda
 ### 1. Education Showcase
 
 **Quick Summary / Abstract**
+
 Christine Grant Elementary School
 
 ### 2. Community Comment
 
 **Quick Summary / Abstract**
+
 Thank you for your interest in Iowa City Community School District and for your willingness to share your comments. You are reminded to give your name, address, and the topic on which you would like to speak.
 
 During community comment, persons may speak to the Board about topics relevant to the district. Speakers who make comments are reminded they are responsible for their own statements and may be subject to legal action for statements that are threatening, harassing, or defamatory in nature.  It is expected that speakers will address the Board and each other with civility and abide by the stated time limits.
@@ -66,6 +70,7 @@ The Board will not engage in discussion during public comment. The role of the B
 ### 1. Resolution on the Proposed Deposit of Proceeds Received from the Sale of the  Hills Property into  the General Fund
 
 **Quick Summary / Abstract**
+
 Now is the time and place for the public hearing on the matter of the proposed deposit of proceeds received from the sale of the Hills property, located at 301 W. Main Street, Hills, Iowa, into the General Fund.  The board of directors set the date for this public hearing on May 12, 2026. Notice of the Public Hearing was published in the Iowa City Press Citizen on May 13, 2026.
 
 Are there any questions from the Board?
@@ -83,6 +88,7 @@ Are there any questions from the public?
 ### 2. Resolution on the Proposed Deposit of the Proceeds Received from the Sale of the  ESC (1725 N. Dodge Street) Property into the General Fund
 
 **Quick Summary / Abstract**
+
 Now is the time and place for the public hearing on the matter of the proposed deposit of proceeds received from the sale of the Educational Services Center, located at 1725 N Dodge Street, Iowa City, Iowa, into the General Fund.  The board of directors set the date for this public hearing on May 12, 2026. Notice of the Public Hearing was published in the Iowa City Press Citizen on May 13, 2026.
 
 Are there any questions from the Board?
@@ -100,6 +106,7 @@ Are there any questions from the public?
 ### 3. Resolution on the Proposed Deposit of the Proceeds Received from the Sale of  Approximately 42.4 Acres of Unimproved Real Estate Previously Purchased from Scanlon Family, L.L.C. into the General Fund
 
 **Quick Summary / Abstract**
+
 Now is the time and place for the public hearing on the matter of the proposed deposit of proceeds received from the sale of approximately 42.4 acres of unimproved real estate, previously purchased from Scanlon Family, L.L.C., into the General Fund.  The board of directors set the date for this public hearing on May 12, 2026. Notice of the Public Hearing was published in the Iowa City Press Citizen on May 13, 2026.
 
 Are there any questions from the Board?
@@ -117,31 +124,37 @@ Are there any questions from the public?
 ## F. Consent Agenda Approval
 
 **Recommendation**
+
 Motion to approve the consent agenda
 
 ### 1. Minutes of the May 12, 2026 Regular Board Meeting
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 2. Minutes of the May 12, 2026 Board Closed Session: Iowa Code section 21.5 (1)(j)
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 3. Minutes of the May 12, 2026 Board Closed Session: Iowa Code Chapter 21.5 (1)(i) 
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 4. Minutes of the May 14, 2026 Board Closed Session: Iowa Code Chapter 21.5 (1)(i) 
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 5. Minutes of the May 15, 2026 Special Board Meeting 
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 6. Accounts Payable
@@ -152,33 +165,39 @@ Meeting Minutes
 - [5-19-2026 BoardReport10003](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=574459&MID=29981)
 - [April 2026 P Card](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=574460&MID=29981)
 - [AP Board Report Template - 5.12.2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=574461&MID=29981)
-- [BoardReport10003 (2)5.12.26](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=574462&MID=29981)5.12.26.pdf) — 56,794 bytes
+- [BoardReport10003 (2)5.12.26](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=574462&MID=29981)
 
 ### 7. Open Enrollments
 
 **Quick Summary / Abstract**
+
 Open Enrollments
 
 **Recommendation**
+
 Motion to approve OE recommendations
 
 **Contact Person**
+
 Office of Teaching and Learning
 
 **Supporting Documents:**
 
-- [5-26-2026  Board Meeting  OE (25-26)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=573831&MID=29981)-.pdf) — 180,942 bytes
-- [5-26-2026 Board Meeting  OE (26-27)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=573832&MID=29981)-.pdf) — 184,185 bytes
+- [5-26-2026  Board Meeting  OE (25-26)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=573831&MID=29981)
+- [5-26-2026 Board Meeting  OE (26-27)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=573832&MID=29981)
 
 ### 8. Instructure, Inc (Canvas) Contract
 
 **Quick Summary / Abstract**
+
 The Iowa City Community School District seeks Board approval to renew our contract with Instructure, Inc for Canvas and Canvas Catalog and enter into a one year agreement for for students grades 6-12 and all staff. Canvas is the district’s primary learning management platform and supports instructional delivery, assignment management, grading, communication, and digital learning across the district. Canvas Catalog supports professional learning and course management functions.
 
 **Recommendation**
+
 Recommend approval of the Instructure, Inc (Canvas) contract.
 
 **Contact Person**
+
 Josh Reynolds, Technology and Innovation Manager
 
 **Supporting Documents:**
@@ -188,12 +207,15 @@ Josh Reynolds, Technology and Innovation Manager
 ### 9. Student Data Privacy Agreement - FitTrack PE
 
 **Quick Summary / Abstract**
+
 A student data privacy agreement between the Iowa City Community School District and FitTrack PE. FitTrack PE is an app that allows students to track personal fitness data and fitness goals.
 
 **Recommendation**
+
 Approve and Sign FitTrack PE Student Data Privacy Agreement.
 
 **Contact Person**
+
 Joshua Reynolds, Technology and Innovation Manager
 
 **Supporting Documents:**
@@ -203,12 +225,15 @@ Joshua Reynolds, Technology and Innovation Manager
 ### 10. SDPA - CharacterStrong LLC
 
 **Quick Summary / Abstract**
+
 An updated student data privacy agreement between the Iowa City Community School District and CharacterStrong LLC. CharacterStrong is a social-emotional learning curriculum that is designed to strengthen school culture, help students build positive relationships, and support their ability to succeed in school and in life.
 
 **Recommendation**
+
 Approve and sign Student Data Privacy Agreement with CharacterStrong LLC.
 
 **Contact Person**
+
 Joshua Reynolds, Technology & Innovation Manager
 
 **Supporting Documents:**
@@ -218,12 +243,15 @@ Joshua Reynolds, Technology & Innovation Manager
 ### 11. Google Workspace for Education Plus Contract
 
 **Quick Summary / Abstract**
+
 The Iowa City Community School District seeks Board approval to enter into a three-year agreement for Google Workspace for Education Plus through CDW. This platform provides enhanced digital collaboration, communication, security, and instructional tools for both students and staff across the district. The agreement includes licensing for 20,000 students, staff, and service accounts supporting district-wide access to advanced Google Workspace features such as enhanced security, analytics, and teaching/learning tools. Total cost for the three-year agreement is $275,400, with $91,800 due annually.
 
 **Recommendation**
+
 Recommend approval of the Google Workspace for Education Plus contract, purchased through CDW.
 
 **Contact Person**
+
 Josh Reynolds, Technology and Innovation Manager
 
 **Supporting Documents:**
@@ -242,6 +270,7 @@ Josh Reynolds, Technology and Innovation Manager
 ### 1. Personnel Agenda
 
 **Contact Person**
+
 Lyndsee Detra, Senior HR Manager, through Nick Proud - Chief of Human Resources
 
 **Supporting Documents:**
@@ -322,6 +351,7 @@ Lyndsee Detra, Senior HR Manager, through Nick Proud - Chief of Human Resources
 ### 1. Wear Orange Day 2026 Resolution
 
 **Recommendation**
+
 Motion to approve the Wear Orange Day 2026 Resolution.
 
 **Supporting Documents:**
@@ -331,9 +361,11 @@ Motion to approve the Wear Orange Day 2026 Resolution.
 ### 2. Resolution Approving the Deposit of Proceeds Received from the Sale of Real Properties ( Hills property,  1725 N. Dodge Street, and approximately 42.4 acres of unimproved real estate) into the General Fund
 
 **Quick Summary / Abstract**
+
 Resolution approving the deposit of proceeds received from the sale of real properties into the General Fund. The properties include the Hills property, located at 301 W. Main Street, Hills, Iowa; the Educational Services Center, located at 1725 N. Dodge Street; and approximately 42.4 acres of unimproved real estate previously purchased from Scanlon Family, L.L.C.
 
 **Recommendation**
+
 Motion to approve the resolution approving the deposit of proceeds received from the sale of real properties into the General Fund
 
 **Supporting Documents:**
@@ -344,6 +376,7 @@ Motion to approve the resolution approving the deposit of proceeds received from
 ### 3. Negotiated Agreement - Secretaries: Iowa City Community School District (ICCSD) and the Iowa City Secretaries United Association (ICSUA)
 
 **Recommendation**
+
 Motion to approve the secretaries negotiated agreement.
 
 **Supporting Documents:**
@@ -353,46 +386,51 @@ Motion to approve the secretaries negotiated agreement.
 ### 4. Negotiated Agreement - Physical Plant: Iowa City Community School District (ICCSD) and the Iowa City Physical Plant Association
 
 **Recommendation**
+
 Motion to approve the Physical Plant negotiated agreement.
 
 **Supporting Documents:**
 
-- [Physical Plant Tentative Agreement 26-27 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=575126&MID=29981).pdf) — 113,568 bytes
+- [Physical Plant Tentative Agreement 26-27 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=575126&MID=29981)
 
 ### 5. Negotiated Agreement - Nutrition Services: Iowa City Community School District (ICCSD) and the Iowa City Schools Nutrition Services Association (ICSNSA)
 
 **Quick Summary / Abstract**
+
 This agreement is in year 2 of the two-year agreement that was approved by the board in 2025.
 
 This agreement does not need action but is included for the Board's information.
 
 **Supporting Documents:**
 
-- [Nutrition Tentative Agreement 26-27 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=575082&MID=29981).pdf) — 90,495 bytes
+- [Nutrition Tentative Agreement 26-27 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=575082&MID=29981)
 
 ### 6. Negotiated Agreement - Paraprofessionals: Iowa City Community School District (ICCSD) and Iowa City Education Association (ICEA)
 
 **Quick Summary / Abstract**
+
 This agreement is in year 2 of the two-year agreement that was approved by the board in 2025.
 
 This agreement does not need action but is included for the Board's information.
 
 **Supporting Documents:**
 
-- [Paraprofessional Approved Agreement 26-27 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=575081&MID=29981).pdf) — 88,985 bytes
+- [Paraprofessional Approved Agreement 26-27 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=575081&MID=29981)
 
 ### 7. Negotiated Agreement - Teachers: Iowa City Community School District (ICCSD) and the Iowa City Education Association
 
 **Recommendation**
+
 Motion to aprove the teachers negotiated agreement.
 
 **Supporting Documents:**
 
-- [Teacher Tentative Agreement 26-27 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=575079&MID=29981).pdf) — 128,662 bytes
+- [Teacher Tentative Agreement 26-27 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=575079&MID=29981)
 
 ### 8. 700 Policies - Noninstructional Operations & Business Services
 
 **Recommendation**
+
 Motion to table the 700 series policies.
 
 **Supporting Documents:**
@@ -402,6 +440,7 @@ Motion to table the 700 series policies.
 ### 9. Policy 200.3G4 - Financial Oversight Committee Charter
 
 **Recommendation**
+
 Motion to approve policy 200.3G4 - Financial Oversight Committee Charter
 
 **Supporting Documents:**
@@ -411,6 +450,7 @@ Motion to approve policy 200.3G4 - Financial Oversight Committee Charter
 ### 10. Policy 207 - Board of Directors Legal Counsel
 
 **Recommendation**
+
 Motion to table Policy 207 - Board of Directors Legal Counsel.
 
 **Supporting Documents:**
@@ -420,6 +460,7 @@ Motion to table Policy 207 - Board of Directors Legal Counsel.
 ### 11. Policy 303.2 - Administrator Qualifications, Recruitment, Appointment
 
 **Recommendation**
+
 Motion to table policy 303.2 - Administrator Qualifications, Recruitment, Appointment
 
 **Supporting Documents:**
@@ -429,6 +470,7 @@ Motion to table policy 303.2 - Administrator Qualifications, Recruitment, Appoin
 ### 12. Policy 303.4 - Administrator Salary and Other Compensation
 
 **Recommendation**
+
 Motion to approve policy 303.4 - Administrator Salary and Other Compensation
 
 **Supporting Documents:**
@@ -446,6 +488,7 @@ Motion to approve policy 303.4 - Administrator Salary and Other Compensation
 ## N. Adjourn
 
 **Recommendation**
+
 Motion to adjourn the meeting
 
 ---
@@ -454,6 +497,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 29981](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=29981). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:48 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:54 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

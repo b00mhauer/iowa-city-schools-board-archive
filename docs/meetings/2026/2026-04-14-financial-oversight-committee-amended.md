@@ -24,8 +24,8 @@ mid: 29488
 - [200.3G4 - Financial Oversight Committee Charter](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546160&MID=29488)
 - [ICCSD Financial Oversight Charter Proposal_2026 04 01](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546818&MID=29488)
 - [ICCSD Financial Oversight Committee Charter_200.3G4 - Financial Oversight Committee Charter _ Board Policies Details](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546807&MID=29488)
-- [IASB_Regulation  112-R(1)  AuditFinance Committee](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546810&MID=29488) AuditFinance Committee.pdf) — 167,320 bytes
-- [IASB_Regulation 112-R(2)  AuditFinance Committee - Annual Budget and 3 Year Financial Plan Activities and Calendar (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546809&MID=29488) AuditFinance Committee - Annual Budget and 3 Y.pdf) — 161,346 bytes
+- [IASB_Regulation  112-R(1)  AuditFinance Committee](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546810&MID=29488)
+- [IASB_Regulation 112-R(2)  AuditFinance Committee - Annual Budget and 3 Year Financial Plan Activities and Calendar (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546809&MID=29488)
 - [DES MOINES PUBLIC SCHOOLS AUDIT COMMITTEE CHARTER - in process of updating ](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546805&MID=29488)
 - [AuditCommitte - Cedar Rapids Schools](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546806&MID=29488)
 - [Cedar Rapids Schools_AuditCommitteApprovedCharter.Matrix_5-01-19](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546811&MID=29488)
@@ -58,6 +58,6 @@ mid: 29488
 
 Agenda content carried through from the district's published materials for [MID 29488](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=29488). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:48 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:54 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

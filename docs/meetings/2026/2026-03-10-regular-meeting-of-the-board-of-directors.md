@@ -18,6 +18,7 @@ mid: 25492
 ## B. Welcome
 
 **Summary**
+
 The public is reminded that if they wish to speak, they need to complete a speaker form found at the table in the back of the room and turn it in. During community comment persons may speak to the Board about topics relevant to the district.  All community comment, directed at non agenda items and agenda items, shall take place at the beginning of the meeting during the Community Comment section of the agenda.
 
 Board Norms
@@ -43,6 +44,7 @@ We will be accountable to the public, especially to our students.
 ### 1. Approve the March 10, 2026 Board Meeting Agenda
 
 **Recommendation**
+
 Motion to approve the March 10, 2026 Board Meeting Agenda.
 
 ## D. Public Forum
@@ -50,6 +52,7 @@ Motion to approve the March 10, 2026 Board Meeting Agenda.
 ### 1. Student Representatives Update
 
 **Quick Summary / Abstract**
+
 Tate High:  Video Update 
 
 Liberty High:  John and Mia
@@ -65,6 +68,7 @@ West High:  Waleed and Eddie
 ### 2. Community Comment
 
 **Quick Summary / Abstract**
+
 Thank you for your interest in Iowa City Community School District and for your willingness to share your comments. You are reminded to give your name, address, and topic on which you would like to speak. During community comment, persons may speak to the Board about topics relevant to the district. Speakers who make comments are reminded they are responsible for their own statements and may be subject to legal action for those which are threatening, harassing, or defamatory in nature. It is expected that speakers will address the board and each other with civility and abide by the stated time limits.
 
 All community comment, directed at non-agenda items and agenda items, shall take place at the beginning of the meeting and shall be limited to 4 minutes per speaker. The initial community comment period shall be limited to 1 hour. Remaining community comment, to the extent necessary, shall take place at the end of the meeting. The board will not engage in any discussion during public comment. The role of the board during this time is to listen.
@@ -74,24 +78,29 @@ All community comment, directed at non-agenda items and agenda items, shall take
 ## F. Consent Agenda Approval
 
 **Recommendation**
+
 Motion to approve the consent agenda
 
 ### 1. Minutes of the February 24, 2026 Regular Board Meeting
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 2. Minutes of the February 24, 2026 Board Closed Session
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 3. Accounts Payable
 
 **Quick Summary / Abstract**
+
 Accounts Payable
 
 **Contact Person**
+
 Curt Pratt, Chief Operations Officer
 
 **Supporting Documents:**
@@ -104,9 +113,11 @@ Curt Pratt, Chief Operations Officer
 ### 4. Personnel Agenda March 10, 2026
 
 **Quick Summary / Abstract**
+
 Personnel Agenda March 10, 2026
 
 **Contact Person**
+
 Nick Proud, Chief of Human Resources
 
 **Supporting Documents:**
@@ -116,31 +127,38 @@ Nick Proud, Chief of Human Resources
 ### 5. Open Enrollments
 
 **Quick Summary / Abstract**
+
 Open Enrollments 2025-2026  and  2026-2027
 
 **Recommendation**
+
 Motion to approve OE recommendations
 
 **Contact Person**
+
 Office of Teaching and Learning
 
 **Supporting Documents:**
 
-- [3-10-2026  Board Meeting  OE  (25-26)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=528057&MID=25492)-.pdf) — 179,867 bytes
-- [3-10-2026  Board Meeting   OE (26-27)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=528058&MID=25492)-.pdf) — 185,208 bytes
+- [3-10-2026  Board Meeting  OE  (25-26)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=528057&MID=25492)
+- [3-10-2026  Board Meeting   OE (26-27)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=528058&MID=25492)
 
 ### 6. Southeast MS Dust Collector – Change Order #1
 
 **Recommendation**
+
 The District recommends acceptance of Change Order #1 in the amount of $3,058.84 from The Prull Group of Cedar Rapids, IA.
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 **Description**
+
 The District received a Change Order from the Prull Group for a water line tie-in that needed to be relocated.
 
 **Project Funding**
+
 This project was funded with SAVE/SILO funds, as part of the Southeast Middle School Project.
 
 **Supporting Documents:**
@@ -150,33 +168,40 @@ This project was funded with SAVE/SILO funds, as part of the Southeast Middle Sc
 ### 7. Resolution to Set the date of March 24, 2026, at 6:00 pm for a Public Hearing on the Conveyance of an Interest in Real Property
 
 **Quick Summary / Abstract**
+
 Resolution to Set the date of March 24, 2026, at 6:00 pm for a public hearing on the conveyance of an interest in real property, parcel of land in Sec. 22, Twp. 78N., R. 6 West of the 5th P.M., in the Town of Hills, Iowa.
 
 **Recommendation**
+
 Motion to approve the resolution to set the date of March 24, 2026, at 6:00 pm for a public hearing on the conveyance of an interest in real property, parcel of land in Sec. 22, Twp. 78N., R. 6 West of the 5th P.M., in the Town of Hills, Iowa.
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 **Supporting Documents:**
 
-- [(1) First Board Resolution - Iowa City CSD (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536137&MID=25492) First Board Resolution - Iowa City CSD (1).pdf) — 10,422 bytes
-- [(2) Notice of Public Hearing - Iowa City CSD (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536139&MID=25492) Notice of Public Hearing - Iowa City CSD (1).pdf) — 10,093 bytes
+- [(1) First Board Resolution - Iowa City CSD (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536137&MID=25492)
+- [(2) Notice of Public Hearing - Iowa City CSD (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536139&MID=25492)
 
 ### 8. Set the date of March 24, 2026 at 6:00 pm for a public hearing on the Proposed Property Tax Levy
 
 **Quick Summary / Abstract**
+
 Set the date of March 24, 2026, for a public hearing on the Proposed Property Tax Levy.  Once the date is set, notice of the public hearing will be published as required in the Iowa City Press Citizen.
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 ### 9. Appendix 9 Approval Requests and Project Updates
 
 **Recommendation**
+
 Recommend approval of Appendix 9 approval requests.
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 **Supporting Documents:**
@@ -206,6 +231,7 @@ Curt Pratt, Chief Operating Officer
 ### 1. Interim Chief Financial Officer Report
 
 **Contact Person**
+
 Kim Michael-Lee, Interim Chief Financial Officer
 
 **Supporting Documents:**
@@ -216,6 +242,7 @@ Kim Michael-Lee, Interim Chief Financial Officer
 ### 2. Board Financial  Update
 
 **Quick Summary / Abstract**
+
 Board Financial Leadership Update
 
 **Supporting Documents:**
@@ -225,6 +252,7 @@ Board Financial Leadership Update
 ### 3. Audit Resolution
 
 **Quick Summary / Abstract**
+
 Originally Proposed Option: Pending the conclusion of the FY24 and FY25 audits by Bohnsack and Frommelt, LLP, the board shall engage with the Iowa State Auditor's office to perform any additional necessary procedures.
 
 Proposed Revisions:
@@ -253,6 +281,7 @@ Proposed Revisions:
 ### 2. Recommended Budget Reductions
 
 **Recommendation**
+
 Motion to table Recommended Budget Reductions until next board meeting.
 
 **Supporting Documents:**
@@ -263,6 +292,7 @@ Motion to table Recommended Budget Reductions until next board meeting.
 ### 3. Audit Resolution
 
 **Quick Summary / Abstract**
+
 Originally Proposed Option: Pending the conclusion of the FY24 and FY25 audits by Bohnsack and Frommelt, LLP, the board shall engage with the Iowa State Auditor's office to perform any additional necessary procedures.
 
 Proposed Revisions: 
@@ -272,6 +302,7 @@ Proposed Revisions: 
 2. Pending the conclusion of Bohnsack & Frommelt’s FY24 and FY25 audits, the Board will work with the Iowa State Auditor’s office on any necessary additional procedures.
 
 **Recommendation**
+
 Motion to table audit resolution until next board meeting
 
 ## M. Upcoming Events and Community Updates
@@ -279,6 +310,7 @@ Motion to table audit resolution until next board meeting
 ### 1. Legislative Update
 
 **Quick Summary / Abstract**
+
 Legisltive Forums
 
 Friday, March 27 - 4:00-5:00
@@ -290,6 +322,7 @@ The forums will be held in the boardroom (Room 200) at the Educational Services 
 ### 2. Director Liaison Report
 
 **Quick Summary / Abstract**
+
 Molly Abraham
 
 Charlie Eastham
@@ -369,6 +402,7 @@ March 5, 2026: Meeting with Superintendent Degner
 ## N. Adjourn
 
 **Recommendation**
+
 Motion to adjourn the meeting
 
 ---
@@ -377,6 +411,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 25492](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25492). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:48 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:54 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

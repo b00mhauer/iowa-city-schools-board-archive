@@ -18,6 +18,7 @@ mid: 29980
 ## B. Welcome
 
 **Summary**
+
 The public is reminded that if they wish to speak, they need to complete a speaker form found at the table in the back of the room and turn it in. During community comment persons may speak to the Board about topics relevant to the district.  All community comment, directed at non agenda items and agenda items, shall take place at the beginning of the meeting during the Community Comment section of the agenda.
 
 Board Norms
@@ -43,6 +44,7 @@ We will be accountable to the public, especially to our students.
 ### 1. Motion to approve the May 12, 2026 Regular Board Meeting Agenda
 
 **Recommendation**
+
 Motion to approve the May 12, 2026 Regular Board Meeting agenda.
 
 ## D. Public Forum
@@ -50,6 +52,7 @@ Motion to approve the May 12, 2026 Regular Board Meeting agenda.
 ### 1. Student Representative Updates
 
 **Quick Summary / Abstract**
+
 Tate High: Video Update 
 
 West High: Waleed and Eddie
@@ -61,11 +64,13 @@ City High: Alma and Tobiah
 ### 2. ICEA Update
 
 **Quick Summary / Abstract**
+
 Nathan Kelley, ICEA President
 
 ### 3. Community Comment
 
 **Quick Summary / Abstract**
+
 Thank you for your interest in Iowa City Community School District and for your willingness to share your comments. You are reminded to give your name, address, and topic on which you would like to speak. During community comment, persons may speak to the Board about topics relevant to the district. Speakers who make comments are reminded they are responsible for their own statements and may be subject to legal action for those which are threatening, harassing, or defamatory in nature. It is expected that speakers will address the board and each other with civility and abide by the stated time limits. All community comment, directed at non-agenda items and agenda items, shall take place at the beginning of the meeting and shall be limited to 4 minutes per speaker. The initial community comment period shall be limited to 1 hour. Remaining community comment, to the extent necessary, shall take place at the end of the meeting. The board will not engage in any discussion during public comment. The role of the board during this time is to listen.
 
 ## E. Public Hearings
@@ -73,6 +78,7 @@ Thank you for your interest in Iowa City Community School District and for your 
 ### 1. Pubic Hearing for the Amended 2025-2026 Certified Budget
 
 **Quick Summary / Abstract**
+
 Now is the time and place for the public hearing on the District's proposed FY2026 Certified Budget Amendment.  Notice of Public Hearing was published in the Iowa City Press Citizen on April 29, 2026.
 
 Are there any comments from the Board?
@@ -86,71 +92,87 @@ Is there anyone from the community that would like to advise or provide comment 
 ## F. Consent Agenda Approval
 
 **Recommendation**
+
 Motion to approve the consent agenda
 
 ### 1. Minutes of the April 28, 2026 Regular Board Meeting
 
 **Recommendation**
+
 Approve the minutes of the April 28, 2026 Regular Board Meeting
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 2. Minutes of the April 28, 2026 Board Closed Session 1
 
 **Recommendation**
+
 Approve minutes of the April 28, 2026 Board Closed Session 1
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 3. Minutes of the April 28, 2026 Board Closed Session 2
 
 **Recommendation**
+
 Approve minutes of the April 28, 2026 Board Closed Session 2
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 4. Minutes of the April 28, 2026 Board Closed Session 3
 
 **Recommendation**
+
 Approve minutes of the April 28, 2026 Board Closed Session 3
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 5. Minutes of the April 24, 2026 Legislative Forum
 
 **Recommendation**
+
 Approve minutes of the April 24, 2026 Legislative Forum
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 6. Accounts Payable
 
 **Recommendation**
+
 Approval of Accounts Payable
 
 **Contact Person**
+
 Alan Moran Director of Finance
 
 **Supporting Documents:**
 
 - [AP Board Report  5.12.2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568712&MID=29980)
-- [BoardReport10003 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568713&MID=29980).pdf) — 162,706 bytes
+- [BoardReport10003 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568713&MID=29980)
 - [4-28-2026_Boardreport10003](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568714&MID=29980)
 
 ### 7. Personnel Agenda May 12, 2026
 
 **Quick Summary / Abstract**
+
 Personnel Agenda
 
 **Recommendation**
+
 Motion to approve the personnel agenda
 
 **Contact Person**
+
 Nick Proud, Chief Human Resources Officer
 
 **Supporting Documents:**
@@ -160,30 +182,36 @@ Nick Proud, Chief Human Resources Officer
 ### 8. Open Enrollments
 
 **Quick Summary / Abstract**
+
 Open Enrollments: 2025-26 and 2026-27
 
 **Recommendation**
+
 Motion to approve OE recommendations
 
 **Contact Person**
+
 Office of Teaching and Learning
 
 **Supporting Documents:**
 
-- [5-12-2026 Board Meeting  OE (25-26)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568008&MID=29980)-.pdf) — 180,571 bytes
-- [5-12-2026  Board Meeting  OE (26-27)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568009&MID=29980)-.pdf) — 180,688 bytes
+- [5-12-2026 Board Meeting  OE (25-26)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568008&MID=29980)
+- [5-12-2026  Board Meeting  OE (26-27)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568009&MID=29980)
 
 ### 9. 2026-2027 iJAG MOU
 
 **Quick Summary / Abstract**
+
 Iowa Jobs for America’s Graduates (iJAG) provides comprehensive drop-out prevention and school-to-work transition services for youth. iJAG works to develop workplace competencies in students that assist in their success in career/life transitions by providing individual career education, increasing academic achievement, and providing
 
 school-to-work transition. Each iJAG program is operated as an elective course for credit during the regular school day.
 
 **Recommendation**
+
 Recommend approval and signature for the iJAG MOU.
 
 **Contact Person**
+
 Carmen Gwenigale; Director of Curriculum, Instruction, and Assessment
 
 **Supporting Documents:**
@@ -193,15 +221,19 @@ Carmen Gwenigale; Director of Curriculum, Instruction, and Assessment
 ### 10. 2026 Recycling Program Contract
 
 **Quick Summary / Abstract**
+
 On Feb 20, 2026 the District received two quotes for the District’s recycling program; Republic Services, & ABC Disposal Systems. ABC Disposal Systems of Iowa City, Iowa had the lowest pricing schedule.  The estimated annual contract amount is based on a mixed schedule of 1–2 pickups per week at all District buildings. Extra fees will apply if additional pickups are needed, container sizes change, or supplemental charges are added.
 
 **Recommendation**
+
 Recommend approval of the contract from ABC Disposal Systems of Iowa City, Iowa in the amount of $37,992.
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 **Project Funding**
+
 This program will be funded with general funds.
 
 **Supporting Documents:**
@@ -211,12 +243,15 @@ This program will be funded with general funds.
 ### 11. Data Privacy Agreement - Parchment
 
 **Quick Summary / Abstract**
+
 A student data privacy agreement between the Iowa City Community School District and Instructure. Instructure is the parent company for Parchment. Parchment is a credential management platform and will enable a secure exchange of digital transcripts, diplomas, and certificates.
 
 **Recommendation**
+
 Consent with signature
 
 **Contact Person**
+
 Joshua Reynolds, Technology and Innovation Manager
 
 **Supporting Documents:**
@@ -226,12 +261,15 @@ Joshua Reynolds, Technology and Innovation Manager
 ### 12. Privacy Agreement - Issue Badge
 
 **Quick Summary / Abstract**
+
 A student data privacy agreement between Iowa City Community School District and Issue Badge. Issue Badge is a cloud-based platform used to create, customize, and issue secure, verifiable digital badges and certificates.
 
 **Recommendation**
+
 Recommend approval with signature.
 
 **Contact Person**
+
 Joshua Reynolds, Technology & Innovation Manager
 
 **Supporting Documents:**
@@ -241,12 +279,15 @@ Joshua Reynolds, Technology & Innovation Manager
 ### 13. Student Data Privacy - GearLocker
 
 **Quick Summary / Abstract**
+
 A student data privacy agreement between the Iowa City Community School District and GearLocker.  GearLocker is a sports equipment management software. GearLocker helps track inventory, handle checkouts,  and help eliminate list equipment.
 
 **Recommendation**
+
 Consent with signature
 
 **Contact Person**
+
 Joshua Reynolds, Technology and Innovation Manager
 
 **Supporting Documents:**
@@ -256,12 +297,15 @@ Joshua Reynolds, Technology and Innovation Manager
 ### 14. Student Data Privacy - Clever Prototypes LLC
 
 **Quick Summary / Abstract**
+
 A student data privacy agreement between the Iowa City Community School District and Clever Prototypes LLC. Clever Prototypes LLC is the parent company for Storyboard That. Storyboard That is a browser-based drag-and-drop tool to create storyboards, comics, and graphic organizers.
 
 **Recommendation**
+
 Consent with signature
 
 **Contact Person**
+
 Joshua Reynolds, Technology and Innovation Manager
 
 **Supporting Documents:**
@@ -271,12 +315,15 @@ Joshua Reynolds, Technology and Innovation Manager
 ### 15. Data Privacy Agreement - HMH
 
 **Quick Summary / Abstract**
+
 A student data privacy agreement between the Iowa City Community School District and Houghton Mifflin Harcourt Company. HMH is a publisher of textbooks, instructional technology materials, assessments, and reference works.
 
 **Recommendation**
+
 Consent with signature
 
 **Contact Person**
+
 Joshua Reynolds, Technology and Innovation Manager
 
 **Supporting Documents:**
@@ -287,12 +334,15 @@ Joshua Reynolds, Technology and Innovation Manager
 ### 16. Data Privacy Agreement - Vista
 
 **Quick Summary / Abstract**
+
 An Exhibit E student data privacy agreement between the Iowa City Community School District and Vista Higher Learning, Inc. Vista Higher Learning, Inc is a specialized educational publisher and technology provider focusing on language learning for K-12 and higher education.
 
 **Recommendation**
+
 Consent
 
 **Contact Person**
+
 Joshua Reynolds, Technology and Innovation Manager
 
 **Supporting Documents:**
@@ -303,12 +353,15 @@ Joshua Reynolds, Technology and Innovation Manager
 ### 17. Infinite Campus Contract
 
 **Quick Summary / Abstract**
+
 The Iowa City Community School District seeks Board approval to renew its annual agreement with Infinite Campus, Inc. for the Student Information System (SIS) and related services for the period of July 1, 2026, through June 30, 2027. The agreement includes core SIS licensing, cloud hosting, data warehouse services, Campus Learning, Online Registration, workflow tools, reporting modules, and data services. These systems support student data management, instructional tools, registration, reporting, and operational workflows across the district. The total cost of the annual services is $201,703.60.
 
 **Recommendation**
+
 Recommend approval of the Infinite Campus contract renewal to ensure continuity of critical student information and operational systems.
 
 **Contact Person**
+
 Josh Reynolds, Technology and Innovation Manager
 
 **Supporting Documents:**
@@ -346,9 +399,11 @@ Josh Reynolds, Technology and Innovation Manager
 ### 22. Appendix 9 Approval Requests and Project Updates
 
 **Quick Summary / Abstract**
+
 Recommend approval or Appendix 9 approval requests.
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 **Supporting Documents:**
@@ -383,6 +438,7 @@ Curt Pratt, Chief Operating Officer
 ### 1. Interim Chief Financial Officer Update
 
 **Contact Person**
+
 Kim Michael-Lee, Interim Chief Financial Officer
 
 **Supporting Documents:**
@@ -408,7 +464,7 @@ Kim Michael-Lee, Interim Chief Financial Officer
 
 **Supporting Documents:**
 
-- [Coralville Pool Options - 5.8.26 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569889&MID=29980).pdf) — 631,594 bytes
+- [Coralville Pool Options - 5.8.26 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569889&MID=29980)
 
 ### 5. Wear Orange Day 2026 Resolution
 
@@ -422,7 +478,7 @@ Kim Michael-Lee, Interim Chief Financial Officer
 
 **Supporting Documents:**
 
-- [Farm to School Board Presentation (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569734&MID=29980).pdf) — 942,068 bytes
+- [Farm to School Board Presentation (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=569734&MID=29980)
 
 ### 2. Third Quarter Financial Report 
 
@@ -433,17 +489,19 @@ Kim Michael-Lee, Interim Chief Financial Officer
 ### 3. Personal Device Survey Results
 
 **Contact Person**
+
 Lucas Ptacek, Executive Director of Secondary Schools
 
 **Supporting Documents:**
 
-- [Updated Personal Device Survey Results Board Meeting (5-12-26)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=570898&MID=29980).pdf) — 977,499 bytes
+- [Updated Personal Device Survey Results Board Meeting (5-12-26)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=570898&MID=29980)
 
 ## L. Action Items
 
 ### 1. 800 Policies Buildings and Sites
 
 **Recommendation**
+
 Motion to approve the 800 policies as presented.
 
 **Supporting Documents:**
@@ -453,6 +511,7 @@ Motion to approve the 800 policies as presented.
 ### 2. Policy Primers
 
 **Recommendation**
+
 Motion to approve the policy primers as presented.
 
 **Supporting Documents:**
@@ -462,9 +521,11 @@ Motion to approve the policy primers as presented.
 ### 3. SBRC Exhibits Approval
 
 **Recommendation**
+
 Motion to approve the SBRC exhibits
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 **Supporting Documents:**
@@ -476,6 +537,7 @@ Curt Pratt, Chief Operating Officer
 ### 4. Resolution - Interfund Loan General Fund to SAVE
 
 **Recommendation**
+
 Motion to approve and adopt the resolution approving the interfund loan.
 
 **Supporting Documents:**
@@ -487,6 +549,7 @@ Motion to approve and adopt the resolution approving the interfund loan.
 ### 5. Facilities Master Plan Resolution
 
 **Recommendation**
+
 Motion to approve the Facilities Master Plan Resolution.
 
 **Supporting Documents:**
@@ -496,9 +559,11 @@ Motion to approve the Facilities Master Plan Resolution.
 ### 6. Approve Amended 2025-2026 Certified Budget
 
 **Recommendation**
+
 Motion to approve the amended 2025-2026 certified budget.
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 **Supporting Documents:**
@@ -509,6 +574,7 @@ Curt Pratt, Chief Operating Officer
 ### 7. UEN Steering Committee Member
 
 **Quick Summary / Abstract**
+
 As part of the standard rotation of the UEN Steering Committee, it is time for a board member from Iowa City to join the Steering Committee.  The board will need to appoint a director to serve on the UEN Steereing Committee.
 
 UEN Steering Committee Info: https://uen-ia.org/uen-steeringcommittee
@@ -530,6 +596,7 @@ Friday, April 30, 2027 (12-1) via Zoom
 Wednesday, November 18, 2026 at 6 - 8:30 pm at Hilton Des Moines Downtown
 
 **Recommendation**
+
 Motion to appoint UEN steering Committee Member
 
 ## M. Upcoming Events and Community Updates
@@ -539,6 +606,7 @@ Motion to appoint UEN steering Committee Member
 ### 2. Director Liaison Reports
 
 **Quick Summary / Abstract**
+
 Molly Abraham
 
 Charlie Eastham
@@ -669,13 +737,14 @@ May 7:  Education is Everyone's Business Breakfast
 
 **Supporting Documents:**
 
-- [5.14.26 Board Closed Session_ Iowa Code Chapter 21.5 (1)(i) - DRAFT](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568659&MID=29980)(i) - DRAFT.pdf) — 1,043,691 bytes
+- [5.14.26 Board Closed Session_ Iowa Code Chapter 21.5 (1)(i) - DRAFT](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568659&MID=29980)
 - [5.26.26 Policy & Governance Committee Meeting - DRAFT](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568657&MID=29980)
 - [5.26.26 Board Meeting Agenda - DRAFT](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568658&MID=29980)
 
 ## N. Adjourn
 
 **Recommendation**
+
 Motion to adjourn the meeting
 
 ---
@@ -684,6 +753,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 29980](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=29980). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:48 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:54 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

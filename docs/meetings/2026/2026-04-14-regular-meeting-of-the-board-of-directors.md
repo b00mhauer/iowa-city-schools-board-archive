@@ -18,6 +18,7 @@ mid: 28493
 ## B. Welcome
 
 **Summary**
+
 The public is reminded that if they wish to speak, they need to complete a speaker form found at the table in the back of the room and turn it in. During community comment persons may speak to the Board about topics relevant to the district.  All community comment, directed at non agenda items and agenda items, shall take place at the beginning of the meeting during the Community Comment section of the agenda.
 
 Board Norms
@@ -43,6 +44,7 @@ We will be accountable to the public, especially to our students.
 ### 1. Approve the April 14, 2026 Board Meeting Agenda
 
 **Recommendation**
+
 Motion to approve the April 14, 2024 Board Meeting agenda.
 
 ## D. Public Forum
@@ -50,6 +52,7 @@ Motion to approve the April 14, 2024 Board Meeting agenda.
 ### 1. Student Representatives Update
 
 **Quick Summary / Abstract**
+
 Tate High:  Video Update 
 
 City High:  Alma and Tobiah
@@ -65,11 +68,13 @@ West High:  Waleed and Eddie
 ### 2. ICEA Update
 
 **Quick Summary / Abstract**
+
 Brady Shutt, ICEA President
 
 ### 3. Community Comment
 
 **Quick Summary / Abstract**
+
 Thank you for your interest in Iowa City Community School District and for your willingness to share your comments. You are reminded to give your name, address, and topic on which you would like to speak. During community comment, persons may speak to the Board about topics relevant to the district. Speakers who make comments are reminded they are responsible for their own statements and may be subject to legal action for those which are threatening, harassing, or defamatory in nature. It is expected that speakers will address the board and each other with civility and abide by the stated time limits. All community comment, directed at non-agenda items and agenda items, shall take place at the beginning of the meeting and shall be limited to 4 minutes per speaker. The initial community comment period shall be limited to 1 hour. Remaining community comment, to the extent necessary, shall take place at the end of the meeting. The board will not engage in any discussion during public comment. The role of the board during this time is to listen.
 
 ## E. Public Hearings
@@ -77,26 +82,31 @@ Thank you for your interest in Iowa City Community School District and for your 
 ## F. Consent Agenda Approval
 
 **Recommendation**
+
 Motion to approve the consent agenda minus item 15
 
 ### 1. Minutes of the March 24, 2026 Regular Board Meeting 
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 2. Minutes of the March 24, 2026 Special Meeting/Budget Hearing Meeting
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 3. Minutes of the March 6, 2026 Legislative Forum
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 4. Minutes of the April 1, 2026 Work Session
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 5. Accounts Payable
@@ -139,15 +149,17 @@ Meeting Minutes
 - [BMO Transactions 070623-080523](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545941&MID=28493)
 - [BMO Transactions 080623-090523](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545938&MID=28493)
 - [BMO Transactions 100623-110523](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545933&MID=28493)
-- [BMO Transactions 100623-110523 ](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546068&MID=28493).pdf) — 1,105,544 bytes
+- [BMO Transactions 100623-110523 ](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546068&MID=28493)
 - [BMO Transactions 110623-120523](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545930&MID=28493)
 
 ### 6. Personnel Agenda 4.14.2026
 
 **Quick Summary / Abstract**
+
 Personnel Agenda 4.14.2026
 
 **Contact Person**
+
 Nick Proud, Chief of Human Resources
 
 **Supporting Documents:**
@@ -157,25 +169,30 @@ Nick Proud, Chief of Human Resources
 ### 7. Open Enrollments
 
 **Quick Summary / Abstract**
+
 Open Enrollments
 
 **Recommendation**
+
 Motion to approve OE recommendations
 
 **Contact Person**
+
 Office of Teaching and Learning
 
 **Supporting Documents:**
 
-- [4-14-2026  Board Meeting OE (25-26)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545100&MID=28493).pdf) — 182,059 bytes
-- [4-14-2026 Board Meeting   OE (26-27)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545096&MID=28493)-.pdf) — 180,648 bytes
+- [4-14-2026  Board Meeting OE (25-26)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545100&MID=28493)
+- [4-14-2026 Board Meeting   OE (26-27)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545096&MID=28493)
 
 ### 8. Iowa School for the Deaf Contract
 
 **Recommendation**
+
 Recommend approval of the Iowa School for the Deaf contract.
 
 **Contact Person**
+
 Eliza Proctor, Executive Director of Elementary Schools
 
 **Supporting Documents:**
@@ -185,6 +202,7 @@ Eliza Proctor, Executive Director of Elementary Schools
 ### 9. Inter-district transportation agreement/McKinney-Vento programming
 
 **Quick Summary / Abstract**
+
 The Iowa City Community School District collaborates with other school districts to assist us in addressing the transportation needs and rights of our students experiencing homelessness as defined by the McKinney-Vento Act. Enclosed in the board packet is a new interagency agreement with [partner district], which requires board review and the signature of the board president.  
 
 Overview of Services Agreement:
@@ -192,9 +210,11 @@ Overview of Services Agreement:
 The McKinney-Vento Act, 722 (g)(1)(J)(iii), directs state and its local educational agencies to adopt policies and practices to ensure that transportation support is provided at the request of the parent or guardian (or in the case of an unaccompanied youth, the liaison), to and from the school of origin. In some circumstances, an eligible student’s living arrangements within the area served by the local educational agency of origin end, and the student, though continuing their education in the school of origin, begins living in an area served by another local educational agency. The attached agreement outlines a method of apportioning the responsibility and costs for providing the student with transportation to and from the school of origin, including the procedural duties of both the district of origin and residence, as facilitated by their district homeless liaisons.
 
 **Recommendation**
+
 Recommend approval of inter-district transportation agreement/McKinney-Vento programming
 
 **Contact Person**
+
 Coreen Frank, Human Resources Sr. Coordinator
 
 **Supporting Documents:**
@@ -204,12 +224,15 @@ Coreen Frank, Human Resources Sr. Coordinator
 ### 10. Nutrition Services Vendor Contract Extensions
 
 **Quick Summary / Abstract**
+
 Yearly renewal of contracts for our prime vendor (Martin Bros), dairy vendor (Anderson Erickson), and bread vendor (Pan O Gold).
 
 **Recommendation**
+
 In reviewing the satisfactory performance of these vendors this past year, ICCSD would like to renew our contracts for another year.
 
 **Contact Person**
+
 Alison Demory, Nutrition Services Director
 
 **Supporting Documents:**
@@ -222,14 +245,17 @@ Alison Demory, Nutrition Services Director
 ### 11. Verizon Wireless Distance Learning Data Services Agreement
 
 **Quick Summary / Abstract**
+
 The district is entering into an Authorized Customer Agreement with Verizon Wireless to access discounted data plans and equipment through the “Anytime-Anywhere Learning Initiative.” This program, originally negotiated with the Los Angeles Unified School District, allows eligible K–12 institutions to purchase wireless data services and devices at reduced rates replaces our current agreement. 
 
 The agreement maintains access to unlimited data plans for mobile hotspots at a cost of $15 per device per month to support off-campus learning, while adding flexibility and extending current pricing through March 12, 2029, with month-to-month service available after an initial three-month minimum per line.
 
 **Recommendation**
+
 Approve the Verizon Wireless Authorized Customer Agreement to provide discounted wireless data services and equipment supporting student connectivity and district technology initiatives, and authorize the appropriate district official to execute the agreement.
 
 **Contact Person**
+
 Josh Reynolds
 
 Technology and Innovation Manager
@@ -241,6 +267,7 @@ Technology and Innovation Manager
 ### 12. E-Rate Eligible Internet Service Contracts
 
 **Quick Summary / Abstract**
+
 The district currently maintains two Internet Service Providers: Segra at a monthly cost of $3,756, and Mediacom at a monthly cost of $3,749.99.  At present, only the primary connection is eligible for E-Rate's Billed Entity Applicant Reimbursement at a 60% discount rate.
 
 Following the  end of our contracts, the District followed the E-Rate bidding process, and selected the lowest qualified bids for service. The proposed solution includes two primary connections, each supporting 50% of district buildings, making both connections eligible for the 60% E-Rate discount. 
@@ -252,27 +279,32 @@ West Connection: ImOn – SPI Invoiced - 10 GB service, 60-month term, $1,425.0
 This approach increases capacity, improves redundancy, and maximizes savings via the E-Rate program.
 
 **Recommendation**
+
 Approve the proposed contracts with Segra and ImOn to implement dual primary internet connections as outlined.
 
 **Contact Person**
+
 Josh Reynolds 
 
 Technology and Innovation Manager
 
 **Supporting Documents:**
 
-- [Iowa City Schools (IA) - Internet Services Agreement - S0024999 (Renewal of 22019) - 3-24-2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545441&MID=28493) - Internet Services Agreement - S0024999 (Rene.pdf) — 237,113 bytes
+- [Iowa City Schools (IA) - Internet Services Agreement - S0024999 (Renewal of 22019) - 3-24-2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545441&MID=28493)
 - [ICCSD - 2026 Add 355 Iowa Ave ImOn Business MSA](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545442&MID=28493)
 
 ### 13. E-rate Eligible Networking Equipment Purchase
 
 **Quick Summary / Abstract**
+
 The district plans to replace end-of-life wireless controllers, associated network modules, power adapters, and the related support contract, which includes next-business-day hardware replacement. The proposed solution from Aercor is eligible for E-Rate reimbursement at the district’s 60% discount rate and will be invoiced through the Service Provider Invoice (SPI) method. The total projected cost after reimbursement to the district is $75,815.36.
 
 **Recommendation**
+
 Approve the proposed purchase agreement for network Equipment with Aercor as outlined.
 
 **Contact Person**
+
 Josh Reynolds
 
 Technology and Innovation Manager
@@ -284,19 +316,23 @@ Technology and Innovation Manager
 ### 14. Set the date of April 28, 2026 at 6:00 pm for a public hearing on the 2026-27 Certified Budget
 
 **Quick Summary / Abstract**
+
 Quick Summary / Abstract
 
 Set the date of April 28, 2026 at 6:00 PM, for a public hearing on the  2026-27 Proposed Certified Budget.  Once the date is set, notice of the public hearing will be published as required in the Iowa City Press Citizen.
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 ### 15. Appendix 9 Approval Requests and Project Udpates
 
 **Recommendation**
+
 Recommend approval of Appendix 9 approval requests.
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 **Supporting Documents:**
@@ -314,18 +350,21 @@ Curt Pratt, Chief Operating Officer
 ### 1. Resolution to Set the date of April 28, 2026, at 6:00 pm for a Public Hearing on the Conveyance of an Interest in Real Property Locally Known at 1725 N Dodge St.
 
 **Quick Summary / Abstract**
+
 Resolution to Set the date of April 28, 2026, at 6:00 pm for a public hearing on the conveyance of an interest in real property. The parcel of land is locally known as 1725 N. Dodge Street, Iowa City, Iowa.
 
 **Recommendation**
+
 Motion to approve the resolution to set the date of April 28, 2026, at 6:00 pm for a public hearing on the conveyance of an interest in real property, locally known as 1725 N. Dodge Street, Iowa City, Iowa.
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 **Supporting Documents:**
 
-- [(1) First Board Resolution - Iowa City](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545694&MID=28493) First Board Resolution - Iowa City.pdf) — 109,534 bytes
-- [(2) Signed Notice of Public Hearing - Iowa City](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545695&MID=28493) Signed Notice of Public Hearing - Iowa City.pdf) — 34,081 bytes
+- [(1) First Board Resolution - Iowa City](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545694&MID=28493)
+- [(2) Signed Notice of Public Hearing - Iowa City](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545695&MID=28493)
 
 ## H. Committee Reports
 
@@ -336,6 +375,7 @@ Curt Pratt, Chief Operating Officer
 ### 1. 700 Policies - Noninstructional Operations & Business Services
 
 **Quick Summary / Abstract**
+
 This is a second reading of the 700 policies.
 
 **Supporting Documents:**
@@ -350,8 +390,8 @@ This is a second reading of the 700 policies.
 
 **Supporting Documents:**
 
-- [Personal Device, Screen Time, & Software Feedback (4-14-26)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=547439&MID=28493).pdf) — 691,472 bytes
-- [DRAFT Cell Phone, Screen Time, Software Survey (April 2026)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546921&MID=28493).pdf) — 151,298 bytes
+- [Personal Device, Screen Time, & Software Feedback (4-14-26)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=547439&MID=28493)
+- [DRAFT Cell Phone, Screen Time, Software Survey (April 2026)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546921&MID=28493)
 
 ## K. Discussion Items
 
@@ -376,9 +416,11 @@ This is a second reading of the 700 policies.
 ### 1. 700 Policies - Noninstructional Operations & Business Services
 
 **Quick Summary / Abstract**
+
 Annual review of 700 policies
 
 **Recommendation**
+
 Motion to table the 700 policies
 
 **Supporting Documents:**
@@ -390,6 +432,7 @@ Motion to table the 700 policies
 ### 1. Legislative Update
 
 **Quick Summary / Abstract**
+
 Legisltive Forum
 
 Friday, April 24 - 4:00-5:00
@@ -399,6 +442,7 @@ The forum will be held in the boardroom (Room 200) at the Educational Services C
 ### 2. Director Liaison Report
 
 **Quick Summary / Abstract**
+
 Molly Abraham
 
 Charlie Eastham
@@ -548,6 +592,7 @@ April 7:  Meeting with community member
 ## N. Adjourn
 
 **Recommendation**
+
 Motion to adjourn the meeting
 
 ---
@@ -556,6 +601,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 28493](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=28493). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:48 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:54 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

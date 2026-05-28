@@ -18,6 +18,7 @@ mid: 25489
 ## B. Welcome
 
 **Summary**
+
 The public is reminded that if they wish to speak, they need to complete a speaker form found at the table in the back of the room and turn it in. During community comment persons may speak to the Board about topics relevant to the district.  All community comment, directed at non agenda items and agenda items, shall take place at the beginning of the meeting during the Community Comment section of the agenda.
 
 Board Norms
@@ -41,6 +42,7 @@ We will be accountable to the public, especially to our students.
 ## C. Agenda Approval
 
 **Recommendation**
+
 Motion to approve the February 10, 2026 board meeting agenda.
 
 ## D. Public Forum
@@ -48,6 +50,7 @@ Motion to approve the February 10, 2026 board meeting agenda.
 ### 1. Student Representatives 
 
 **Quick Summary / Abstract**
+
 Tate High: Video Update 
 
 City High:  Alma and Tobiah
@@ -63,11 +66,13 @@ Liberty High:  John and Mia
 ### 2. ICEA Update
 
 **Quick Summary / Abstract**
+
 Brady Shutt, ICEA President
 
 ### 3. Community Comment
 
 **Quick Summary / Abstract**
+
 Thank you for your interest in Iowa City Community School District and for your willingness to share your comments. You are reminded to give your name, address, and topic on which you would like to speak. During community comment, persons may speak to the Board about topics relevant to the district. Speakers who make comments are reminded they are responsible for their own statements and may be subject to legal action for those which are threatening, harassing, or defamatory in nature. It is expected that speakers will address the board and each other with civility and abide by the stated time limits. All community comment, directed at non-agenda items and agenda items, shall take place at the beginning of the meeting and shall be limited to 4 minutes per speaker. The initial community comment period shall be limited to 1 hour. Remaining community comment, to the extent necessary, shall take place at the end of the meeting. The board will not engage in any discussion during public comment. The role of the board during this time is to listen.
 
 ## E. Public Hearings
@@ -75,19 +80,23 @@ Thank you for your interest in Iowa City Community School District and for your 
 ## F. Consent Agenda Approval
 
 **Recommendation**
+
 Recommendation to approve the following consent items:
 
 ### 1. Minutes of the January 27, 2026 Board Meeting 
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ### 2. Accounts Payable Items
 
 **Quick Summary / Abstract**
+
 Accounts Payable Items
 
 **Contact Person**
+
 Curt Pratt
 
 Alan Moran
@@ -101,6 +110,7 @@ Alan Moran
 ### 3. Personnel Agenda 2.10.2026
 
 **Contact Person**
+
 Nick Proud, Chief of Human Resources
 
 **Supporting Documents:**
@@ -110,41 +120,50 @@ Nick Proud, Chief of Human Resources
 ### 4. Open Enrollments:  2025/26  and  2026/27
 
 **Quick Summary / Abstract**
+
 Open Enrollments
 
 **Recommendation**
+
 Motion to approve OE recommendations for 2025-26 and 2026-27.
 
 **Contact Person**
+
 Office of Teaching and Learning
 
 **Supporting Documents:**
 
-- [02-10-2026  Board Meeting  OE    (26-27)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=510436&MID=25489).pdf) — 183,386 bytes
-- [02-10-2026  Board Meeting  OE (25-26)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=510437&MID=25489).pdf) — 177,464 bytes
+- [02-10-2026  Board Meeting  OE    (26-27)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=510436&MID=25489)
+- [02-10-2026  Board Meeting  OE (25-26)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=510437&MID=25489)
 
 ### 5. City High School Little Theater Renovation, Set Date for Public Hearing
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 **Description**
+
 Set Date of February 24, 2026 for a Public Hearing and March 5, 2026 @ 2:00 pm for a Bid Opening for the City High School Little Theater Project.
 
 ### 6. 2026 West High Baseball and Softball Field Relocation , Set Date for Public Hearing
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 **Description**
+
 Set Date of February 24, 2026 for a Public Hearing and March 2, 2026 @ 2:00 pm for a Bid Opening for the West High Baseball and Softball Field Relocation Project.
 
 ### 7. Appendix 9 Approval Requests and Project Updates
 
 **Recommendation**
+
 Recommend approval of the Appendix 9 approval requests.
 
 **Contact Person**
+
 Curt Pratt, Chief Operating Officer
 
 **Supporting Documents:**
@@ -172,6 +191,7 @@ Curt Pratt, Chief Operating Officer
 ### 1. 500 Policies - Students
 
 **Quick Summary / Abstract**
+
 This is the second reading of the 500 series policies.
 
 **Supporting Documents:**
@@ -181,6 +201,7 @@ This is the second reading of the 500 series policies.
 ### 2. Policy Primer
 
 **Quick Summary / Abstract**
+
 This is the second reading of the policy primer.
 
 **Supporting Documents:**
@@ -195,19 +216,20 @@ This is the second reading of the policy primer.
 
 **Supporting Documents:**
 
-- [Enrollment Board Report 25-26 (2)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=512639&MID=25489).pdf) — 4,934,884 bytes
+- [Enrollment Board Report 25-26 (2)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=512639&MID=25489)
 
 ### 2. Quarterly Financial Report
 
 **Supporting Documents:**
 
-- [FY26 Quarter 2 Financial Report (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=511972&MID=25489).pdf) — 413,353 bytes
+- [FY26 Quarter 2 Financial Report (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=511972&MID=25489)
 
 ## L. Action Items
 
 ### 1. 500 Policies - Students
 
 **Recommendation**
+
 Motion to approve the 500 policies as presented.
 
 **Supporting Documents:**
@@ -217,6 +239,7 @@ Motion to approve the 500 policies as presented.
 ### 2. Policy Primer
 
 **Recommendation**
+
 Motion to approve policy primer 202.2 - Oath of Office as presented.
 
 **Supporting Documents:**
@@ -228,6 +251,7 @@ Motion to approve policy primer 202.2 - Oath of Office as presented.
 ### 1. Legislative Update
 
 **Quick Summary / Abstract**
+
 Legisltive Forums
 
 Friday, February 27 - 4:00-5:00
@@ -241,6 +265,7 @@ The forums will be held in the boardroom (Room 200) at the Educational Services 
 ### 2. Director Liaison Report
 
 **Quick Summary / Abstract**
+
 Molly Abraham
 
 Charlie Eastham
@@ -368,6 +393,7 @@ January 29: Better Together 2030 Awards
 ## N. Adjourn
 
 **Recommendation**
+
 Motion to adjourn the meeting
 
 ---
@@ -376,6 +402,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 25489](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25489). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:48 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:54 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

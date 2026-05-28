@@ -65,14 +65,55 @@ def load_json(p: Path) -> Any:
 
 # --- attachment URL rewriting ---
 
-# Regex captures: `[link text](attachments/local-filename.ext)`
-# Optional suffix: " — N,NNN bytes" — we drop this for the public page.
-# `.+?` (non-greedy) lets us tolerate `[...]` inside the link label, which
-# does happen (e.g. `IowaSDPA[25]Accredible...`). The trailing literals
-# `\]\(attachments/` and `\)` anchor the match.
+# Regex captures: `[link text](attachments/local-filename.ext)` plus an
+# optional trailing " — N,NNN bytes". We drop the byte count for the
+# public page.
+#
+# Quirks the regex has to tolerate:
+#   - `[...]` inside the link LABEL (e.g. `IowaSDPA[25]Accredible...`) →
+#     non-greedy `(.+?)` finds the right closing `]`.
+#   - `(...)` inside the URL (e.g. `BoardReport (2)5.12.26.pdf` or
+#     `Iowa City Schools (IA) - Internet Services (Rene.pdf` where the
+#     second paren is unbalanced because the filename was truncated to
+#     fit Windows path limits) → handled by non-greedy URL match anchored
+#     to end-of-line. Each attachment line in the agenda is self-
+#     contained, so EOL is a reliable terminator that balanced-paren
+#     counting can't be (because unbalanced parens happen in real data).
 ATT_LINK_RE = re.compile(
-    r"\[(.+?)\]\(attachments/[^)]+\)(\s*—\s*[\d,]+\s*bytes)?",
+    r"\[(.+?)\]\(attachments/.+?\)(\s*—\s*[\d,]+\s*bytes)?$",
+    re.MULTILINE,
 )
+
+# A line consisting solely of a bold label like `**Recommendation**` or
+# `**Supporting Documents:**`. The agenda source puts content on the very
+# next line, with no blank between — markdown then collapses label +
+# content into one visual paragraph. We insert a blank to split them.
+BOLD_LABEL_LINE_RE = re.compile(r"^\s*\*\*[^*\n]+\*\*\s*:?\s*$")
+
+
+def normalize_label_blocks(md: str) -> str:
+    """Insert a blank line after standalone bold-label lines so the label
+    and the content below it render as separate paragraphs.
+
+    The district's agenda format looks like:
+        **Recommendation**
+        Motion to approve...
+
+    Without intervention, markdown renders that as "Recommendation Motion
+    to approve..." (single newlines join paragraphs with a space). We turn
+    it into:
+        **Recommendation**
+
+        Motion to approve...
+    """
+    lines = md.splitlines()
+    out: list[str] = []
+    for i, line in enumerate(lines):
+        out.append(line)
+        if BOLD_LABEL_LINE_RE.match(line):
+            if i + 1 < len(lines) and lines[i + 1].strip() != "":
+                out.append("")
+    return "\n".join(out)
 
 
 def normalize_title(t: str) -> str:
@@ -161,6 +202,7 @@ def transform_agenda(md_in: str, meeting_record: dict, mid: int) -> tuple[str, d
 
     body = "\n".join(lines[body_start:]).lstrip("\n")
     body, replaced, missed = rewrite_attachments(body, meeting_record["attachments"], mid)
+    body = normalize_label_blocks(body)
     return body, {"replaced": replaced, "missed": missed}
 
 

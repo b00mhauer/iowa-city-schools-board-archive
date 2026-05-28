@@ -20,6 +20,7 @@ mid: 27354
 ### 1. Minutes of the January 13, 2026 Financial Oversight Committee Meeting 
 
 **Meeting Minutes**
+
 Meeting Minutes
 
 ## C. Discussion Item
@@ -28,7 +29,7 @@ Meeting Minutes
 
 **Supporting Documents:**
 
-- [Financial Update - Feb 10 Board Meeting (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=512711&MID=27354).pdf) — 1,815,247 bytes
+- [Financial Update - Feb 10 Board Meeting (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=512711&MID=27354)
 
 ### 2. Audit Update 
 
@@ -40,6 +41,6 @@ Meeting Minutes
 
 Agenda content carried through from the district's published materials for [MID 27354](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=27354). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:48 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 05:54 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.
