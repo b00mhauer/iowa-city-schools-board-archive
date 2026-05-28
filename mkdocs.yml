@@ -69,6 +69,11 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.smartsymbols
+  # Material icon / emoji shortcodes (:material-..., :octicons-..., :fontawesome-...).
+  # Required to render the icons used in the home-page card grid.
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 # Per-meeting pages are reached via the 2026 index page, not the sidebar
 # (a 51-item sidebar would be unwieldy). This silences the "pages not in
