@@ -7,7 +7,7 @@ The superintendent's role, evaluation, and any transitions. This page collects d
 Matt Degner is ICCSD's Superintendent of record going into 2026. The year unfolded into a leadership transition closely intertwined with the district's [financial crisis](budget.md):
 
 - **Friday, May 23, 2026** — Superintendent Degner publicly   announced via community email both his resignation as   Superintendent and his request to transition to a different   executive-level role within the district: Executive Director   of Secondary Schools. (Referenced by name and date in   multiple May 26 public comments; the original email is not   in the board's published agenda materials.)
-- **May 26, 2026 — board vote on Degner's transition.** The   personnel-agenda item containing the EDSS role change was   pulled from the consent agenda by Director Lingo and voted   on separately. The motion carried **5–2**: Directors   Abraham, Eastham, Horn-Frasier, and Malone voting yes;   Directors Finch and Lingo voting no. Lingo's stated   objection on the record: the role was offered a two-year   contract instead of one. Finch concurred.   ([transcript at vote](../meetings/2026/transcripts/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md))
+- **May 26, 2026 — board vote on Degner's transition.** The   personnel-agenda item containing the EDSS role change was   pulled from the consent agenda by Director Lingo and voted   on separately. The motion carried **5–2**: Directors   Abraham, Eastham, Horn-Frasier, and Malone voting yes;   Directors Finch and Lingo voting no. Lingo's stated   objection on the record: the role was offered a two-year   contract instead of one. Finch concurred.   ([watch the vote on YouTube](https://youtu.be/nMlbmq_NgoI?t=1757))
 - **May 26, 2026 — Interim Superintendent search discussed.**   Grundmeier (the firm that conducted the recent CFO search)   presented three engagement levels — recruitment-only,   full-service interim search, or a combined interim +   permanent engagement. Board consensus: the interim should   not be eligible for the permanent role, and the permanent   search should be a separate engagement decision.
 
 ## Context from public comment
@@ -16,7 +16,7 @@ The May 26 meeting included roughly 30 minutes of public comment opposing Degner
 
 - ICCSD has fallen in statewide academic rankings during   Degner's tenure (one commenter cited a drop from ~159th   to ~241st of 300 Iowa districts based on NCES / Iowa Dept.   of Education / Census data).
 - The board's previously committed organizational-chart   review and Policy 303.2 revision should occur **before**   any administrative hires or restructurings, not after.
-- Multiple commenters alleged a pattern of retaliation,   hostile workplace conditions, and procedural irregularities   under current administrators. Specific names cited by   commenters are intentionally omitted from this archive   page; see the [transcript](../meetings/2026/transcripts/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)   for the verbatim record.
+- Multiple commenters alleged a pattern of retaliation,   hostile workplace conditions, and procedural irregularities   under current administrators. Specific names cited by   commenters are intentionally omitted from this archive   page; [watch the May 26 public comment period on YouTube](https://youtu.be/nMlbmq_NgoI) for the verbatim record.
 
 These are public-comment claims. The archive surfaces them as part of the record without endorsing or refuting any of them.
 
@@ -42,4 +42,4 @@ Questions worth digging into across the underlying records:
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:33 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:42 UTC.*

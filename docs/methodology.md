@@ -19,21 +19,36 @@ was already public on the district portal.
 
 ## What's in the repo vs. what's external
 
-Inside the GitHub repo:
+Inside the GitHub repo, split into two audiences:
 
-- **Markdown** — meeting pages, topic pages, framework pages (this one,
-  Home, How to Use, About, etc.)
-- **JSON data** — meeting indexes and attachment-ID maps used by the page
-  generators
-- **Generator scripts** — the Python code that walks the district's API and
-  builds the meeting pages
-- **Plain-text transcripts** — for meetings with audio, where available;
-  these are machine-generated from PDFs the district published with a text
-  layer, and are flagged on each page as such
+**For humans — `docs/` (this website):**
+
+- Meeting pages with synthesized "What happened" summaries
+- Topic pages with curated narrative
+- Timeline, board-member profiles, administrator roster, key documents
+- Methodology, How to Use, About — the framework pages
+
+**For AI tools — `corpus/` (not rendered as web pages):**
+
+- YouTube-sourced meeting transcripts (one per meeting, with timestamps
+  as anchor links back to the video). These are machine-generated, have
+  no speaker labels, and contain typical speech-to-text errors — fine
+  for full-text search and AI ingestion, unfit for human consumption.
+- Per-PDF text extractions of every attached document. Raw extracted
+  text preserves the document content but loses PDF layout — again,
+  useful as an index, not as a substitute for the original PDF.
+
+**Supporting machinery, in either location:**
+
+- JSON data (`data/`) — meeting indexes, attachment-ID maps, the
+  curated executive-summary text per meeting
+- Generator scripts (`scripts/`) — the Python code that walks the
+  district's API and builds both the human-facing pages and the corpus
 
 Outside the repo, on the district's servers:
 
-- Every PDF, every meeting video, every audio recording
+- Every PDF, every meeting video, every audio recording — the
+  authoritative copies.
 
 ## How meeting pages are generated
 

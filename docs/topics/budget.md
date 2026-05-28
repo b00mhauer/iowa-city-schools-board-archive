@@ -13,7 +13,7 @@ ICCSD's 2026 has been dominated by an unfolding financial-management crisis. The
 - **March 24, 2026** — Public hearing on the Proposed FY27   Property Tax Levy.   ([meeting](../meetings/2026/2026-03-24-special-meeting-budget-hearing-public-hearing-on-proposed-pr.md))
 - **April 1, 2026** — District announced a new CFO.   (Pat Moore — actual start date ~May 18, 2026 per her own   remarks at May 26.)
 - **May 2026** — Three district properties (Hills, ESC at 1725   N. Dodge Street, and ~42.4 acres of Scanlon-family unimproved   real estate) sold and proceeds deposited into the General   Fund.
-- **May 26, 2026** — New CFO Pat Moore's first official   meeting. Audit catch-up plan presented: FY24 audit to be   brought to the board in July 2026, FY25 by November 2026,   FY26 by the March 31, 2027 statutory deadline, with FY23   restatement also in progress.   ([transcript](../meetings/2026/transcripts/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md))
+- **May 26, 2026** — New CFO Pat Moore's first official   meeting. Audit catch-up plan presented: FY24 audit to be   brought to the board in July 2026, FY25 by November 2026,   FY26 by the March 31, 2027 statutory deadline, with FY23   restatement also in progress.   ([watch on YouTube](https://youtu.be/nMlbmq_NgoI?t=2214))
 
 Multiple public commenters at recent meetings have referenced potential school closures and further cuts in the year ahead. Those are speakers' framings — not formal board actions on the record yet — and are noted here as context, not as facts.
 
@@ -102,4 +102,4 @@ Questions worth digging into across the underlying records:
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:33 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:42 UTC.*

@@ -141,7 +141,11 @@ def main() -> int:
     ap.add_argument("--attachments", type=Path, required=True)
     ap.add_argument("--year", type=int, required=True)
     ap.add_argument("--out", type=Path, required=True,
-                    help="docs/meetings/<year>/text/")
+                    help="Output dir corpus/text/<year>/ — raw PDF text "
+                         "extracts are NOT published on the website (PDFs "
+                         "extract messily; humans should follow the PDF "
+                         "link). They live in /corpus/ so AI tools / "
+                         "NotebookLM can ingest the searchable text.")
     args = ap.parse_args()
 
     args.out.mkdir(parents=True, exist_ok=True)

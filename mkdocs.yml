@@ -75,15 +75,12 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-# Per-meeting pages, transcripts, and document text extracts are all
-# reached from the 2026 meeting index and the relevant meeting page, not
-# from the sidebar (51 meetings + 25 transcripts + 389 text extracts in
-# the sidebar would be unusable). They're still indexed by search and
-# crawlable by AI tools — they just don't clutter the nav.
+# Per-meeting pages are reached via the 2026 index, not the sidebar.
+# Raw transcripts and PDF text extractions live in /corpus/ at the repo
+# root (not in docs/) — that material is for AI-tool ingestion, not for
+# humans browsing the website.
 not_in_nav: |
   /meetings/2026/2026-*.md
-  /meetings/2026/transcripts/*.md
-  /meetings/2026/text/**/*.md
 
 nav:
   - Home: index.md

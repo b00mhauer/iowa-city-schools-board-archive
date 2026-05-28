@@ -219,10 +219,26 @@ def transform_agenda(md_in: str, meeting_record: dict, mid: int) -> tuple[str, d
     return body, {"replaced": replaced, "missed": missed}
 
 
-def _has_transcript(out_dir: Path, date_str: str, slug: str) -> bool:
-    """Check whether build_transcripts.py wrote a transcript for this meeting."""
-    candidate = out_dir / "transcripts" / f"{date_str}-{slug}.md"
-    return candidate.exists()
+def _youtube_url_for(corpus_root: Path, date_str: str, slug: str) -> str | None:
+    """If a transcript exists in /corpus/ for this meeting, return the
+    YouTube video URL from its meta block. Raw transcripts are not
+    published as web pages (too noisy for human reading) — but the
+    YouTube link itself is useful on the meeting page so a reader can
+    watch the recording directly.
+    """
+    candidate = corpus_root / "transcripts" / "2026" / f"{date_str}-{slug}.md"
+    if not candidate.exists():
+        return None
+    try:
+        for line in candidate.read_text(encoding="utf-8").splitlines():
+            # Format: **Video:** [Title](https://www.youtube.com/watch?v=...)
+            if line.startswith("**Video:**"):
+                m = re.search(r"\((https?://[^\s)]+)\)", line)
+                if m:
+                    return m.group(1)
+    except Exception:
+        return None
+    return None
 
 
 def load_summaries(path: Path) -> dict[int, str]:
@@ -241,15 +257,10 @@ def load_summaries(path: Path) -> dict[int, str]:
     return {int(k): v for k, v in raw.items() if v}
 
 
-def _has_extracts(out_dir: Path, mid: int) -> bool:
-    """Check whether publish_extracts.py wrote text extracts for this MID."""
-    candidate = out_dir / "text" / str(mid)
-    return candidate.exists() and any(candidate.iterdir())
-
-
 def render_meeting_page(meeting_record: dict, agenda_md: str | None,
                         meeting_type: str, generated_at: str,
                         out_dir: Path, slug: str,
+                        corpus_root: Path,
                         summary: str | None = None) -> tuple[str, dict]:
     """Compose the full markdown page for one meeting."""
     mid = meeting_record["mid"]
@@ -303,24 +314,25 @@ def render_meeting_page(meeting_record: dict, agenda_md: str | None,
         header.append("---")
         header.append("")
 
-    # "Watch & read" panel — transcripts and extracts where they exist.
-    has_t = _has_transcript(out_dir, date_str, slug)
-    has_e = _has_extracts(out_dir, mid)
-    if has_t or has_e:
-        header.append("## Watch & read")
+    # External links: watch the meeting on YouTube + full agenda on the
+    # district portal. We don't republish transcripts or PDF text on the
+    # website — those are too noisy to serve as human content. They live
+    # in /corpus/ for AI ingestion.
+    yt_url = _youtube_url_for(corpus_root, date_str, slug)
+    if yt_url:
+        header.append("## Watch / read on source")
         header.append("")
-        if has_t:
-            header.append(
-                f"- **[Meeting transcript](transcripts/{date_str}-{slug}.md)** "
-                f"— machine-generated from the YouTube recording; "
-                f"timestamps link to the moment in the video."
-            )
-        if has_e:
-            header.append(
-                f"- **[Supporting documents (text)](text/{mid}/index.md)** "
-                f"— machine-extracted text of every attached PDF, "
-                f"linked back to the originals on the district portal."
-            )
+        header.append(
+            f"- **[Watch the meeting on YouTube]({yt_url})** — auto-captions "
+            f"available; the meeting is the source of truth, not any "
+            f"transcript of it."
+        )
+        header.append(
+            f"- **[Full agenda + supporting documents on the district portal]"
+            f"({meeting_record['source_url']})** — every attached PDF lives "
+            f"there. Direct deep-links to specific documents are listed on "
+            f"this page below."
+        )
         header.append("")
         header.append("---")
         header.append("")
@@ -481,6 +493,9 @@ def main() -> int:
                     help="Output dir docs/meetings/<year>/")
     ap.add_argument("--summaries", type=Path, default=None,
                     help="Optional path to data/summaries_<year>.json")
+    ap.add_argument("--corpus-root", type=Path, default=None,
+                    help="Path to the /corpus/ directory (used to detect "
+                         "transcripts so the YouTube link can be surfaced).")
     args = ap.parse_args()
 
     args.out.mkdir(parents=True, exist_ok=True)
@@ -522,6 +537,7 @@ def main() -> int:
         slug = slugify(rec["title"])
         page_md, stats = render_meeting_page(
             rec, agenda_md, meeting_type, generated_at, args.out, slug,
+            corpus_root=args.corpus_root or Path("corpus"),
             summary=summaries_by_mid.get(mid),
         )
         total_replaced += stats["replaced"]

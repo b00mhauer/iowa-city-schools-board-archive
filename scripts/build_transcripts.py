@@ -156,7 +156,10 @@ def main() -> int:
                     help="ICCSD/<year>/ folder containing per-meeting subfolders")
     ap.add_argument("--year", type=int, required=True)
     ap.add_argument("--out", type=Path, required=True,
-                    help="Output dir docs/meetings/<year>/transcripts/")
+                    help="Output dir corpus/transcripts/<year>/ — raw "
+                         "transcripts are NOT published on the website "
+                         "(too noisy for human consumption); they live in "
+                         "/corpus/ so AI tools / NotebookLM can ingest them.")
     args = ap.parse_args()
 
     args.out.mkdir(parents=True, exist_ok=True)

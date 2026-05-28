@@ -23,12 +23,6 @@ mid: 25489
 **Policy work continued** through the Policy & Governance Committee report-out. This meeting also began the multi-meeting push that would lead to the FY27 Certified Budget Update presentation two weeks later, on February 24.
 
 ---
-
-## Watch & read
-
-- **[Supporting documents (text)](text/25489/index.md)** — machine-extracted text of every attached PDF, linked back to the originals on the district portal.
-
----
 ## A. Call to Order
 
 ## B. Welcome
@@ -418,6 +412,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 25489](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25489). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:35 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:39 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

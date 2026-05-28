@@ -7,8 +7,9 @@ title: Timeline
 ICCSD's 2026 has been dominated by an unfolding financial-management
 crisis and its fallout — including, in May, the public resignation of
 Superintendent Matt Degner. This page puts the major events of the year
-in order, with each entry pointing to the meeting (and where applicable,
-the transcript timestamp) that documents it.
+in order. Each entry links to the meeting page with the synthesized
+summary; where the action happened on camera, a direct YouTube anchor
+is provided.
 
 For the complete meeting-by-meeting record, see the
 [2026 meeting index](meetings/2026/index.md).
@@ -25,8 +26,8 @@ For the complete meeting-by-meeting record, see the
   Directors Finch and Lingo voted no. (Lingo's stated objection on the
   record: the position was offered a two-year contract instead of one;
   Finch concurred.)
-  ([meeting](meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
-   · [transcript at vote](meetings/2026/transcripts/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md))
+  ([meeting summary](meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
+   · [watch the vote on YouTube](https://youtu.be/nMlbmq_NgoI?t=1757))
 - **2026-05-26 — Three property-sale resolutions adopted.**
   Public hearings held and proceeds-deposit resolutions passed for the
   Hills property (301 W. Main St., Hills), the ESC (1725 N. Dodge St.,
