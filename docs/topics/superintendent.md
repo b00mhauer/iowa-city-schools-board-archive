@@ -29,4 +29,4 @@ Direct deep-links to specific supporting documents on the district portal.
 
 ---
 
-*Auto-generated draft on 2026-05-28 05:18 UTC. 1 matching meeting(s), 2 matching document(s) found by keyword search. Curated content will replace this list as the topic page is written.*
+*Auto-generated draft on 2026-05-28 06:03 UTC. 1 matching meeting(s), 2 matching document(s) found by keyword search. Curated content will replace this list as the topic page is written.*

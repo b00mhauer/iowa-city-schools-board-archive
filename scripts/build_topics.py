@@ -181,8 +181,15 @@ def build_topic_page(slug: str, spec: dict, attachments_data: dict,
                 "source_url": rec["source_url"],
             })
 
-    meetings_sorted = sorted(matched_mids.values(), key=lambda x: x["date"])
-    atts_sorted = sorted(matched_attachments, key=lambda x: (x["date"], x["att"]["section"]))
+    # Newest first throughout — readers want the most recent activity at
+    # the top of any date-sorted list. Within a single meeting, attachments
+    # still flow in section order (A, B, C...) which is the natural reading
+    # order of the underlying agenda.
+    meetings_sorted = sorted(matched_mids.values(),
+                             key=lambda x: x["date"], reverse=True)
+    atts_sorted = sorted(matched_attachments,
+                         key=lambda x: (x["date"], x["att"]["section"]),
+                         reverse=True)
 
     lines = [
         f"# {spec['title']}",
