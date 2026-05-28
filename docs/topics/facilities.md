@@ -2,37 +2,6 @@
 
 Buildings, land, and capital projects — new construction, renovations, property sales and purchases, leases, and the PPEL / SAVE funding streams that pay for them.
 
-## $104M Facilities Master Plan paused (May 12, 2026)
-
-At the [May 12, 2026 regular meeting](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md), the board unanimously adopted the **Facilities Master Plan Resolution**, temporarily pausing projects in the previously approved $104 million plan — including new athletic fieldhouses and the $14 million investment in the Coralville Recreation Center pool. Per [KCRG May 12](../press/2026.md#may-2026), the pause was part of the district's response to the [financial crisis](budget.md) and the inability to obtain external financing (the $25M loan request was rejected by every bank approached).
-
-## Three property sales in 2026
-
-ICCSD moved three district-owned properties through the statutory public-hearing-and-conveyance process during 2026, with the proceeds of each sale directed to the General Fund:
-
-- **Hills property** — 301 W. Main Street, Hills, Iowa.   Public hearing and proceeds-deposit resolution adopted at   the [May 26, 2026 board meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md).
-- **Educational Services Center (ESC)** — 1725 N. Dodge   Street, Iowa City. **Sold to the City of Iowa City for   $3.2 million** at the   [April 28 meeting](../meetings/2026/2026-04-28-regular-meeting-of-the-board-of-directors-amended-agenda.md).   The City announced May 13 that the building will become   the new Iowa City Police Department headquarters, target   move-in 2029. Proceeds-deposit resolution adopted at the   May 26 meeting.
-- **Scanlon parcel** — ~42.4 acres of unimproved real estate   previously purchased from Scanlon Family, L.L.C. Public   hearing and proceeds-deposit resolution adopted at the   May 26 meeting.
-
-All three sales were part of the year's larger response to the district's [unfolding financial-management crisis](budget.md).
-
-## $14M Coralville pool — four-option decision
-
-A proposed $14 million competition swimming pool in Coralville — part of the (now-paused) Master Facilities Plan, intended to give West High and Liberty High independent swim programs — remains under board consideration. Per KCRG (April 29) and CBS2 (May 12), the board is weighing four options: (1) direct contribution to design and construction, (2) sign a long-term lease with annual payments, (3) build a district natatorium, (4) rent local facilities for practices and meets. The Coralville City Administrator confirmed a meeting with Degner and that the city is gathering pricing through May.
-
-## Capital projects in flight
-
-- **Facilities Master Plan (FMP) resolution** — Director   Lingo led drafting and the motion at the   [May 12, 2026 meeting](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md).   Tracked through Financial Oversight Committee as a project-  prioritization tool.
-- **West HS Auditorium Improvements** — multi-meeting capital   project referenced from the [Jan 27 meeting](../meetings/2026/2026-01-27-regular-meeting-of-the-board-of-directors.md)   onward.
-- **City HS Auditorium / Opstad Theater Lighting Upgrades**   — discussed at the [March 10 meeting](../meetings/2026/2026-03-10-regular-meeting-of-the-board-of-directors.md).
-- **Capital Projects Status Report** — recurring report at 8   of the 10 Financial Oversight + General meetings in 2026.
-- **Forevergreen Road easements** — Temporary Construction   Easement and Public Utilities Easement resolutions adopted   in stages across the [Jan 13](../meetings/2026/2026-01-13-regular-meeting-of-the-board-of-directors.md)   and [Jan 27](../meetings/2026/2026-01-27-regular-meeting-of-the-board-of-directors.md) meetings.
-
-## Funding streams
-
-ICCSD's capital work is funded primarily through PPEL (Physical Plant and Equipment Levy) and SAVE (Secure an Advanced Vision for Education / 1¢ statewide sales tax). Bonding capacity against these streams is a recurring discussion in Financial Oversight Committee, particularly around the FMP ranking work.
-
-
 ## 2026 meetings on this topic
 
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
@@ -104,6 +73,13 @@ Direct deep-links to specific supporting documents on the district portal.
 
 _12 more matched documents not shown — browse the meetings above to see them in context._
 
+## 2026 press coverage on this topic
+
+Articles matched by keyword from the [press index](../press/2026.md). 2 articles matched. The headline and publication are the source's own; the site adds no characterization.
+
+- **April 28, 2026** — *KCRG-TV9* — "Iowa City facility projects may be stalled amidst financial crisis, banks reject loan bids" — [read article](https://www.kcrg.com/2026/04/29/iowa-city-schools-loan-rejection-forces-facilities-plan-pause/)
+- **May 12, 2026** — *KCRG-TV9* — "Iowa City school board pauses facilities plan amid financial crisis" — [read article](https://www.kcrg.com/2026/05/13/iowa-city-school-board-pauses-facilities-plan-amid-financial-crisis/)
+
 ## Open questions
 
 Questions worth digging into across the underlying records:
@@ -114,4 +90,4 @@ Questions worth digging into across the underlying records:
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 14:50 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 15:13 UTC.*

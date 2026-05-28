@@ -2,25 +2,6 @@
 
 School attendance areas, boundary changes, and open-enrollment decisions. ICCSD's open-enrollment line items appear in nearly every regular board meeting as routine consent-agenda items; boundary changes themselves are rarer and more consequential.
 
-## School closures and elementary reconfiguration
-
-In **March 2026**, the district's financial consultant **PFM** formally recommended that ICCSD evaluate closing or consolidating school buildings as part of its long-term cost-reduction strategy in response to the [financial crisis](budget.md). (Per the [Cedar Rapids Gazette](../press/2026.md#march-2026) and [CBS2 Iowa](../press/2026.md#march-2026).)
-
-That recommendation triggered an **elementary reconfiguration** discussion — restructuring grade levels and attendance patterns across elementary schools — which the board took up at a special meeting later in the spring. No formal closure decision has been adopted as of the May meetings.
-
-At the May 12 board meeting, public commenters raised the prospect of school closures and pressed the board for transparency about which schools might be affected. The district has committed to community engagement before any formal closure decision.
-
-## Open enrollment in 2026
-
-Open-enrollment approvals appear on nearly every 2026 regular board meeting consent agenda — one or two batches per meeting covering both the in-progress school year (25-26) and the upcoming year (26-27). These are routine approvals of individual student transfer requests; the board does not typically discuss them on the record beyond the consent-agenda motion.
-
-Enrollment context: per the FY26 Q2 Financial Report and subsequent press coverage, ICCSD enrollment fell by **181 students (~1.25%)** between FY25 and FY26. Iowa Public Radio's spring 2026 NPR series featured ICCSD as a case study in how Iowa's universal Education Savings Account (ESA) program has accelerated enrollment loss in urban public districts.
-
-## Attendance-area boundary changes
-
-**No district-wide attendance-area boundary changes have been adopted on the 2026 board agendas reviewed.** Boundary shifts in ICCSD are rare events that typically require multi-meeting deliberation and community engagement, and none reached final action during 2026 — though the school-closure / reconfiguration discussion above functionally raises the same set of questions.
-
-
 ## 2026 meetings on this topic
 
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
@@ -57,6 +38,10 @@ Direct deep-links to specific supporting documents on the district portal.
 - **2026-01-27** — [1-27-2026  Board Meeting  OE (25-26)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=503791&MID=25486) _(matched: open enrollment)_
 - **2026-01-13** — [1-13-2026  Board Meeting   OE (25-26)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=498212&MID=25481) _(matched: open enrollment)_
 
+## 2026 press coverage on this topic
+
+_No 2026 press articles matched the keyword set yet. New coverage is picked up here automatically as the [press index](../press/2026.md) is refreshed._
+
 ## Open questions
 
 Questions worth digging into across the underlying records:
@@ -67,4 +52,4 @@ Questions worth digging into across the underlying records:
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 14:50 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 15:13 UTC.*

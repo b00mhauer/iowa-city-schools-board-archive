@@ -2,27 +2,6 @@
 
 The superintendent's role, evaluation, and any transitions. This page collects discussions of the superintendent's performance, search and selection processes, contracts, and evaluations.
 
-## The 2026 transition
-
-Matt Degner is ICCSD's Superintendent of record going into 2026 — recognized as a finalist for **National Superintendent of the Year** in the months before the financial crisis broke publicly. That national recognition became a recurring point of contrast in later 2026 community commentary. The year unfolded into a leadership transition closely intertwined with the district's [financial crisis](budget.md):
-
-- **Friday, May 23, 2026** — Superintendent Degner publicly   announced via community email both his resignation as   Superintendent and his request to transition to a different   executive-level role within the district: Executive Director   of Secondary Schools. (Referenced by name and date in   multiple May 26 public comments; the original email is not   in the board's published agenda materials.)
-- **May 26, 2026 — board vote on Degner's transition.** The   personnel-agenda item containing the EDSS role change was   pulled from the consent agenda by Director Lingo and voted   on separately. The motion carried **5–2**: Directors   Abraham, Eastham, Horn-Frasier, and Malone voting yes;   Directors Finch and Lingo voting no. Lingo's stated   objection on the record: the role was offered a two-year   contract instead of one. Finch concurred.   ([watch the vote on YouTube](https://youtu.be/nMlbmq_NgoI?t=1757))
-- **May 26, 2026 — Interim Superintendent search discussed.**   Grundmeier (the firm that conducted the recent CFO search)   presented three engagement levels — recruitment-only,   full-service interim search, or a combined interim +   permanent engagement. Board consensus: the interim should   not be eligible for the permanent role, and the permanent   search should be a separate engagement decision.
-
-## Public pressure for resignation
-
-At the **May 12, 2026 board meeting** — two weeks before Degner's resignation announcement — multiple community members called during public comment for the replacement of *"the current superintendent, deputy superintendent and HR director."* (Per [CBS2](../press/2026.md#may-2026) and [KCRG](../press/2026.md#may-2026) coverage of that meeting.) Iowa City resident Maka Pilcher: *"The remaining members, to the public's dismay, demonstrated a costly allegiance to the admin team whose mismanagement got us here."* ICCSD resident Robert Cargill: *"The Iowa City Community School District board of education cannot move forward from this crisis with any credibility whatsoever without replacing the Iowa City Community School District superintendent and leadership team."*
-
-After Degner's May 23 email announcing his resignation and transition request, the May 26 meeting included roughly 30 minutes of public comment opposing the transition without an open search. Repeated themes from commenters (these are speakers' characterizations, not board findings):
-
-- ICCSD has fallen in statewide academic rankings during   Degner's tenure (one commenter cited a drop from ~159th   to ~241st of 300 Iowa districts based on NCES / Iowa Dept.   of Education / Census data).
-- The board's previously committed organizational-chart   review and Policy 303.2 revision should occur **before**   any administrative hires or restructurings, not after.
-- Multiple commenters alleged a pattern of retaliation,   hostile workplace conditions, and procedural irregularities   under current administrators. Specific names cited by   commenters are intentionally omitted from this archive   page; [watch the May 26 public comment period on YouTube](https://youtu.be/nMlbmq_NgoI) for the verbatim record.
-
-These are public-comment claims. The archive surfaces them as part of the record without endorsing or refuting any of them.
-
-
 ## 2026 meetings on this topic
 
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
@@ -34,6 +13,25 @@ Direct deep-links to specific supporting documents on the district portal.
 - **2026-05-26** — [Search Options Comparison Chart](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=575138&MID=29981) _(matched: superintendent, interim superintendent)_
 - **2026-05-26** — [Iowa City Interim Supt. Search Proposal 2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=575139&MID=29981) _(matched: superintendent, interim superintendent)_
 
+## 2026 press coverage on this topic
+
+Articles matched by keyword from the [press index](../press/2026.md). 14 articles matched. The headline and publication are the source's own; the site adds no characterization.
+
+- **—** — *CBS2 Iowa (KGAN)* — "Iowa City Schools Superintendent faces questions over $10 million loan" — [read article](https://cbs2iowa.com/news/local/iowa-city-schools-superintendent-faces-questions-over-10-million-loan)
+- **—** — *The Cedar Rapids Gazette* — "Iowa City school board questions superintendent on why $10 million loan was taken out without their [knowledge]" — [read article](https://www.thegazette.com/k/iowa-city-school-board-questions-superintendent-on-why-10-million-loan-was-taken-out-without-their/)
+- **May 14, 2026** — *KCRG-TV9* — "Iowa City school board remains silent on superintendent's future amid financial crisis" — [read article](https://www.kcrg.com/2026/05/15/iowa-city-school-board-remains-silent-superintendents-future-amid-financial-crisis/)
+- **May 15, 2026** — *CBS2 Iowa (KGAN)* — "Iowa City school board says closed sessions on Degner contract are routine evaluation" — [read article](https://cbs2iowa.com/news/local/iowa-city-school-board-says-closed-sessions-on-degner-contract-are-routine-evaluation)
+- **May 22, 2026** — *KCRG-TV9* — "Iowa City schools Matt Degner resigning as superintendent" — [read article](https://www.kcrg.com/2026/05/22/iowa-city-schools-matt-degner-resigning-superintendent/)
+- **May 22, 2026** — *CBS2 Iowa (KGAN)* — "Matt Degner resigns as Iowa City superintendent" — [read article](https://cbs2iowa.com/news/local/degner-resigns-as-iowa-city-superintendent)
+- **May 22, 2026** — *The Cedar Rapids Gazette* — "Matt Degner resigning as Iowa City schools leader, will remain a district administrator" — [read article](https://www.thegazette.com/news/education/matt-degner-resigning-as-iowa-city-schools-leader-will-remain-a-district-administrator/article_daa627ec-2bb7-4af1-9f08-d4527d1822c5.html)
+- **May 22, 2026** — *AOL (syndicated)* — "Iowa City CSD superintendent steps down, cites family illness" — [read article](https://www.aol.com/articles/iowa-city-csd-superintendent-steps-181610000.html)
+- **—** — *(publication unknown)* — "Superintendent Matt Degner to step down, transition to executive director of secondary schools" — [read article](https://wsspaper.com/115796/news/superintendent-matt-degner-to-step-down-transition-to-executive-director-of-secondary-schools/)
+- **May 26, 2026** — *KCRG-TV9* — "Iowa City School Board searches for interim superintendent amid financial crisis" — [read article](https://www.kcrg.com/2026/05/26/iowa-city-school-board-searches-interim-superintendent-amid-financial-crisis/)
+- **May 26, 2026** — *CBS2 Iowa (KGAN)* — "Iowa City school board begins interim superintendent search amid leadership concerns" — [read article](https://cbs2iowa.com/news/local/iowa-city-school-board-begins-interim-superintendent-search-amid-leadership-concerns)
+- **May 26, 2026** — *KCRG-TV9* — "Iowa City school board keeps superintendent on staff despite public criticism" — [read article](https://www.kcrg.com/2026/05/27/iowa-city-school-board-keeps-superintendent-staff-despite-public-criticism/)
+- **—** — *Yahoo News (syndicated)* — "Iowa City's Matt Degner nabs National Superintendent of the Year honor" — [read article](https://www.yahoo.com/news/articles/iowa-citys-matt-degner-nabs-120050866.html)
+- **—** — *K-12 Dive* — "Superintendent of the Year: Matt Degner, Iowa City Community School District" — [read article](https://www.k12dive.com/news/superintendent-of-the-year-matt-degner-iowa-city-community-school-distric/807926/)
+
 ## Open questions
 
 Questions worth digging into across the underlying records:
@@ -44,4 +42,4 @@ Questions worth digging into across the underlying records:
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 14:50 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 15:13 UTC.*

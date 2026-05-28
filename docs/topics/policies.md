@@ -2,29 +2,6 @@
 
 Board policy adoptions, revisions, and rescissions. ICCSD uses a multi-reading process; policy changes typically appear at the Policy & Governance Committee, then at one or more regular board meetings before final adoption.
 
-## How policy work flows at ICCSD
-
-Policy work originates in the **Policy & Governance Committee** — chaired in 2026 by Director Mitch Lingo (he succeeded prior chair Director Lisa Williams in January). Draft language is iterated in committee, then brought to a regular board meeting for review, action, or tabling. Most policy changes touch multiple meetings before adoption.
-
-## 2026 policy adoptions
-
-- **Policy 200.3G4 — Financial Oversight Committee Charter.**   Adopted at the   [May 26, 2026 meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)   after several rounds in committee. Key changes: two   consistent board liaisons (rather than rotating), six   meetings/year cadence, narrowed audit-oversight scope to   *review and recommend approval* (rather than *review and   approval*).
-- **Policy 303.4 — Administrator Salary and Other   Compensation.** Adopted at the same May 26 meeting, after   sitting in committee since March.
-- **600-policy series** (curriculum / instruction). Adopted   at the [March 10 meeting](../meetings/2026/2026-03-10-regular-meeting-of-the-board-of-directors.md)   by a 5–2 vote — Directors Abraham and Finch voted no,   citing RAM class-size sizing concerns and impact on   teachers.
-
-## Tabled / in active review
-
-- **Policy 207 — Board of Directors Legal Counsel.** Tabled   at multiple meetings while the committee works out what   constitutes "significant cost" thresholds.
-- **Policy 303.2 — Administrator Qualifications,   Recruitment, and Appointment.** Tabled. This policy is   central to ongoing arguments about board involvement in   administrator hiring — see [Superintendent](superintendent.md).   Sticking point in committee: how many board members may   participate in interview committees, and at what   administrative levels (executive, executive director,   building-level).
-- **700-policy series — Noninstructional Operations &   Business Services.** Tabled at May 26 to incorporate 14 new   Policy Primers from the IASB and address fiscal-management   edits, internal-controls changes, and a three-year email-  retention provision.
-- **500-policy series — Students.** In active review (4   meetings referenced in 2026).
-- **900-policy series — School District-Community   Relations.** Small edits to designate Deputy Superintendent   / Chief Operating Officer roles; under review.
-
-## Policy Primers (IASB)
-
-ICCSD receives Policy Primers from the Iowa Association of School Boards as state and federal regulations change. The May 26 P&G readout referenced **14 new primers** in the 700 series alone, which is why the series was tabled rather than rushed.
-
-
 ## 2026 meetings on this topic
 
 - **2026-05-26** — [Policy & Governance Committee - AMENDED AGENDA](../meetings/2026/2026-05-26-policy-governance-committee-amended-agenda.md)
@@ -102,6 +79,17 @@ Direct deep-links to specific supporting documents on the district portal.
 
 _28 more matched documents not shown — browse the meetings above to see them in context._
 
+## 2026 press coverage on this topic
+
+Articles matched by keyword from the [press index](../press/2026.md). 6 articles matched. The headline and publication are the source's own; the site adds no characterization.
+
+- **—** — *CBS2 Iowa (KGAN)* — "Iowa City school board to discuss ICE protocol and cell phone policy at Tuesday meeting" — [read article](https://cbs2iowa.com/news/local/iowa-city-school-board-to-discuss-ice-protocol-and-cell-phone-policy-at-tuesday-meeting)
+- **January 14, 2026** — *KCRG-TV9* — "Iowa City School District reviews policy for ICE encounters" — [read article](https://www.kcrg.com/2026/01/14/iowa-city-school-district-reviews-policy-ice-encounters/)
+- **—** — *CBS2 Iowa (KGAN)* — "Iowa City Schools considers ICE policy, cell phone use" — [read article](https://cbs2iowa.com/news/local/iowa-city-schools-considers-ice-policy-cell-phone-use)
+- **February 5, 2026** — *The Daily Iowan* — "ICCSD considers revising cell phone policy, seeking student, staff, and family input" — [read article](https://dailyiowan.com/2026/02/05/iccsd-considers-revising-cell-phone-policy-seeking-student-staff-and-family-input/)
+- **February 12, 2026** — *KCRG-TV9* — "Iowa receives 'C' for school phone policy as districts weigh full bans" — [read article](https://www.kcrg.com/2026/02/12/iowa-receives-c-school-phone-policy-districts-weigh-full-bans/)
+- **February 12, 2026** — *The Daily Iowan* — "ICCSD students, board members navigate attendance policies relating to student demonstrations" — [read article](https://dailyiowan.com/2026/02/12/iccsd-students-board-members-navigate-attendance-policies-relating-to-student-demonstrations/)
+
 ## Open questions
 
 Questions worth digging into across the underlying records:
@@ -112,4 +100,4 @@ Questions worth digging into across the underlying records:
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 14:50 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 15:13 UTC.*

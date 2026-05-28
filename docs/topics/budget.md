@@ -2,45 +2,6 @@
 
 How ICCSD raises and spends money — annual budgets, property tax levies, audits, fund balances, and significant transfers. The Financial Oversight Committee meets monthly and most line items land in regular board meetings as consent-agenda approvals.
 
-## The 2026 financial crisis — what actually happened
-
-ICCSD's 2026 has been dominated by an unfolding financial-management crisis whose origin event is now well-documented in the press. The story — drawn from the board record and the [2026 news coverage index](../press/2026.md):
-
-### Origin (August 2025)
-
-District administrators moved **$10 million from the health-insurance fund into the general fund** to cover a payroll cash-flow shortfall, **without notifying the board**. The transfer was then omitted from the next quarterly financial report — what district leaders later called *"a mistake."*
-
-Internal context for how this became possible: Cedar Rapids Gazette emails show former CFO Leslie Finger (retired June 2023) had warned his successor Adam Kurth about ~$500K in federal tax penalties, the absence of financial reports, and growth in the special-education deficit *"by millions of dollars."* Between September 2023 and June 2025, ICCSD incurred **$525,110 in federal tax penalties** for filing payroll and excise taxes *"significantly late."* Kurth left the district in November 2025.
-
-### January–March 2026 — the crisis emerges and the cuts grow
-
-- **January 27** — board learns about the $10M transfer at   its regular meeting. Directors are told the transfer hadn't   required board approval; an attorney later advises a review.   ([meeting](../meetings/2026/2026-01-27-regular-meeting-of-the-board-of-directors.md))
-- **January 30** — KCRG's Libbie Randall breaks the story   publicly. The board subsequently retroactively approves the   transfer.
-- **February 10** — FY26 Q2 Financial Report presented.   Payroll had been budgeted to rise 2–3%; **it rose 9%**,   putting ICCSD on pace to spend ~**$13.5 million over   budget**. Enrollment fell by 181 students (~1.25% of the   student body) FY25 → FY26.
-- **February 17** — FY2024-2028 Audit RFP recommendation   discussed at Board Work Session — first formal board   acknowledgment of the multi-year audit backlog.   ([meeting](../meetings/2026/2026-02-17-board-work-session-amended-agenda.md))
-- **February 24** — FY27 Certified Budget Update presented.   Same week, the Daily Iowan details the proposed cuts:   attrition-based teacher reductions, administrator   reassignments to building-level roles, bus-route   consolidation. Cut estimate by Feb 25: ~$8M.
-- **March 3** — Special board meeting authorizes **FY26   Anticipatory Warrants** (short-term borrowing) and reviews   Budget Reduction Proposals.   ([meeting](../meetings/2026/2026-03-03-special-board-meeting-5-00-pm-amended-agenda.md))
-- **March 4** — *"We don't have financials to present."*   Administrators tell directors at this meeting they cannot   present complete financial records. CBS2 reports monthly   expense and revenue tracking has been incomplete for nearly   three years.
-- **March 24** — **Board adopts $7.5M in FY26-27 cuts,   5–2.** Directors Finch and Lingo vote no. Same date hosts   the statutory public hearing on the FY27 property-tax levy.   ([meeting](../meetings/2026/2026-03-24-regular-meeting-board-of-directors-immediately-following-spe.md))
-
-### April 2026 — banks reject the loan, bond rating lost
-
-- **April 1** — Pat Moore announced as the new permanent CFO   (succeeding Interim CFO Kim Michael-Lee, who'd started Feb   25). Moore comes from Solon CSD where she'd been CFO since   2004.
-- **April 14** — Board approves Pat Moore's contract.
-- **April 28** — Board drops the $25M borrowing plan.   **Every bank the district approached rejected the loan**,   largely because ICCSD does not have up-to-date audits.   KCRG: ~$7.32M of debts come due within a month, and   *"cash is so tight the district might not be able to meet   July's payroll if the district pays off its health   insurance loan before the next fiscal year."* Same meeting:   **ESC sold to the City of Iowa City for $3.2M.**
-- **May 1** — Bond rating loss confirmed; driven by missing   audits.
-
-### May 2026 — facilities plan paused, leadership transition
-
-- **May 12** — **$104M Facilities Master Plan paused** by   unanimous board vote. Public comment period sees multiple   community members call for replacement of *"the current   superintendent, deputy superintendent and HR director."*   Board also discusses asking the state for permission to   raise spending authority; state takeover is on the table in   the worst case.   ([meeting](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md))
-- **May 23** — Superintendent Matt Degner publicly announces   his resignation by email and requests transition to   Executive Director of Secondary Schools.
-- **May 26** — Board approves Degner's transition 5–2   (Finch, Lingo no). Three property-sale proceeds-deposit   resolutions adopted (Hills, ESC, Scanlon). New CFO Pat Moore   presents the audit catch-up plan: FY24 audit by July 2026,   FY25 by November 2026, FY26 by the March 31, 2027 statutory   deadline.   ([meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)   · [watch the vote on YouTube](https://youtu.be/nMlbmq_NgoI?t=1757))
-
-### Audit backlog — who, when, why
-
-ICCSD has switched audit firms from **RSM Audit Services** to **Bohnsack & Frommelt LLP** for the FY24, FY25, and FY26 audits, with a commitment to complete all three no later than May 2027. Per the Cedar Rapids Gazette, Iowa school districts statewide are 1-2 years behind on audits due to a shortage of school auditors — but the ICCSD backlog cost the district its bond rating and access to bank financing.
-
-
 ## 2026 meetings on this topic
 
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
@@ -114,6 +75,23 @@ Direct deep-links to specific supporting documents on the district portal.
 
 _8 more matched documents not shown — browse the meetings above to see them in context._
 
+## 2026 press coverage on this topic
+
+Articles matched by keyword from the [press index](../press/2026.md). 12 articles matched. The headline and publication are the source's own; the site adds no characterization.
+
+- **February 10, 2026** — *The Daily Iowan* — "ICCSD estimates $5 to $6 million budget cut over the next year" — [read article](https://dailyiowan.com/2026/02/10/iccsd-estimates-5-to-6-million-budget-cut-over-the-next-year/)
+- **February 10, 2026** — *KCRG-TV9* — "Iowa City Schools face budget crisis after $10 million transfer without board approval" — [read article](https://www.kcrg.com/2026/02/11/iowa-city-schools-face-budget-crisis-after-10-million-transfer-without-board-approval/)
+- **February 19, 2026** — *KCRG-TV9* — "Parents voice concerns as Iowa City school district faces $10 million budget crisis" — [read article](https://www.kcrg.com/2026/02/19/parents-voice-concerns-iowa-city-school-district-faces-10-million-budget-crisis/)
+- **—** — *CBS2 Iowa (KGAN)* — "Iowa City schools weigh major budget cuts amid years of unclear financial records" — [read article](https://cbs2iowa.com/news/local/iowa-city-schools-weigh-major-budget-cuts-amid-years-of-unclear-financial-records)
+- **March 24, 2026** — *The Daily Iowan* — "ICCSD approves $7.5 million in budget cuts amid financial uncertainty" — [read article](https://dailyiowan.com/2026/03/24/iccsd-approves-7-5-million-in-budget-cuts-amid-financial-uncertainty/)
+- **—** — *The Cedar Rapids Gazette* — "Iowa City schools facing up to $6 million budget shortfall next year, seeking loans after overspending" — [read article](https://www.thegazette.com/k/iowa-city-schools-facing-up-to-6-million-budget-shortfall-next-year-seeking-loans-after-overspendi/)
+- **—** — *CBS2 Iowa (KGAN)* — "Iowa City schools project up to $6M budget gap, consider more loans and cuts" — [read article](https://cbs2iowa.com/news/local/iowa-city-schools-project-up-to-6m-budget-gap-consider-more-loans-and-cuts)
+- **—** — *CBS2 Iowa (KGAN)* — "Iowa City schools weigh closures as district confronts major budget troubles" — [read article](https://cbs2iowa.com/news/local/iowa-city-schools-weigh-closures-as-district-confronts-major-budget-troubles)
+- **May 12, 2026** — *CBS2 Iowa (KGAN)* — "Public criticizes Iowa City schools leadership amid budget crisis" — [read article](https://cbs2iowa.com/news/local/public-criticizes-iowa-city-schools-leadership-amid-budget-crisis)
+- **May 15, 2026** — *KCRG-TV9* — "Facing budget crisis, Iowa City school district accepts resignation of special education director" — [read article](https://www.kcrg.com/2026/05/15/facing-budget-crisis-iowa-city-school-district-accepts-resignation-special-education-director/)
+- **—** — *The Cedar Rapids Gazette — Staff editorial* — "Opinion: Iowa City's school budget is a failure of oversight" — [read article](https://www.thegazette.com/opinion/editorials/iowa-city-s-school-budget-is-a-failure-of-oversight/article_89cfaca4-3691-43f0-bf10-46e19e540ba0.html)
+- **—** — *(publication unknown)* — "ICCSD looks for solutions amidst budget struggles" — [read article](https://wsspaper.com/112329/news/iccsd-looks-for-solutions-amidst-budget-struggles/)
+
 ## Open questions
 
 Questions worth digging into across the underlying records:
@@ -125,4 +103,4 @@ Questions worth digging into across the underlying records:
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 14:50 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 15:13 UTC.*
