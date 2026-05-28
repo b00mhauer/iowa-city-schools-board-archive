@@ -16,6 +16,16 @@ mid: 29981
 
 </div>
 
+## What happened
+
+**What happened.** The May 26 board meeting was dominated by Superintendent Matt Degner's transition out of the superintendency. On the previous Friday, May 23, Degner had emailed staff and community announcing his resignation as Superintendent and requesting transition to Executive Director of Secondary Schools. Roughly 30 minutes of public comment opposed approving that move without an open search; speakers also raised the district's ongoing financial crisis (which surfaced internally in January 2026) and a longer pattern of governance and oversight concerns. The personnel-agenda item containing the EDSS role change was pulled from the consent agenda by Director Lingo and voted on separately. **The motion carried 5–2:** Directors Abraham, Eastham, Horn-Frasier, and Malone voting yes; Directors Finch and Lingo voting no. Lingo's stated objection: the position was offered a two-year contract instead of one; Finch concurred.
+
+**Other actions.** The board adopted three property-sale resolutions — depositing proceeds from the Hills property (301 W. Main, Hills), the ESC (1725 N. Dodge, Iowa City), and ~42.4 acres of unimproved real estate purchased from Scanlon Family, L.L.C. into the General Fund. Five FY26-27 negotiated labor agreements moved (Teachers, Physical Plant, Secretaries, Nutrition Services, Paraprofessionals). New CFO Pat Moore — nine days into the role — presented an audit catch-up plan targeting FY24 in July 2026, FY25 by November, and FY26 by the March 31, 2027 statutory deadline (with FY23 restatement also in progress). Policies 200.3G4 (Financial Oversight Committee Charter) and 303.4 (Administrator Salary) were adopted; Policies 207, 303.2, and the 700 series remain tabled.
+
+**Interim superintendent search.** Grundmeier — the firm that handled the recent CFO search — presented three engagement levels for the interim search. Board consensus: the interim should not be eligible for the permanent role, and a separate engagement decision should be made for the permanent search.
+
+---
+
 ## Watch & read
 
 - **[Meeting transcript](transcripts/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)** — machine-generated from the YouTube recording; timestamps link to the moment in the video.
@@ -505,6 +515,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 29981](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=29981). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:18 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:23 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

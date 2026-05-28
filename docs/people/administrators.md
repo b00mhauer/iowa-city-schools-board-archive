@@ -4,28 +4,34 @@ title: Administrators
 
 # Administrators
 
-The senior administrative team that reports up to the Superintendent and,
+The senior administrative team reporting up to the Superintendent and,
 through the Superintendent, to the Board.
 
 Roster as published on the district's official
-[Meet Our Admin Team page](https://www.iowacityschools.org/our-district/meet-our-admin-team).
+[Meet Our Admin Team page](https://www.iowacityschools.org/our-district/meet-our-admin-team),
+reconciled against the May 2026 board record below — the district's
+public page lags behind some recent transitions.
 
-!!! note "Leadership transition in progress"
+!!! warning "Active leadership transition (as of May 2026)"
 
-    As of the May 2026 board meetings, the board is actively conducting an
-    **Interim Superintendent search** — see the
-    [2026-05-26 board meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
-    Discussion Items section for the search proposal and options comparison.
-    The district's public roster page has not yet been updated to reflect
-    any forthcoming transition, so the table below reflects the *currently
-    published* roster, not what may be in effect after the search concludes.
+    On **Friday May 23, 2026**, Superintendent **Matt Degner** publicly
+    announced his resignation as Superintendent and requested transition
+    to **Executive Director of Secondary Schools**. At the
+    [May 26, 2026 board meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md),
+    the board approved that transition **5–2** (Directors Finch and Lingo
+    voting no — Lingo's stated objection was to the 2-year contract
+    length; Finch concurred). The board is concurrently conducting an
+    **Interim Superintendent search** through Grundmeier; consensus at
+    the May 26 meeting was that the interim should not be eligible for
+    the permanent role.
 
 ## Cabinet
 
-| Role | Name |
-|---|---|
-| **Superintendent** | Matt Degner |
-| **Deputy Superintendent** | Chace Ramey |
+| Role | Name | Notes |
+|---|---|---|
+| **Superintendent** | Matt Degner | Approved to transition to Executive Director of Secondary Schools effective per the May 26, 2026 personnel agenda. An interim search is in progress. |
+| **Deputy Superintendent** | Chace Ramey | |
+| **Chief Financial Officer** | Pat Moore | New to the role. Per Moore's own account at the May 26 board meeting, started ~May 18, 2026 (9 days before the May 26 meeting). Replaces prior finance lead (referenced as "Kim Michael Lee" in May 26 transcript). The district's [admin-team page](https://www.iowacityschools.org/our-district/meet-our-admin-team) still listed the Finance role as "Director of Finance" at the time of last sync; the board agenda title is **Chief Financial Officer**. |
 
 ## Executive Cabinet (reports to Superintendent)
 
@@ -35,35 +41,30 @@ Roster as published on the district's official
 | Chief Human Resources Officer | Nick Proud |
 | Executive Director, Educational Services & Student Success | Laura Cottrell-Atekwana |
 | Executive Director, Elementary Schools | Eliza Proctor |
-| Executive Director, Secondary Schools | Lucas Ptacek |
+| Executive Director, Secondary Schools | Lucas Ptacek *(role Degner has been approved to move into)* |
 | Executive Director, Community Relations | Kristin Pedersen |
 
 ## Directors
 
 | Role | Name |
 |---|---|
-| Director of Finance | Alan Moran |
 | Director of Student Services | Kate Hoffey |
 | Director of Curriculum, Instruction & Assessment | Carmen Gwenigale |
 | Director of District Activities | Tunisia May |
 | Director of Nutrition Services | Alison Demory |
 
-## Recent transitions tracked in board materials
+## Other transitions on the public record in 2026
 
-The board agendas surface administrative transitions before the district's
-public roster does. Items to know:
-
-- **New Chief Financial Officer** announced in district communications on
-  **April 1, 2026**. The district's admin-team page lists the Finance role
-  as "Director of Finance"; the title on board materials uses "Chief
-  Financial Officer." Either way, the position is staffed and a "CFO
-  Update" appears as a Discussion Item on the
-  [2026-05-26 meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md).
-- **Interim Superintendent search** is in progress as of May 2026.
+- **Special Education Director** — resignation accepted by the board at
+  the [May 15, 2026 special meeting](../meetings/2026/2026-05-15-special-meeting-of-the-board-of-directors.md).
+- **Multi-year audit backlog catch-up plan** presented by CFO Moore at
+  May 26: FY24 audit to be presented to the board in July 2026; FY25 by
+  November 2026; FY26 by the March 31, 2027 statutory deadline; FY23
+  restatement also in progress.
 
 ## Reporting a correction
 
-District-side updates are the source of truth. If the table above is stale,
-open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues)
-and the page will be re-synced from
-[the district's admin team page](https://www.iowacityschools.org/our-district/meet-our-admin-team).
+District-side updates are the source of truth. If anything in the table
+above is wrong — title, name, transition status — open an
+[issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues)
+with the page URL and the correction, and the page will be re-synced.

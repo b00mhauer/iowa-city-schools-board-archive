@@ -225,6 +225,22 @@ def _has_transcript(out_dir: Path, date_str: str, slug: str) -> bool:
     return candidate.exists()
 
 
+def load_summaries(path: Path) -> dict[int, str]:
+    """Load editorial summaries keyed by MID from a JSON sidecar.
+
+    Format: {"<mid>": "markdown body string"}
+
+    Allows curated 'What happened' summaries to be added to individual
+    meeting pages without modifying the generator. Missing file or
+    missing MID is fine — page just renders without a summary section.
+    """
+    if not path.exists():
+        return {}
+    with open(path, encoding="utf-8") as f:
+        raw = json.load(f)
+    return {int(k): v for k, v in raw.items() if v}
+
+
 def _has_extracts(out_dir: Path, mid: int) -> bool:
     """Check whether publish_extracts.py wrote text extracts for this MID."""
     candidate = out_dir / "text" / str(mid)
@@ -233,7 +249,8 @@ def _has_extracts(out_dir: Path, mid: int) -> bool:
 
 def render_meeting_page(meeting_record: dict, agenda_md: str | None,
                         meeting_type: str, generated_at: str,
-                        out_dir: Path, slug: str) -> tuple[str, dict]:
+                        out_dir: Path, slug: str,
+                        summary: str | None = None) -> tuple[str, dict]:
     """Compose the full markdown page for one meeting."""
     mid = meeting_record["mid"]
     title = meeting_record["title"]
@@ -275,6 +292,16 @@ def render_meeting_page(meeting_record: dict, agenda_md: str | None,
     header.append("")
     header.append("</div>")
     header.append("")
+
+    # Editorial summary block — only present if a curator wrote one for
+    # this meeting (lives in data/summaries_<year>.json).
+    if summary:
+        header.append("## What happened")
+        header.append("")
+        header.append(summary.rstrip())
+        header.append("")
+        header.append("---")
+        header.append("")
 
     # "Watch & read" panel — transcripts and extracts where they exist.
     has_t = _has_transcript(out_dir, date_str, slug)
@@ -452,6 +479,8 @@ def main() -> int:
     ap.add_argument("--year", type=int, required=True)
     ap.add_argument("--out", type=Path, required=True,
                     help="Output dir docs/meetings/<year>/")
+    ap.add_argument("--summaries", type=Path, default=None,
+                    help="Optional path to data/summaries_<year>.json")
     args = ap.parse_args()
 
     args.out.mkdir(parents=True, exist_ok=True)
@@ -459,6 +488,9 @@ def main() -> int:
     attachments_data = load_json(args.attachments)
     all_meetings = load_json(args.meetings_json)
     types_by_mid = index_meeting_types(all_meetings)
+    summaries_by_mid = load_summaries(args.summaries) if args.summaries else {}
+    if summaries_by_mid:
+        print(f"Loaded {len(summaries_by_mid)} editorial summaries.")
 
     local = find_local_meetings(args.source_root)
     print(f"Found {len(local)} local meeting folders with agenda.md.")
@@ -488,8 +520,10 @@ def main() -> int:
         )
 
         slug = slugify(rec["title"])
-        page_md, stats = render_meeting_page(rec, agenda_md, meeting_type,
-                                             generated_at, args.out, slug)
+        page_md, stats = render_meeting_page(
+            rec, agenda_md, meeting_type, generated_at, args.out, slug,
+            summary=summaries_by_mid.get(mid),
+        )
         total_replaced += stats["replaced"]
         total_missed += stats["missed"]
 

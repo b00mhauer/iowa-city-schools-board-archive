@@ -2,6 +2,22 @@
 
 How ICCSD raises and spends money — annual budgets, property tax levies, audits, fund balances, and significant transfers. The Financial Oversight Committee meets monthly and most line items land in regular board meetings as consent-agenda approvals.
 
+## The 2026 financial crisis
+
+ICCSD's 2026 has been dominated by an unfolding financial-management crisis. The public arc of the year, drawn from the board record:
+
+- **January 2026** — the district's financial crisis was first   surfaced to the board (per public commenters at the May 26   meeting). The board subsequently issued a *Board Financial   Leadership Update* outlining commitments — including an   organizational-chart review using outside expertise and a   policy revision (Policy 303.2) to add board involvement in   administrator hiring.
+- **February 17, 2026** — Audit RFP for FY2024-2028 discussed   at Board Work Session — first formal board acknowledgment of   the multi-year audit backlog.   ([meeting](../meetings/2026/2026-02-17-board-work-session-amended-agenda.md))
+- **February 24, 2026** — FY27 Certified Budget Update and   Proposed Budget Actions presented.   ([meeting](../meetings/2026/2026-02-24-regular-meeting-of-the-board-of-directors-amended-agenda.md))
+- **March 3, 2026** — Special board meeting reviewed Budget   Reduction Proposals and authorized FY26 Anticipatory   Warrants — a short-term borrowing instrument that the May 26   public-comment period referenced as a sign of strain.   ([meeting](../meetings/2026/2026-03-03-special-board-meeting-5-00-pm-amended-agenda.md))
+- **March 24, 2026** — Public hearing on the Proposed FY27   Property Tax Levy.   ([meeting](../meetings/2026/2026-03-24-special-meeting-budget-hearing-public-hearing-on-proposed-pr.md))
+- **April 1, 2026** — District announced a new CFO.   (Pat Moore — actual start date ~May 18, 2026 per her own   remarks at May 26.)
+- **May 2026** — Three district properties (Hills, ESC at 1725   N. Dodge Street, and ~42.4 acres of Scanlon-family unimproved   real estate) sold and proceeds deposited into the General   Fund.
+- **May 26, 2026** — New CFO Pat Moore's first official   meeting. Audit catch-up plan presented: FY24 audit to be   brought to the board in July 2026, FY25 by November 2026,   FY26 by the March 31, 2027 statutory deadline, with FY23   restatement also in progress.   ([transcript](../meetings/2026/transcripts/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md))
+
+Multiple public commenters at recent meetings have referenced potential school closures and further cuts in the year ahead. Those are speakers' framings — not formal board actions on the record yet — and are noted here as context, not as facts.
+
+
 ## 2026 meetings on this topic
 
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
@@ -79,10 +95,11 @@ _8 more matched documents not shown — browse the meetings above to see them in
 
 Questions worth digging into across the underlying records:
 
-- What is the multi-year trend in the general-fund balance and spending authority?
+- What does the FY24 audit, when presented in July 2026, say about ICCSD's actual financial position?
+- How much will be raised by the three 2026 property sales, and how is it being applied?
+- What does the FY27 line-item budget look like once Pat Moore's new monthly close process and full audit results are incorporated?
 - How has the property-tax levy moved year over year, and what drove the changes?
-- Where are the largest discretionary line items, and how have they shifted?
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:11 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:22 UTC.*

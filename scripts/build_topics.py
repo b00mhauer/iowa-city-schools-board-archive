@@ -36,30 +36,132 @@ TOPICS: dict[str, dict] = {
             "Financial Oversight Committee meets monthly and most line items "
             "land in regular board meetings as consent-agenda approvals."
         ),
+        "body": (
+            "## The 2026 financial crisis\n\n"
+            "ICCSD's 2026 has been dominated by an unfolding financial-"
+            "management crisis. The public arc of the year, drawn from "
+            "the board record:\n\n"
+            "- **January 2026** — the district's financial crisis was first "
+            "  surfaced to the board (per public commenters at the May 26 "
+            "  meeting). The board subsequently issued a *Board Financial "
+            "  Leadership Update* outlining commitments — including an "
+            "  organizational-chart review using outside expertise and a "
+            "  policy revision (Policy 303.2) to add board involvement in "
+            "  administrator hiring.\n"
+            "- **February 17, 2026** — Audit RFP for FY2024-2028 discussed "
+            "  at Board Work Session — first formal board acknowledgment of "
+            "  the multi-year audit backlog. "
+            "  ([meeting](../meetings/2026/2026-02-17-board-work-session-amended-agenda.md))\n"
+            "- **February 24, 2026** — FY27 Certified Budget Update and "
+            "  Proposed Budget Actions presented. "
+            "  ([meeting](../meetings/2026/2026-02-24-regular-meeting-of-the-board-of-directors-amended-agenda.md))\n"
+            "- **March 3, 2026** — Special board meeting reviewed Budget "
+            "  Reduction Proposals and authorized FY26 Anticipatory "
+            "  Warrants — a short-term borrowing instrument that the May 26 "
+            "  public-comment period referenced as a sign of strain. "
+            "  ([meeting](../meetings/2026/2026-03-03-special-board-meeting-5-00-pm-amended-agenda.md))\n"
+            "- **March 24, 2026** — Public hearing on the Proposed FY27 "
+            "  Property Tax Levy. "
+            "  ([meeting](../meetings/2026/2026-03-24-special-meeting-budget-hearing-public-hearing-on-proposed-pr.md))\n"
+            "- **April 1, 2026** — District announced a new CFO. "
+            "  (Pat Moore — actual start date ~May 18, 2026 per her own "
+            "  remarks at May 26.)\n"
+            "- **May 2026** — Three district properties (Hills, ESC at 1725 "
+            "  N. Dodge Street, and ~42.4 acres of Scanlon-family unimproved "
+            "  real estate) sold and proceeds deposited into the General "
+            "  Fund.\n"
+            "- **May 26, 2026** — New CFO Pat Moore's first official "
+            "  meeting. Audit catch-up plan presented: FY24 audit to be "
+            "  brought to the board in July 2026, FY25 by November 2026, "
+            "  FY26 by the March 31, 2027 statutory deadline, with FY23 "
+            "  restatement also in progress. "
+            "  ([transcript](../meetings/2026/transcripts/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md))\n\n"
+            "Multiple public commenters at recent meetings have referenced "
+            "potential school closures and further cuts in the year ahead. "
+            "Those are speakers' framings — not formal board actions on the "
+            "record yet — and are noted here as context, not as facts.\n"
+        ),
         "questions": [
-            "What is the multi-year trend in the general-fund balance and "
-            "spending authority?",
+            "What does the FY24 audit, when presented in July 2026, say "
+            "about ICCSD's actual financial position?",
+            "How much will be raised by the three 2026 property sales, and "
+            "how is it being applied?",
+            "What does the FY27 line-item budget look like once Pat Moore's "
+            "new monthly close process and full audit results are "
+            "incorporated?",
             "How has the property-tax levy moved year over year, and what "
             "drove the changes?",
-            "Where are the largest discretionary line items, and how have they "
-            "shifted?",
         ],
     },
     "superintendent": {
         "title": "Superintendent",
         "keywords": [
             "superintendent", "interim superintendent", "search firm",
-            "leadership transition", "Search Committee",
+            "leadership transition", "Search Committee", "Degner",
         ],
         "intro": (
             "The superintendent's role, evaluation, and any transitions. This "
             "page collects discussions of the superintendent's performance, "
             "search and selection processes, contracts, and evaluations."
         ),
+        "body": (
+            "## The 2026 transition\n\n"
+            "Matt Degner is ICCSD's Superintendent of record going into "
+            "2026. The year unfolded into a leadership transition closely "
+            "intertwined with the district's [financial crisis](budget.md):\n\n"
+            "- **Friday, May 23, 2026** — Superintendent Degner publicly "
+            "  announced via community email both his resignation as "
+            "  Superintendent and his request to transition to a different "
+            "  executive-level role within the district: Executive Director "
+            "  of Secondary Schools. (Referenced by name and date in "
+            "  multiple May 26 public comments; the original email is not "
+            "  in the board's published agenda materials.)\n"
+            "- **May 26, 2026 — board vote on Degner's transition.** The "
+            "  personnel-agenda item containing the EDSS role change was "
+            "  pulled from the consent agenda by Director Lingo and voted "
+            "  on separately. The motion carried **5–2**: Directors "
+            "  Abraham, Eastham, Horn-Frasier, and Malone voting yes; "
+            "  Directors Finch and Lingo voting no. Lingo's stated "
+            "  objection on the record: the role was offered a two-year "
+            "  contract instead of one. Finch concurred. "
+            "  ([transcript at vote](../meetings/2026/transcripts/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md))\n"
+            "- **May 26, 2026 — Interim Superintendent search discussed.** "
+            "  Grundmeier (the firm that conducted the recent CFO search) "
+            "  presented three engagement levels — recruitment-only, "
+            "  full-service interim search, or a combined interim + "
+            "  permanent engagement. Board consensus: the interim should "
+            "  not be eligible for the permanent role, and the permanent "
+            "  search should be a separate engagement decision.\n\n"
+            "## Context from public comment\n\n"
+            "The May 26 meeting included roughly 30 minutes of public "
+            "comment opposing Degner's transition without an open search. "
+            "Repeated themes from commenters (these are speakers' "
+            "characterizations, not board findings):\n\n"
+            "- ICCSD has fallen in statewide academic rankings during "
+            "  Degner's tenure (one commenter cited a drop from ~159th "
+            "  to ~241st of 300 Iowa districts based on NCES / Iowa Dept. "
+            "  of Education / Census data).\n"
+            "- The board's previously committed organizational-chart "
+            "  review and Policy 303.2 revision should occur **before** "
+            "  any administrative hires or restructurings, not after.\n"
+            "- Multiple commenters alleged a pattern of retaliation, "
+            "  hostile workplace conditions, and procedural irregularities "
+            "  under current administrators. Specific names cited by "
+            "  commenters are intentionally omitted from this archive "
+            "  page; see the [transcript](../meetings/2026/transcripts/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md) "
+            "  for the verbatim record.\n\n"
+            "These are public-comment claims. The archive surfaces them as "
+            "part of the record without endorsing or refuting any of them.\n"
+        ),
         "questions": [
-            "What is the current superintendent's contract and evaluation cycle?",
-            "Have there been recent leadership transitions, and what process "
-            "was used to fill them?",
+            "What were the terms of Degner's superintendent contract, and "
+            "what are the terms of the approved EDSS contract?",
+            "What is the timeline and scope of the Interim Superintendent "
+            "search via Grundmeier, and when is a permanent search "
+            "expected?",
+            "Did the board complete the organizational-chart review and "
+            "Policy 303.2 revision that the Financial Leadership Update "
+            "committed to, before or after the May 26 vote?",
         ],
     },
     "facilities": {
@@ -196,9 +298,14 @@ def build_topic_page(slug: str, spec: dict, attachments_data: dict,
         "",
         spec["intro"],
         "",
+    ]
+    if spec.get("body"):
+        lines.append(spec["body"])
+        lines.append("")
+    lines.extend([
         "## 2026 meetings on this topic",
         "",
-    ]
+    ])
     if not meetings_sorted:
         lines.append("_No 2026 meetings matched the keyword set yet._")
     else:
