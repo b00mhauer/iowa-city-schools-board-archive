@@ -215,6 +215,20 @@ def main() -> int:
             print(f"refreshed: docs/index.md (Latest block)")
         except subprocess.CalledProcessError as e:
             print(f"WARN: build_home failed: {e.stderr}", file=sys.stderr)
+        try:
+            _run([
+                sys.executable, str(scripts_dir / "build_llms_manifest.py"),
+                "--summaries", str(repo_root / "data" / f"summaries_{args.year}.json"),
+                "--press", str(args.out),
+                "--anchors", str(repo_root / "data" / f"anchor_events_{args.year}.json"),
+                "--attachments", str(repo_root / "data" / f"attachments_{args.year}.json"),
+                "--meetings-json", str(iccsd_meetings_json),
+                "--year", str(args.year),
+                "--out", str(repo_root / "docs" / "llms.md"),
+            ])
+            print(f"refreshed: docs/llms.md (LLM manifest)")
+        except subprocess.CalledProcessError as e:
+            print(f"WARN: build_llms_manifest failed: {e.stderr}", file=sys.stderr)
     else:
         print(
             f"NOTE: {iccsd_meetings_json} not found — skipping downstream "
@@ -236,6 +250,7 @@ def main() -> int:
             str(repo_root / "docs" / "topics" / "boundaries.md"),
             str(repo_root / "docs" / "topics" / "index.md"),
             str(repo_root / "docs" / "index.md"),
+            str(repo_root / "docs" / "llms.md"),
         ]
         status = _run([
             "git", "status", "--porcelain",

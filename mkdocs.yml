@@ -81,6 +81,7 @@ markdown_extensions:
 # humans browsing the website.
 not_in_nav: |
   /meetings/2026/2026-*.md
+  /llms.md
 
 nav:
   - Home: index.md

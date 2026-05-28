@@ -39,9 +39,21 @@ from typing import Any
 from urllib.parse import quote
 
 
-# Site URL — embedded in the AI prompts below so the tool fetches the
-# right page directly from GitHub Pages.
+# Site URL — humans browse here.
 SITE_URL = "https://b00mhauer.github.io/iowa-city-schools-board-archive"
+
+# Raw markdown URL base — embedded in AI-tool prompts so the LLM
+# fetches the clean markdown source (no HTML styling noise, much lower
+# token cost) instead of the rendered HTML page. Pretty URLs like
+# /timeline/ map to RAW_URL_BASE/timeline.md.
+RAW_URL_BASE = (
+    "https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive"
+    "/main/docs"
+)
+
+# The site-wide LLM manifest — the "table of contents" the AI is pointed
+# at for cross-page context.
+MANIFEST_URL = f"{RAW_URL_BASE}/llms.md"
 
 
 def _ai_buttons(prompt: str) -> str:
@@ -427,14 +439,20 @@ def render_meeting_page(meeting_record: dict, agenda_md: str | None,
         header.append("")
 
     # Ask AI block — clicking opens ChatGPT / Gemini / Perplexity with a
-    # question about this meeting pre-loaded. The AI fetches this page
-    # (which is on the public site) and answers from it.
-    meeting_page_url = f"{SITE_URL}/meetings/{date_str[:4]}/{date_str}-{slug}/"
+    # question about this meeting pre-loaded. The AI fetches the raw
+    # markdown of this page (no HTML styling noise) and answers from it.
+    # The manifest URL gives the AI a site-wide table of contents so it
+    # can fetch related pages if the question requires cross-page context.
+    meeting_page_raw = (
+        f"{RAW_URL_BASE}/meetings/{date_str[:4]}/{date_str}-{slug}.md"
+    )
     ai_prompt = (
         f"Read this ICCSD Board of Directors meeting summary and supporting "
-        f"document list, then answer my questions about it. Start with a "
+        f"document list (markdown source): {meeting_page_raw}. Start with a "
         f"~150-word overview: what happened, who voted how on any contested "
-        f"items, and what's still unresolved. The page is at {meeting_page_url}"
+        f"items, and what's still unresolved. For broader archive context "
+        f"if the conversation continues, the site-wide index is at "
+        f"{MANIFEST_URL}."
     )
     header.append("## Ask an AI about this meeting")
     header.append("")
