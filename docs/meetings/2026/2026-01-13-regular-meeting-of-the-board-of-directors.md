@@ -16,6 +16,14 @@ mid: 25481
 
 </div>
 
+## What happened
+
+**What happened.** The first regular board meeting of 2026 — a 40-document agenda. The board elected its committee chairs for the year: **Mitch Lingo** (Financial Oversight Committee), and a separately-elected slate for the other committees in the following two weeks. Land-use resolutions dominated the action portion: a First Resolution on Electric Equipment Easement, a Second Resolution on Electric Equipment Easement, a First Resolution on Public Utility Easement, a Temporary Construction Easement and Quit Claim Deed, and a West Bank Corporate Resolution. The board also approved a Marzano Resources Purchase Agreement.
+
+**Per public comment at the May 26 meeting**, January 2026 is the period when the district's financial crisis was first surfaced to the board — leading to the issuance of a *Board Financial Leadership Update* outlining the commitments the board agreed to undertake (organizational-chart review with outside firm; revision of Policy 303.2 on administrator hiring with board involvement). The exact January meeting where that surfacing occurred is referenced as 'January' in subsequent public comment but not enumerated by specific date in the public record carried forward to May 26.
+
+---
+
 ## Watch & read
 
 - **[Meeting transcript](transcripts/2026-01-13-regular-meeting-of-the-board-of-directors.md)** — machine-generated from the YouTube recording; timestamps link to the moment in the video.
@@ -586,6 +594,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 25481](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25481). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:33 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:35 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

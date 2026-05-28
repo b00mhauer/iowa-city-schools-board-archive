@@ -16,6 +16,14 @@ mid: 28237
 
 </div>
 
+## What happened
+
+**What happened.** A special board meeting at 5:00 PM — 9 supporting documents. Two consequential financial actions: review of **Budget Reduction Proposals** (the specific cuts proposed in response to the financial crisis), and the authorization of **FY26 Anticipatory Warrants** — a short-term borrowing instrument that lets a public entity meet near-term obligations against expected future revenue.
+
+**Public-comment context.** The use of anticipatory warrants was referenced by speakers at later meetings (including May 26) as a sign of cash-flow strain — the district was needing to borrow to bridge gaps in tax-revenue receipt timing. Engagement Letter for the FY26 Anticipatory Warrants and Authorizing Resolution were both adopted at this meeting.
+
+---
+
 ## Watch & read
 
 - **[Meeting transcript](transcripts/2026-03-03-special-board-meeting-5-00-pm-amended-agenda.md)** — machine-generated from the YouTube recording; timestamps link to the moment in the video.
@@ -132,6 +140,6 @@ Motion to authorize Curt Pratt, Board Treasurer, as an authorized signer to the 
 
 Agenda content carried through from the district's published materials for [MID 28237](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=28237). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:33 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:35 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

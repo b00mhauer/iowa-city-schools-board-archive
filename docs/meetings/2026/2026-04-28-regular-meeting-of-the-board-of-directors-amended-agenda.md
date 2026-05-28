@@ -16,6 +16,14 @@ mid: 28495
 
 </div>
 
+## What happened
+
+**What happened.** A 47-document April meeting. The headline item: the **public hearing on the conveyance of an interest in real property at 1725 N. Dodge Street (the ESC)**, followed by the **Resolution Authorizing Conveyance** — Lot 1, Press-Citizen Addition to Iowa City, locally known as 1725 N. Dodge Street. The hearing date had been set on April 14; the formal authorization came at this meeting. Proceeds from the sale would be deposited into the General Fund via a separate resolution at the May 26 meeting.
+
+**Other items.** Routine financial reports and a substantial consent agenda. Director Williams announced in advance that she would attend the May 12 board meeting by phone from Denver, beginning with an exempt session from the airport and continuing into the regular meeting.
+
+---
+
 ## Watch & read
 
 - **[Meeting transcript](transcripts/2026-04-28-regular-meeting-of-the-board-of-directors-amended-agenda.md)** — machine-generated from the YouTube recording; timestamps link to the moment in the video.
@@ -443,6 +451,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 28495](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=28495). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:33 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:35 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

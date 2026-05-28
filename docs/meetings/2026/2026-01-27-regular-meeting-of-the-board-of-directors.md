@@ -16,6 +16,14 @@ mid: 25486
 
 </div>
 
+## What happened
+
+**What happened.** A 33-document January follow-up meeting. Action items continued the Forevergreen Road land-use work begun at the January 13 meeting: Temporary Construction Easement Resolutions 1 and 2, Public Utilities Easement Resolution 1, Utilities Agreement Resolution 2, and a Utilities Agreement Affidavit. The board also adopted a **Resolution Approving Interfund Loan** for ICCSD — a financial mechanism the district used to manage cash flow.
+
+**Committee leadership transitions.** Director Lisa Williams handed off the Policy & Governance Committee chairmanship to Director Mitch Lingo at this meeting's P&G session, completing the committee-chair slate for the year (Lingo also chairs FOC; Horn-Frasier chairs Education). Capital projects work included a discussion of West HS Auditorium Improvements.
+
+---
+
 ## Watch & read
 
 - **[Meeting transcript](transcripts/2026-01-27-regular-meeting-of-the-board-of-directors.md)** — machine-generated from the YouTube recording; timestamps link to the moment in the video.
@@ -446,6 +454,6 @@ Motion to adjourn the meeting
 
 Agenda content carried through from the district's published materials for [MID 25486](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=25486). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:33 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 06:35 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.
