@@ -2,20 +2,43 @@
 
 How ICCSD raises and spends money — annual budgets, property tax levies, audits, fund balances, and significant transfers. The Financial Oversight Committee meets monthly and most line items land in regular board meetings as consent-agenda approvals.
 
-## The 2026 financial crisis
+## The 2026 financial crisis — what actually happened
 
-ICCSD's 2026 has been dominated by an unfolding financial-management crisis. The public arc of the year, drawn from the board record:
+ICCSD's 2026 has been dominated by an unfolding financial-management crisis whose origin event is now well-documented in the press. The story — drawn from the board record and the [2026 news coverage index](../press/2026.md):
 
-- **January 2026** — the district's financial crisis was first   surfaced to the board (per public commenters at the May 26   meeting). The board subsequently issued a *Board Financial   Leadership Update* outlining commitments — including an   organizational-chart review using outside expertise and a   policy revision (Policy 303.2) to add board involvement in   administrator hiring.
-- **February 17, 2026** — Audit RFP for FY2024-2028 discussed   at Board Work Session — first formal board acknowledgment of   the multi-year audit backlog.   ([meeting](../meetings/2026/2026-02-17-board-work-session-amended-agenda.md))
-- **February 24, 2026** — FY27 Certified Budget Update and   Proposed Budget Actions presented.   ([meeting](../meetings/2026/2026-02-24-regular-meeting-of-the-board-of-directors-amended-agenda.md))
-- **March 3, 2026** — Special board meeting reviewed Budget   Reduction Proposals and authorized FY26 Anticipatory   Warrants — a short-term borrowing instrument that the May 26   public-comment period referenced as a sign of strain.   ([meeting](../meetings/2026/2026-03-03-special-board-meeting-5-00-pm-amended-agenda.md))
-- **March 24, 2026** — Public hearing on the Proposed FY27   Property Tax Levy.   ([meeting](../meetings/2026/2026-03-24-special-meeting-budget-hearing-public-hearing-on-proposed-pr.md))
-- **April 1, 2026** — District announced a new CFO.   (Pat Moore — actual start date ~May 18, 2026 per her own   remarks at May 26.)
-- **May 2026** — Three district properties (Hills, ESC at 1725   N. Dodge Street, and ~42.4 acres of Scanlon-family unimproved   real estate) sold and proceeds deposited into the General   Fund.
-- **May 26, 2026** — New CFO Pat Moore's first official   meeting. Audit catch-up plan presented: FY24 audit to be   brought to the board in July 2026, FY25 by November 2026,   FY26 by the March 31, 2027 statutory deadline, with FY23   restatement also in progress.   ([watch on YouTube](https://youtu.be/nMlbmq_NgoI?t=2214))
+### Origin (August 2025)
 
-Multiple public commenters at recent meetings have referenced potential school closures and further cuts in the year ahead. Those are speakers' framings — not formal board actions on the record yet — and are noted here as context, not as facts.
+District administrators moved **$10 million from the health-insurance fund into the general fund** to cover a payroll cash-flow shortfall, **without notifying the board**. The transfer was then omitted from the next quarterly financial report — what district leaders later called *"a mistake."*
+
+Internal context for how this became possible: Cedar Rapids Gazette emails show former CFO Leslie Finger (retired June 2023) had warned his successor Adam Kurth about ~$500K in federal tax penalties, the absence of financial reports, and growth in the special-education deficit *"by millions of dollars."* Between September 2023 and June 2025, ICCSD incurred **$525,110 in federal tax penalties** for filing payroll and excise taxes *"significantly late."* Kurth left the district in November 2025.
+
+### January–March 2026 — the crisis emerges and the cuts grow
+
+- **January 27** — board learns about the $10M transfer at   its regular meeting. Directors are told the transfer hadn't   required board approval; an attorney later advises a review.   ([meeting](../meetings/2026/2026-01-27-regular-meeting-of-the-board-of-directors.md))
+- **January 30** — KCRG's Libbie Randall breaks the story   publicly. The board subsequently retroactively approves the   transfer.
+- **February 10** — FY26 Q2 Financial Report presented.   Payroll had been budgeted to rise 2–3%; **it rose 9%**,   putting ICCSD on pace to spend ~**$13.5 million over   budget**. Enrollment fell by 181 students (~1.25% of the   student body) FY25 → FY26.
+- **February 17** — FY2024-2028 Audit RFP recommendation   discussed at Board Work Session — first formal board   acknowledgment of the multi-year audit backlog.   ([meeting](../meetings/2026/2026-02-17-board-work-session-amended-agenda.md))
+- **February 24** — FY27 Certified Budget Update presented.   Same week, the Daily Iowan details the proposed cuts:   attrition-based teacher reductions, administrator   reassignments to building-level roles, bus-route   consolidation. Cut estimate by Feb 25: ~$8M.
+- **March 3** — Special board meeting authorizes **FY26   Anticipatory Warrants** (short-term borrowing) and reviews   Budget Reduction Proposals.   ([meeting](../meetings/2026/2026-03-03-special-board-meeting-5-00-pm-amended-agenda.md))
+- **March 4** — *"We don't have financials to present."*   Administrators tell directors at this meeting they cannot   present complete financial records. CBS2 reports monthly   expense and revenue tracking has been incomplete for nearly   three years.
+- **March 24** — **Board adopts $7.5M in FY26-27 cuts,   5–2.** Directors Finch and Lingo vote no. Same date hosts   the statutory public hearing on the FY27 property-tax levy.   ([meeting](../meetings/2026/2026-03-24-regular-meeting-board-of-directors-immediately-following-spe.md))
+
+### April 2026 — banks reject the loan, bond rating lost
+
+- **April 1** — Pat Moore announced as the new permanent CFO   (succeeding Interim CFO Kim Michael-Lee, who'd started Feb   25). Moore comes from Solon CSD where she'd been CFO since   2004.
+- **April 14** — Board approves Pat Moore's contract.
+- **April 28** — Board drops the $25M borrowing plan.   **Every bank the district approached rejected the loan**,   largely because ICCSD does not have up-to-date audits.   KCRG: ~$7.32M of debts come due within a month, and   *"cash is so tight the district might not be able to meet   July's payroll if the district pays off its health   insurance loan before the next fiscal year."* Same meeting:   **ESC sold to the City of Iowa City for $3.2M.**
+- **May 1** — Bond rating loss confirmed; driven by missing   audits.
+
+### May 2026 — facilities plan paused, leadership transition
+
+- **May 12** — **$104M Facilities Master Plan paused** by   unanimous board vote. Public comment period sees multiple   community members call for replacement of *"the current   superintendent, deputy superintendent and HR director."*   Board also discusses asking the state for permission to   raise spending authority; state takeover is on the table in   the worst case.   ([meeting](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md))
+- **May 23** — Superintendent Matt Degner publicly announces   his resignation by email and requests transition to   Executive Director of Secondary Schools.
+- **May 26** — Board approves Degner's transition 5–2   (Finch, Lingo no). Three property-sale proceeds-deposit   resolutions adopted (Hills, ESC, Scanlon). New CFO Pat Moore   presents the audit catch-up plan: FY24 audit by July 2026,   FY25 by November 2026, FY26 by the March 31, 2027 statutory   deadline.   ([meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)   · [watch the vote on YouTube](https://youtu.be/nMlbmq_NgoI?t=1757))
+
+### Audit backlog — who, when, why
+
+ICCSD has switched audit firms from **RSM Audit Services** to **Bohnsack & Frommelt LLP** for the FY24, FY25, and FY26 audits, with a commitment to complete all three no later than May 2027. Per the Cedar Rapids Gazette, Iowa school districts statewide are 1-2 years behind on audits due to a shortage of school auditors — but the ICCSD backlog cost the district its bond rating and access to bank financing.
 
 
 ## 2026 meetings on this topic
@@ -102,4 +125,4 @@ Questions worth digging into across the underlying records:
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:42 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 14:50 UTC.*

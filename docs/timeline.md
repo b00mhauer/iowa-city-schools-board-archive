@@ -5,14 +5,29 @@ title: Timeline
 # Timeline
 
 ICCSD's 2026 has been dominated by an unfolding financial-management
-crisis and its fallout — including, in May, the public resignation of
-Superintendent Matt Degner. This page puts the major events of the year
-in order. Each entry links to the meeting page with the synthesized
-summary; where the action happened on camera, a direct YouTube anchor
-is provided.
+crisis whose origin traces back to **August 2025**. This page puts the
+major events of the year in order. Where the event was first surfaced
+or extensively covered in the press, the [2026 news index](press/2026.md)
+has citations to the original reporting.
 
-For the complete meeting-by-meeting record, see the
-[2026 meeting index](meetings/2026/index.md).
+## Pre-crisis origin
+
+- **August 2025 — Undisclosed $10 million interfund transfer.** District
+  administrators moved $10 million from the health-insurance fund into
+  the general fund to cover a payroll cash-flow shortfall, **without
+  board notification**. The transfer was omitted from the next quarterly
+  financial report, which district leaders later called *"a mistake."*
+  This is the origin event of the 2026 crisis. (Per
+  [KCRG, Jan 30 2026](press/2026.md#january-2026) and
+  [The Cedar Rapids Gazette](press/2026.md).)
+- **June 30, 2023 — Former CFO Leslie Finger retires.** Internal emails
+  obtained later by the Cedar Rapids Gazette show Finger had warned his
+  successor Adam Kurth about ~$500K in federal tax penalties, the
+  absence of financial reports, and growth in the special-education
+  deficit *"by millions of dollars."*
+- **Sept 30, 2023 – June 30, 2025 — $525,110 in federal tax penalties**
+  accumulate, for filing payroll and excise taxes *"significantly late."*
+- **November 2025 — CFO Adam Kurth leaves the district.**
 
 ## 2026
 
@@ -20,123 +35,160 @@ For the complete meeting-by-meeting record, see the
 
 - **2026-05-26 — Board approves Superintendent Degner's transition to
   Executive Director of Secondary Schools, 5–2.**
-  After roughly 30 minutes of public comment opposing the move without an
-  open search, the board voted on the pulled personnel-agenda item.
-  Directors Abraham, Eastham, Horn-Frasier, and Malone voted yes;
-  Directors Finch and Lingo voted no. (Lingo's stated objection on the
-  record: the position was offered a two-year contract instead of one;
-  Finch concurred.)
+  After ~30 minutes of public comment opposing the move without an open
+  search, the board voted on the pulled personnel-agenda item. Directors
+  Abraham, Eastham, Horn-Frasier, and Malone voted yes; Directors Finch
+  and Lingo voted no. (Lingo's stated objection: the position was offered
+  a two-year contract instead of one; Finch concurred.)
   ([meeting summary](meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
    · [watch the vote on YouTube](https://youtu.be/nMlbmq_NgoI?t=1757))
-- **2026-05-26 — Three property-sale resolutions adopted.**
-  Public hearings held and proceeds-deposit resolutions passed for the
-  Hills property (301 W. Main St., Hills), the ESC (1725 N. Dodge St.,
-  Iowa City), and ~42.4 acres of unimproved real estate previously
-  purchased from Scanlon Family, L.L.C.
-  ([meeting](meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md))
-- **2026-05-26 — Five FY26-27 negotiated labor agreements taken up.**
-  Teachers (ICEA), Physical Plant (ICPPA), Secretaries (ICSUA), Nutrition
-  Services (ICSNSA), Paraprofessionals (ICEA). Three required action; two
-  were year-2 informationals.
-- **2026-05-26 — New CFO Pat Moore's first official meeting.**
-  Nine days into the role, Moore presented the audit catch-up plan:
-  FY24 audit to be presented to the board in July 2026, FY25 by November
-  2026, FY26 by the March 31, 2027 statutory deadline. FY23 restatement
-  also in progress.
-- **2026-05-26 — Interim Superintendent search options discussed.**
-  Grundmeier (the firm that handled the recent CFO search) presented
-  three engagement levels. Board consensus: the interim should not be
-  eligible for the permanent role, and a separate firm engagement should
-  be considered for the permanent search.
-- **2026-05-26 — Policy 200.3G4 (Financial Oversight Committee Charter)
-  and Policy 303.4 (Administrator Salary and Other Compensation)
-  adopted.** Policies 207, 303.2, and the 700 series remain tabled in
-  committee.
+- **2026-05-26 — Three property-sale proceeds-deposit resolutions adopted**
+  (Hills property; ESC at 1725 N. Dodge Street; ~42.4 acres of unimproved
+  real estate from Scanlon Family, L.L.C.) — all proceeds to the General
+  Fund.
+- **2026-05-26 — Five FY26-27 negotiated labor agreements** moved (Teachers,
+  Physical Plant, Secretaries, Nutrition Services, Paraprofessionals).
 - **2026-05-23 (Friday) — Superintendent Matt Degner publicly announces
-  resignation via community email** and requests transition to Executive
-  Director of Secondary Schools (referenced by name and date in multiple
-  May 26 public comments).
+  his resignation as Superintendent** and requests transition to
+  Executive Director of Secondary Schools, in an email to staff and
+  community. (Referenced by multiple May 26 public commenters.)
 - **2026-05-15 — Special board meeting accepts the Special Education
   Director's resignation.**
-  ([meeting](meetings/2026/2026-05-15-special-meeting-of-the-board-of-directors.md))
-- **2026-05-12 — CFO Update presented; May 26 ESC public-hearing date set.**
-  ([meeting](meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md))
-- **2026-05-01, 05-05 — Opening proposals exchanged** with three
-  bargaining units (Physical Plant Custodians; Teachers; Secretaries)
-  leading into the May 26 ratifications.
+- **2026-05-13 — Iowa City Police Department announces it will move into
+  the former ESC at 1725 N. Dodge Street** (the building sold April 28),
+  targeting a 2029 move-in.
+- **2026-05-12 — Board pauses the $104 million Facilities Master Plan.**
+  Unanimous adoption of the FMP Resolution temporarily halts projects
+  including new athletic fieldhouses and the $14 million Coralville
+  Recreation Center investment. The board also voted to transfer funds
+  to keep an account solvent and committed to ask the state for
+  permission to raise the district's spending authority. **State takeover
+  is on the table in the worst case.** Several community members called
+  during public comment for the superintendent, deputy superintendent,
+  and HR director to resign.
+  ([KCRG May 12](press/2026.md#may-2026)
+   · [CBS2 May 12](press/2026.md#may-2026))
+- **2026-05-12 — Closed session on someone's "professional competency"**
+  (subject undisclosed at the time).
+- **2026-05-01 — KCRG: ICCSD faces a long road to restore its credit rating.**
+  The bond rating loss — driven by missing audits — will constrain
+  financing for years and complicate any future facility bond questions.
 
 ### April
 
-- **2026-04-28 — ESC (1725 N. Dodge St.) conveyance public hearing held
-  and conveyance authorized.**
-  ([meeting](meetings/2026/2026-04-28-regular-meeting-of-the-board-of-directors-amended-agenda.md))
-- **2026-04-14 — 74 supporting documents on a single agenda** — the
-  largest-volume regular meeting of the year to date; ESC public-hearing
-  date set.
-  ([meeting](meetings/2026/2026-04-14-regular-meeting-of-the-board-of-directors.md))
-- **2026-04-01 — District announces new Chief Financial Officer.**
-  (Per district communications. Pat Moore's own account at the May 26
-  board meeting placed her actual start at ~May 18, 2026 — the
-  announcement may have preceded the start by several weeks.)
+- **2026-04-28 — ESC (1725 N. Dodge Street) sold to the City of Iowa City
+  for $3.2 million.** Public hearing held and conveyance authorized at
+  the regular meeting.
+  ([meeting summary](meetings/2026/2026-04-28-regular-meeting-of-the-board-of-directors-amended-agenda.md))
+- **2026-04-28 — Board drops the $25 million borrowing plan.** Every bank
+  the district approached had rejected the loan request — largely because
+  ICCSD does not have up-to-date audits. KCRG reported the district was
+  warning of a near-term cash crunch: ~$7.32M of debts coming due within
+  a month, and *"cash is so tight the district might not be able to meet
+  July's payroll if the district pays off its health insurance loan
+  before the next fiscal year."* PFM consultant John Fogarty: *"A lot of
+  promises were made but the money simply won't be there. Up to the
+  board to decide which project should go ahead of one another."*
+  ([Daily Iowan](press/2026.md#april-2026)
+   · [KCRG](press/2026.md#april-2026))
+- **2026-04-14 — 74-document agenda;** board votes to approve Pat Moore's
+  CFO contract; ESC public-hearing date set.
+- **2026-04-01 — District announces Pat Moore as new CFO** (succeeding
+  Interim CFO Kim Michael-Lee). Moore had been Solon Community School
+  District's CFO since 2004 — 28 years of school-district finance
+  experience. Stated start: July 1, 2026, pending April 14 board
+  approval. (Moore's own account at the May 26 board meeting placed her
+  active start as ~May 18, 2026 — 9 days before that meeting.)
+- **2026-04 — IPR/NPR series on Iowa school choice** features ICCSD as a
+  case study in how Iowa's universal ESA program has accelerated
+  enrollment loss in urban public districts (enrollment fell by 181
+  students between FY25 and FY26).
 
 ### March
 
-- **2026-03-24 — Public hearing on the Proposed FY27 Property Tax Levy**
-  held at the Special Meeting / Budget Hearing.
-  ([meeting](meetings/2026/2026-03-24-special-meeting-budget-hearing-public-hearing-on-proposed-pr.md))
-- **2026-03-24 — Regular meeting immediately following the budget
-  hearing**, 51 supporting documents.
-  ([meeting](meetings/2026/2026-03-24-regular-meeting-board-of-directors-immediately-following-spe.md))
-- **2026-03-10 — Capital projects update** (West HS Auditorium
-  Improvements; City HS Auditorium / Opstad Theater Lighting Upgrades).
-  ([meeting](meetings/2026/2026-03-10-regular-meeting-of-the-board-of-directors.md))
-- **2026-03-03 — Special board meeting:** Budget Reduction Proposals
-  reviewed and **FY26 Anticipatory Warrants** (short-term borrowing
-  instrument) authorized.
-  ([meeting](meetings/2026/2026-03-03-special-board-meeting-5-00-pm-amended-agenda.md))
+- **2026-03-24 — Board adopts $7.5 million in FY26-27 budget cuts, 5–2.**
+  Directors Finch and Lingo voted no. Finch's stated reason: *"I'm just
+  still not seeing a clear effort to rebuild trust and acknowledge the
+  seriousness of the situation by leadership."*
+- **2026-03-24 — Special Meeting / Budget Hearing** held on the FY27
+  property-tax levy.
+- **2026-03 — PFM consultant recommends evaluating school closures**
+  as part of the long-term cost-reduction strategy. This recommendation
+  triggers the elementary-reconfiguration discussions that run through
+  April and May.
+  ([Gazette](press/2026.md#march-2026))
+- **2026-03-10 — Board adopts the 600-policy series, 5–2.** Directors
+  Abraham and Finch voted no, citing class-size sizing concerns
+  (RAM methodology) and impact on teachers. Motion to **table the FY26
+  budget reductions** also carried 4–3 the same meeting.
+- **2026-03-04 — "We don't have financials to present"** — board meeting
+  at which administrators told directors they could not present complete
+  financial records. CBS2 reports monthly expense and revenue tracking
+  had been incomplete or unreliable for nearly three years.
+- **2026-03-03 — Special board meeting** reviews Budget Reduction
+  Proposals and authorizes **FY26 Anticipatory Warrants** (short-term
+  borrowing instrument used to bridge cash-flow gaps).
 
 ### February
 
-- **2026-02-24 — FY27 Certified Budget Update** and Proposed Budget
-  Actions presented.
-  ([meeting](meetings/2026/2026-02-24-regular-meeting-of-the-board-of-directors-amended-agenda.md))
-- **2026-02-17 — FY2024-2028 Audit RFP recommendation discussed**
-  at Board Work Session — first formal acknowledgment in 2026 board
-  materials of the multi-year audit backlog.
-  ([meeting](meetings/2026/2026-02-17-board-work-session-amended-agenda.md))
-- **2026-02-10 — FY26 Quarter 2 Financial Report presented.**
-  ([meeting](meetings/2026/2026-02-10-regular-meeting-of-the-board-of-directors-amended-agenda.md))
+- **2026-02-25 — Interim CFO Kim Michael-Lee officially starts.** (Per
+  West Side Story.)
+- **2026-02-25 — KCRG: ICCSD planning $8M in cuts.** The original $5–6M
+  cut projection has grown to ~$8M.
+- **2026-02-24 — FY27 Certified Budget Update and Proposed Budget
+  Actions** presented to the board.
+- **2026-02-24 — Daily Iowan: detailed cut proposal** lands. Teaching
+  positions to come down through attrition; district administrators to
+  be reassigned to building-level roles; bus routes consolidated;
+  central-office overhead trimmed.
+- **2026-02-19 — KCRG: parent forum** — community presses board on
+  transparency and oversight failures.
+- **2026-02-17 — FY2024-2028 Audit RFP recommendation** discussed at
+  Board Work Session. First formal board acknowledgment of the
+  multi-year audit backlog.
+- **2026-02-10 — FY26 Quarter 2 Financial Report** presented. KCRG and
+  Daily Iowan report the structural crisis: payroll budgeted to rise
+  2–3%, **actually rose 9% — putting the district on pace to spend
+  ~$13.5 million over budget.** Enrollment fell 181 students (~1.25%
+  of the student body) FY25 → FY26.
 
 ### January
 
-- **2026-01 — District financial crisis surfaces publicly.**
-  Per a public commenter at the May 26 board meeting (Emily Campbell, a
-  financial-planning professional), the district's financial crisis was
-  "learn[ed] about in January 2026" — leading to a "board financial
-  leadership update" outlining commitments the board agreed to undertake
-  (org-chart review with outside firm, policy revision on administrator
-  hiring with board involvement). The exact January meeting where the
-  crisis was first surfaced is referenced in the agenda but not
-  enumerated by date in the public record carried forward from May 26.
-- **2026-01-27 — Interfund Loan resolution adopted; Forevergreen Road
-  easement and utilities agreements.**
-  ([meeting](meetings/2026/2026-01-27-regular-meeting-of-the-board-of-directors.md))
-- **2026-01-13 — First regular board meeting of the calendar year**
-  (40 supporting documents). Electric Equipment and Public Utility
-  easement resolutions; Marzano Resources purchase agreement; West Bank
-  corporate resolution.
-  ([meeting](meetings/2026/2026-01-13-regular-meeting-of-the-board-of-directors.md))
+- **2026-01-30 — KCRG breaks the financial-crisis story publicly.**
+  Reporter Libbie Randall publishes *"Iowa City School Board questions
+  oversight after $10M transfer to cover payroll"* — the first public
+  account of the August 2025 interfund transfer. Director Mitch Lingo
+  is quoted: *"We got lucky that we have this other fund that we can
+  take from, but… it's not something that should happen with an
+  organization like this."* The board subsequently retroactively
+  approved the transfer.
+- **2026-01-27 — Board discovers the $10M transfer** at its regular
+  meeting. Directors say they were only learning the full details at
+  this meeting; administrators told them the transfer had not required
+  prior board approval. An attorney subsequently advised the board to
+  review the action. The transfer had been omitted from a prior
+  quarterly financial report (described by district leaders as a
+  *"mistake"*).
+  ([meeting summary](meetings/2026/2026-01-27-regular-meeting-of-the-board-of-directors.md))
+- **2026-01-13 — First regular board meeting of the year** (40-document
+  agenda). KCRG and CBS2 previewed and covered the meeting's main public
+  items: a possible bell-to-bell **cell-phone ban** and a refresh of the
+  district's **ICE protocol** for federal immigration enforcement at
+  school buildings.
+  ([meeting summary](meetings/2026/2026-01-13-regular-meeting-of-the-board-of-directors.md))
 
 ## Earlier years
 
 Phase 2 of this project will backfill 2023, 2024, and 2025. When those
-land, this page will become a multi-year roll-up showing the longer arc
-of the audit backlog, the academic-ranking trend, and the board's
-multi-year facilities and labor cycles.
+land, this page becomes a multi-year roll-up showing the longer arc of
+the audit backlog (Bohnsack & Frommelt is contracted for the FY24-26
+catch-up; prior auditor was RSM Audit Services), the academic-ranking
+trend, and the board's multi-year facilities and labor cycles.
 
 ---
 
-*Sourced from 2026 board meeting agendas, minutes, supporting documents,
-and YouTube-archived meeting recordings. Where an event isn't directly
-recorded in the primary materials, the speaker / commenter / report and
-the date of that secondary reference is cited.*
+*Sourced from 2026 board meeting agendas, supporting documents,
+YouTube-archived meeting recordings, and the
+[2026 news coverage index](press/2026.md). Where a fact was first
+established by reporting rather than by the primary board record, the
+press citation is included.*

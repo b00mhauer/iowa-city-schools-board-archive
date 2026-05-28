@@ -95,6 +95,8 @@ nav:
       - Facilities: topics/facilities.md
       - Policies: topics/policies.md
       - Boundaries: topics/boundaries.md
+  - Press:
+      - 2026: press/2026.md
   - People:
       - Board Members: people/board-members.md
       - Administrators: people/administrators.md

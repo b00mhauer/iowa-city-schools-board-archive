@@ -2,20 +2,23 @@
 
 School attendance areas, boundary changes, and open-enrollment decisions. ICCSD's open-enrollment line items appear in nearly every regular board meeting as routine consent-agenda items; boundary changes themselves are rarer and more consequential.
 
+## School closures and elementary reconfiguration
+
+In **March 2026**, the district's financial consultant **PFM** formally recommended that ICCSD evaluate closing or consolidating school buildings as part of its long-term cost-reduction strategy in response to the [financial crisis](budget.md). (Per the [Cedar Rapids Gazette](../press/2026.md#march-2026) and [CBS2 Iowa](../press/2026.md#march-2026).)
+
+That recommendation triggered an **elementary reconfiguration** discussion — restructuring grade levels and attendance patterns across elementary schools — which the board took up at a special meeting later in the spring. No formal closure decision has been adopted as of the May meetings.
+
+At the May 12 board meeting, public commenters raised the prospect of school closures and pressed the board for transparency about which schools might be affected. The district has committed to community engagement before any formal closure decision.
+
 ## Open enrollment in 2026
 
 Open-enrollment approvals appear on nearly every 2026 regular board meeting consent agenda — one or two batches per meeting covering both the in-progress school year (25-26) and the upcoming year (26-27). These are routine approvals of individual student transfer requests; the board does not typically discuss them on the record beyond the consent-agenda motion.
 
-Representative recent batches:
-
-- *5-26-2026 Board Meeting OE (25-26)* and *5-26-2026 Board   Meeting OE (26-27)* — adopted at the   [May 26, 2026 meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)   as Consent Agenda item 7.
-- Similar batches appear in every prior 2026 regular meeting   on the [meeting index](../meetings/2026/index.md).
+Enrollment context: per the FY26 Q2 Financial Report and subsequent press coverage, ICCSD enrollment fell by **181 students (~1.25%)** between FY25 and FY26. Iowa Public Radio's spring 2026 NPR series featured ICCSD as a case study in how Iowa's universal Education Savings Account (ESA) program has accelerated enrollment loss in urban public districts.
 
 ## Attendance-area boundary changes
 
-**No district-wide attendance-area boundary changes have appeared on the 2026 board agendas reviewed.** Boundary shifts in ICCSD are rare events that typically require multi-meeting deliberation and community engagement, and none reached the public agenda during 2026.
-
-Several public commenters at recent meetings have raised **potential school closures** in connection with the district's [financial crisis](budget.md) — for example, the May 26 public-comment period included direct questions about how many schools might need to close. Those are speakers' framings of what may be coming, not formal board actions on the record yet.
+**No district-wide attendance-area boundary changes have been adopted on the 2026 board agendas reviewed.** Boundary shifts in ICCSD are rare events that typically require multi-meeting deliberation and community engagement, and none reached final action during 2026 — though the school-closure / reconfiguration discussion above functionally raises the same set of questions.
 
 
 ## 2026 meetings on this topic
@@ -64,4 +67,4 @@ Questions worth digging into across the underlying records:
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:42 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 14:50 UTC.*

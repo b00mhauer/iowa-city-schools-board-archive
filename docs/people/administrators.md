@@ -31,7 +31,7 @@ public page lags behind some recent transitions.
 |---|---|---|
 | **Superintendent** | Matt Degner | Approved to transition to Executive Director of Secondary Schools effective per the May 26, 2026 personnel agenda. An interim search is in progress. |
 | **Deputy Superintendent** | Chace Ramey | |
-| **Chief Financial Officer** | Pat Moore | New to the role. Per Moore's own account at the May 26 board meeting, started ~May 18, 2026 (9 days before the May 26 meeting). Replaces prior finance lead (referenced as "Kim Michael Lee" in May 26 transcript). The district's [admin-team page](https://www.iowacityschools.org/our-district/meet-our-admin-team) still listed the Finance role as "Director of Finance" at the time of last sync; the board agenda title is **Chief Financial Officer**. |
+| **Chief Financial Officer** | Pat Moore | Announced **April 1, 2026** ([KCRG](../press/2026.md#april-2026)). Officially scheduled start July 1, 2026; per Moore's account at the May 26 board meeting, active start was ~May 18, 2026. Succeeds **Interim CFO Kim Michael-Lee** (who started Feb 25, 2026). Moore came from Solon Community School District, where she'd been CFO since 2004 — 28 years total in school-district finance. Permanent predecessor **Adam Kurth** left ICCSD November 2025; before Kurth, **Leslie Finger** (retired June 2023) had warned Kurth via internal emails about ~$500K in federal tax penalties (per [Cedar Rapids Gazette](../press/2026.md)). |
 
 ## Executive Cabinet (reports to Superintendent)
 

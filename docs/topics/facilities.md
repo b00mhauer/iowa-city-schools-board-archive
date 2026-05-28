@@ -2,15 +2,23 @@
 
 Buildings, land, and capital projects — new construction, renovations, property sales and purchases, leases, and the PPEL / SAVE funding streams that pay for them.
 
+## $104M Facilities Master Plan paused (May 12, 2026)
+
+At the [May 12, 2026 regular meeting](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md), the board unanimously adopted the **Facilities Master Plan Resolution**, temporarily pausing projects in the previously approved $104 million plan — including new athletic fieldhouses and the $14 million investment in the Coralville Recreation Center pool. Per [KCRG May 12](../press/2026.md#may-2026), the pause was part of the district's response to the [financial crisis](budget.md) and the inability to obtain external financing (the $25M loan request was rejected by every bank approached).
+
 ## Three property sales in 2026
 
 ICCSD moved three district-owned properties through the statutory public-hearing-and-conveyance process during 2026, with the proceeds of each sale directed to the General Fund:
 
 - **Hills property** — 301 W. Main Street, Hills, Iowa.   Public hearing and proceeds-deposit resolution adopted at   the [May 26, 2026 board meeting](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md).
-- **Educational Services Center (ESC)** — 1725 N. Dodge   Street, Iowa City. Hearing-date set at the   [April 14 meeting](../meetings/2026/2026-04-14-regular-meeting-of-the-board-of-directors.md);   conveyance public hearing and authorizing resolution   adopted at the   [April 28 meeting](../meetings/2026/2026-04-28-regular-meeting-of-the-board-of-directors-amended-agenda.md);   proceeds deposit confirmed at the May 26 meeting alongside   the Hills and Scanlon sales.
+- **Educational Services Center (ESC)** — 1725 N. Dodge   Street, Iowa City. **Sold to the City of Iowa City for   $3.2 million** at the   [April 28 meeting](../meetings/2026/2026-04-28-regular-meeting-of-the-board-of-directors-amended-agenda.md).   The City announced May 13 that the building will become   the new Iowa City Police Department headquarters, target   move-in 2029. Proceeds-deposit resolution adopted at the   May 26 meeting.
 - **Scanlon parcel** — ~42.4 acres of unimproved real estate   previously purchased from Scanlon Family, L.L.C. Public   hearing and proceeds-deposit resolution adopted at the   May 26 meeting.
 
 All three sales were part of the year's larger response to the district's [unfolding financial-management crisis](budget.md).
+
+## $14M Coralville pool — four-option decision
+
+A proposed $14 million competition swimming pool in Coralville — part of the (now-paused) Master Facilities Plan, intended to give West High and Liberty High independent swim programs — remains under board consideration. Per KCRG (April 29) and CBS2 (May 12), the board is weighing four options: (1) direct contribution to design and construction, (2) sign a long-term lease with annual payments, (3) build a district natatorium, (4) rent local facilities for practices and meets. The Coralville City Administrator confirmed a meeting with Degner and that the city is gathering pricing through May.
 
 ## Capital projects in flight
 
@@ -106,4 +114,4 @@ Questions worth digging into across the underlying records:
 
 ---
 
-*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 06:42 UTC.*
+*Meeting and document lists above are derived by keyword match against the 2026 attachment index ([data/attachments_2026.json](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/data/attachments_2026.json)) — so the lists update automatically as the archive expands. Page generated 2026-05-28 14:50 UTC.*

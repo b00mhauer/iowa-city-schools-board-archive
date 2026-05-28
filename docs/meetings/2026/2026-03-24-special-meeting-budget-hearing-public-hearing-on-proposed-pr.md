@@ -50,6 +50,6 @@ These open an AI chat with a question about this meeting pre-loaded. Just click 
 
 Agenda content carried through from the district's published materials for [MID 28272](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=28272). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 14:34 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-05-28 14:50 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.

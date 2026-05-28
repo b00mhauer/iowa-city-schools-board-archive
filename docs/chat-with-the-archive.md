@@ -66,6 +66,22 @@ and answers from it.
 
 </div>
 
+## News coverage
+
+<div class="grid cards" markdown>
+
+-   :material-newspaper:{ .lg .middle } **News reporting on ICCSD in 2026**
+
+    ---
+
+    60 articles from KCRG, the Cedar Rapids Gazette, Daily Iowan, CBS2,
+    Iowa Public Radio, Little Village, and West Side Story — chronologically
+    indexed with summaries and direct links to original reporting.
+
+    [ChatGPT](https://chatgpt.com/?q=Walk%20me%20through%20the%202026%20ICCSD%20financial%20crisis%20as%20covered%20by%20local%20press%20%E2%80%94%20what%20happened%20month%20by%20month%2C%20which%20publications%20broke%20which%20parts%20of%20the%20story%2C%20and%20what%20remains%20unresolved%20%E2%80%94%20based%20on%20this%20news%20index%3A%20https%3A%2F%2Fb00mhauer.github.io%2Fiowa-city-schools-board-archive%2Fpress%2F2026%2F){ .md-button } &nbsp; [Gemini](https://gemini.google.com/app?q=Walk%20me%20through%20the%202026%20ICCSD%20financial%20crisis%20as%20covered%20by%20local%20press%20%E2%80%94%20what%20happened%20month%20by%20month%2C%20which%20publications%20broke%20which%20parts%20of%20the%20story%2C%20and%20what%20remains%20unresolved%20%E2%80%94%20based%20on%20this%20news%20index%3A%20https%3A%2F%2Fb00mhauer.github.io%2Fiowa-city-schools-board-archive%2Fpress%2F2026%2F){ .md-button } &nbsp; [Perplexity](https://www.perplexity.ai/?q=Walk%20me%20through%20the%202026%20ICCSD%20financial%20crisis%20as%20covered%20by%20local%20press%20%E2%80%94%20what%20happened%20month%20by%20month%2C%20which%20publications%20broke%20which%20parts%20of%20the%20story%2C%20and%20what%20remains%20unresolved%20%E2%80%94%20based%20on%20this%20news%20index%3A%20https%3A%2F%2Fb00mhauer.github.io%2Fiowa-city-schools-board-archive%2Fpress%2F2026%2F){ .md-button }
+
+</div>
+
 ## People
 
 <div class="grid cards" markdown>
