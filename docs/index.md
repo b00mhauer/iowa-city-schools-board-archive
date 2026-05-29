@@ -6,16 +6,20 @@ hide:
 
 # Iowa City Schools Board Archive
 
-The 2026 ICCSD board record includes a $10 million interfund transfer
-disclosed in January, the loss of the district's bond rating, the pause
-of the $104 million Facilities Master Plan in May, and the May 26 board
-vote on Superintendent Matt Degner's transition out of the
-superintendency. This site indexes every public board meeting, every
-supporting document, every YouTube recording, and 70+ news articles in
-one searchable place — so you can follow the record without clicking
-through the district's portal one meeting at a time.
+Follow what the Iowa City Community School District board is doing —
+without clicking through a dozen places to find it. Every public board
+meeting, every supporting document, every YouTube recording, and every
+news article about ICCSD is indexed here, in one searchable archive
+that auto-refreshes daily.
 
-**Independent. Free. Updated daily.**
+In 2026, the board has worked on the $10 million interfund transfer
+disclosed at the January 27 meeting, the loss of the district's bond
+rating, the May 12 pause of the $104 million Facilities Master Plan,
+and the May 26 board vote (5–2) on Superintendent Matt Degner's
+transition out of the superintendency. Use the buttons below to ask an
+AI about any of it, or scroll down to browse the record yourself.
+
+**Independent. Free. Not affiliated with the district.**
 
 ## Just ask
 
@@ -99,18 +103,35 @@ This site is a **citizen's working reference, not a district
 publication**. It links to every official document on the district's
 [Simbli eBoardSolutions portal](https://simbli.eboardsolutions.com/),
 mirrors the YouTube recording of every meeting, and indexes every news
-article published about ICCSD this year. The press index auto-refreshes
-daily; the Timeline and Topic pages regenerate alongside it.
+article published about ICCSD this year.
 
 The site **doesn't add its own characterization** of events — it puts
 the primary sources (meetings, documents, articles) in one place with
-citations and lets you draw your own conclusions. When something on
-this site contradicts the underlying PDF or article, **the original
-wins** — [open an issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues)
-and we'll fix it.
+citations and lets you draw your own conclusions. When something here
+contradicts the underlying PDF or article, **the original wins** —
+[open an issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues)
+and it'll be fixed.
 
 See [How to Use This Archive](how-to-use.md) for what each section
 means, and [Methodology](methodology.md) for how it was built.
+
+## A blog backed by an open data repository
+
+You're reading the human-facing layer of the archive — the blog. Behind
+it sits a **public data repository on GitHub**:
+
+- **Website (this site):** <https://b00mhauer.github.io/iowa-city-schools-board-archive/>
+- **Data repository:** <https://github.com/b00mhauer/iowa-city-schools-board-archive>
+
+Everything that generates the site lives in the repository: the news
+index, the meeting summaries, the data files, the scripts that run the
+daily refresh, the full git history of every change. Researchers,
+journalists, developers, AI tools, and anyone else who wants to inspect
+or contribute is welcome — file an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues),
+send a pull request, or fork the project.
+
+AI tools can read the archive's markdown source directly for clean,
+citation-friendly answers — see [Chat with the Archive](chat-with-the-archive.md).
 
 ## Scope
 
