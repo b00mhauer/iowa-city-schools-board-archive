@@ -17,6 +17,7 @@ The Timeline is **auto-generated** from the press index, the meeting record, and
 
 ## May 2026
 
+- **May 27, 2026 (updated May 28, 2026)** — *Reported:* "Iowa City school board OKs Superintendent Matt Degner's move to executive director position" — The Cedar Rapids Gazette — [read article](https://www.thegazette.com/news/education/iowa-city-school-board-oks-superintendent-matt-degner-s-move-to-executive-director-position/article_e72bc117-9596-4d4a-8fba-a9fb9398a4de.html)
 - **May 26, 2026** — *Reported:* "Iowa City School Board searches for interim superintendent amid financial crisis" — KCRG-TV9 — [read article](https://www.kcrg.com/2026/05/26/iowa-city-school-board-searches-interim-superintendent-amid-financial-crisis/)
 - **May 26, 2026** — *Reported:* "Iowa City school board begins interim superintendent search amid leadership concerns" — CBS2 Iowa (KGAN) — [read article](https://cbs2iowa.com/news/local/iowa-city-school-board-begins-interim-superintendent-search-amid-leadership-concerns)
 - **May 26, 2026** — *Reported:* "Iowa City school board keeps superintendent on staff despite public criticism" — KCRG-TV9 — [read article](https://www.kcrg.com/2026/05/27/iowa-city-school-board-keeps-superintendent-staff-despite-public-criticism/)

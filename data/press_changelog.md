@@ -25,3 +25,10 @@ automatically (and shouldn't, because synthesis is human judgment).
 - "Iowa City school board begins interim superintendent search amid leadership concerns"
 - "Iowa City school board keeps superintendent on staff despite public criticism"
 
+
+## 2026-05-29 14:13 UTC
+
+### Added
+
+- "Iowa City school board OKs Superintendent Matt Degner's move to executive director position"
+
