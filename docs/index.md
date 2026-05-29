@@ -6,14 +6,14 @@ hide:
 
 # Iowa City Schools Board Archive
 
-2026 has been one of the most consequential years for ICCSD in a
-generation: a financial crisis surfaced in January, the district lost its
-bond rating, the $104M facilities plan was paused in May, and
-Superintendent Matt Degner stepped down. This site pulls every public
-board meeting, every supporting document, every YouTube recording, and
-70+ news articles into one searchable place — so you can follow what's
-actually happening without clicking through the district's portal one
-meeting at a time.
+The 2026 ICCSD board record includes a $10 million interfund transfer
+disclosed in January, the loss of the district's bond rating, the pause
+of the $104 million Facilities Master Plan in May, and the May 26 board
+vote on Superintendent Matt Degner's transition out of the
+superintendency. This site indexes every public board meeting, every
+supporting document, every YouTube recording, and 70+ news articles in
+one searchable place — so you can follow the record without clicking
+through the district's portal one meeting at a time.
 
 **Independent. Free. Updated daily.**
 
