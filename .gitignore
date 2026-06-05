@@ -33,5 +33,8 @@ Thumbs.db
 *.mov
 *.zip
 
-# Scraped raw PDFs are NOT in this repo by design — see methodology page
+# Scraped raw PDFs are NOT in this repo by design — see methodology page.
+# Exception: audited financial statements ARE hosted in the repo (they're
+# the corpus, not raw scrape output).
 *.pdf
+!docs/audited-financials/*.pdf
