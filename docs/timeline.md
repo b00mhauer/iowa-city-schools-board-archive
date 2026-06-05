@@ -20,6 +20,7 @@ The Timeline is **auto-generated** from the press index, the meeting record, and
 - **June 3, 2026** — *Reported:* "Iowa City superintendent's resignation approved by school board" — CBS2 Iowa (KGAN) — [read article](https://cbs2iowa.com/news/local/iowa-city-superintendents-resignation-approved-by-school-board)
 - **June 2, 2026** — *Reported:* "Iowa City school board accepts superintendent resignation" — KCRG-TV9 — [read article](https://www.kcrg.com/2026/06/03/iowa-city-school-board-accepts-superintendent-resignation/)
 - **June 2, 2026** — *Reported:* "Iowa City school board accepts superintendent resignation" — The Cedar Rapids Gazette — [read article](https://www.thegazette.com/news/education/iowa-city-school-board-accepts-superintendent-resignation/article_9fffb35e-2b4a-47b4-84b4-1aa3b0d3dcee.html)
+- **June 02, 2026** — *Board meeting:* [Special Meeting of the Board of Directors](meetings/2026/2026-06-02-special-meeting-of-the-board-of-directors.md) — A Special Meeting whose Action Items were the formal acceptance of Superintendent Matt Degner resignation and the Interim Superintendent Search (Search Options Comparison Chart and Iowa City Interim Superintendent Search proposal attached).
 
 ## May 2026
 

@@ -2,7 +2,12 @@
 
 All public ICCSD Board of Directors meetings in 2026. Each link opens the meeting page on this archive; the meeting page in turn links to the official agenda and supporting documents on the [district's portal](https://simbli.eboardsolutions.com/).
 
-**51 meetings** indexed for 2026.
+**53 meetings** indexed for 2026.
+
+## June 2026
+
+- **2026-06-09** — [Regular Meeting of the Board of Directors - Amended Agenda](2026-06-09-regular-meeting-of-the-board-of-directors-amended-agenda.md) *(Board Meeting)* — 48 docs
+- **2026-06-02** — [Special Meeting of the Board of Directors ](2026-06-02-special-meeting-of-the-board-of-directors.md) *(Board Meeting)* — 5 docs
 
 ## May 2026
 

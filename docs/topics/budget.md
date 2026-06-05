@@ -4,6 +4,7 @@ How ICCSD raises and spends money — annual budgets, property tax levies, audit
 
 ## 2026 meetings on this topic
 
+- **2026-06-09** — [Regular Meeting of the Board of Directors - Amended Agenda](../meetings/2026/2026-06-09-regular-meeting-of-the-board-of-directors-amended-agenda.md)
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
 - **2026-05-12** — [Regular Meeting of the Board of Directors](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md)
 - **2026-04-28** — [Regular Meeting of the Board of Directors - Amended Agenda](../meetings/2026/2026-04-28-regular-meeting-of-the-board-of-directors-amended-agenda.md)
@@ -22,6 +23,7 @@ How ICCSD raises and spends money — annual budgets, property tax levies, audit
 
 Direct deep-links to specific supporting documents on the district portal.
 
+- **2026-06-09** — [Iowa City CSD FY27 Amendment](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577725&MID=29982) _(matched: FY27)_
 - **2026-05-26** — [Affidavit of Publication - Deposit of Funds](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=571945&MID=29981) _(matched: general fund)_
 - **2026-05-26** — [5.26.26 Iowa City CSD Resolution Approving Deposit](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=571927&MID=29981) _(matched: general fund)_
 - **2026-05-26** — [Affidavit of Publication - Deposit of Funds](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=573094&MID=29981) _(matched: general fund)_
@@ -71,9 +73,8 @@ Direct deep-links to specific supporting documents on the district portal.
 - **2026-03-03** — [Authorizing Resolution Iowa City CSD Taxable FY26 Anticipatory Warrants](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=527510&MID=28237) _(matched: FY26)_
 - **2026-03-03** — [Engagement Letter Iowa City CSD Taxable FY26 Anticipatory Warrants (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=527524&MID=28237) _(matched: FY26)_
 - **2026-03-03** — [ICCSD Central Office Administrator Salaries](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=527775&MID=28237) _(matched: budget, FY27)_
-- **2026-03-03** — [Budget Reduction Proposals ](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=527500&MID=28237) _(matched: budget, FY27)_
 
-_8 more matched documents not shown — browse the meetings above to see them in context._
+_9 more matched documents not shown — browse the meetings above to see them in context._
 
 ## 2026 press coverage on this topic
 

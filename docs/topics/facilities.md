@@ -4,6 +4,8 @@ Buildings, land, and capital projects — new construction, renovations, propert
 
 ## 2026 meetings on this topic
 
+- **2026-06-09** — [Regular Meeting of the Board of Directors - Amended Agenda](../meetings/2026/2026-06-09-regular-meeting-of-the-board-of-directors-amended-agenda.md)
+- **2026-06-02** — [Special Meeting of the Board of Directors ](../meetings/2026/2026-06-02-special-meeting-of-the-board-of-directors.md)
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
 - **2026-05-12** — [Regular Meeting of the Board of Directors](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md)
 - **2026-04-28** — [Policy & Governance Committee Meeting](../meetings/2026/2026-04-28-policy-governance-committee-meeting.md)
@@ -20,6 +22,11 @@ Buildings, land, and capital projects — new construction, renovations, propert
 
 Direct deep-links to specific supporting documents on the district portal.
 
+- **2026-06-09** — [(3) Second Resolution - Scanlon Family, L.L.C. (2)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577966&MID=29982) _(matched: Scanlon)_
+- **2026-06-09** — [Center for Innovation 2024 Building Renovation Phase 2](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577255&MID=29982) _(matched: renovation, building)_
+- **2026-06-09** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577260&MID=29982) _(matched: capital project)_
+- **2026-06-09** — [(3) Second Resolution - Scanlon Family, L.L.C. (2)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577947&MID=29982) _(matched: Scanlon)_
+- **2026-06-02** — [ESC Leadership Organizational Chart - Updated May 2026 v.3 Cabinet](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=576576&MID=31471) _(matched: ESC)_
 - **2026-05-26** — [Affidavit of Publication - Deposit of Funds](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=571945&MID=29981) _(matched: Hills property, Dodge Street, real estate)_
 - **2026-05-26** — [5.26.26 Iowa City CSD Resolution Approving Deposit](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=571927&MID=29981) _(matched: Hills property, Dodge Street, real estate)_
 - **2026-05-26** — [Affidavit of Publication - Deposit of Funds](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=573094&MID=29981) _(matched: Scanlon, real estate)_
@@ -65,13 +72,8 @@ Direct deep-links to specific supporting documents on the district portal.
 - **2026-03-10** — [Center for Innovation 2025 Building Renovation Dream Accelerator](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536130&MID=25492) _(matched: renovation, building)_
 - **2026-03-10** — [City HS Auditorium Upgrades 2025 Opstad Theater Lighting](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536131&MID=25492) _(matched: auditorium, Opstad)_
 - **2026-03-10** — [West HS Renovation - Phase 3](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536133&MID=25492) _(matched: renovation)_
-- **2026-03-10** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536134&MID=25492) _(matched: capital project)_
-- **2026-02-10** — [Center for Innovation 2025 Building Renovation Dream Accelerator](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=510768&MID=25489) _(matched: renovation, building)_
-- **2026-02-10** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=510776&MID=25489) _(matched: capital project)_
-- **2026-01-27** — [Temporary Construction Easement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=509308&MID=25486) _(matched: construction)_
-- **2026-01-27** — [Forevergreen Temporary Construction Easement Affidavit](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=504281&MID=25486) _(matched: construction)_
 
-_12 more matched documents not shown — browse the meetings above to see them in context._
+_17 more matched documents not shown — browse the meetings above to see them in context._
 
 ## 2026 press coverage on this topic
 

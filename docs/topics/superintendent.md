@@ -4,12 +4,17 @@ The superintendent's role, evaluation, and any transitions. This page collects d
 
 ## 2026 meetings on this topic
 
+- **2026-06-02** — [Special Meeting of the Board of Directors ](../meetings/2026/2026-06-02-special-meeting-of-the-board-of-directors.md)
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
 
 ## 2026 documents on this topic
 
 Direct deep-links to specific supporting documents on the district portal.
 
+- **2026-06-02** — [Iowa City Interim Supt. Search Agreement (GLS)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=576359&MID=31471) _(matched: superintendent, interim superintendent)_
+- **2026-06-02** — [Search Otions Comparison Chart](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=576271&MID=31471) _(matched: superintendent, interim superintendent)_
+- **2026-06-02** — [Iowa City Interim Superintendent Search](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=576272&MID=31471) _(matched: superintendent, interim superintendent)_
+- **2026-06-02** — [Letter](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=576270&MID=31471) _(matched: superintendent)_
 - **2026-05-26** — [Search Options Comparison Chart](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=575138&MID=29981) _(matched: superintendent, interim superintendent)_
 - **2026-05-26** — [Iowa City Interim Supt. Search Proposal 2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=575139&MID=29981) _(matched: superintendent, interim superintendent)_
 

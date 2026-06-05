@@ -4,6 +4,7 @@ Board policy adoptions, revisions, and rescissions. ICCSD uses a multi-reading p
 
 ## 2026 meetings on this topic
 
+- **2026-06-09** — [Regular Meeting of the Board of Directors - Amended Agenda](../meetings/2026/2026-06-09-regular-meeting-of-the-board-of-directors-amended-agenda.md)
 - **2026-05-26** — [Policy & Governance Committee - AMENDED AGENDA](../meetings/2026/2026-05-26-policy-governance-committee-amended-agenda.md)
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
 - **2026-05-12** — [Regular Meeting of the Board of Directors](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md)
@@ -26,6 +27,9 @@ Board policy adoptions, revisions, and rescissions. ICCSD uses a multi-reading p
 
 Direct deep-links to specific supporting documents on the district portal.
 
+- **2026-06-09** — [6-23-26 Policy & Governance Agenda - DRAFT](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577490&MID=29982) _(matched: Policy, Policy & Governance)_
+- **2026-06-09** — [900 Policies School District Community Relations](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577263&MID=29982) _(matched: policies)_
+- **2026-06-09** — [900 Policies School District Community Relations](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577264&MID=29982) _(matched: policies)_
 - **2026-05-26** — [Policy 303.4 Administrator Salary and Other Compensation](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=574479&MID=29981) _(matched: Policy)_
 - **2026-05-26** — [303.2 - Administrator Qualifications, Recruitment, Appointment](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=574477&MID=29981) _(matched: Policy)_
 - **2026-05-26** — [Policy 207 Board of Directors Legal Counsel](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=574476&MID=29981) _(matched: Policy)_
@@ -73,11 +77,8 @@ Direct deep-links to specific supporting documents on the district portal.
 - **2026-04-14** — [ICCSD Financial Oversight Committee Charter_200.3G4 - Financial Oversight Committee Charter _ Board Policies Details](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546807&MID=29488) _(matched: Policy, policies)_
 - **2026-04-14** — [IASB_Regulation  112-R(1)  AuditFinance Committee](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546810&MID=29488) _(matched: Policy)_
 - **2026-04-14** — [IASB_Regulation 112-R(2)  AuditFinance Committee - Annual Budget and 3 Year Financial Plan Activities and Calendar (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546809&MID=29488) _(matched: Policy)_
-- **2026-04-14** — [DES MOINES PUBLIC SCHOOLS AUDIT COMMITTEE CHARTER - in process of updating ](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546805&MID=29488) _(matched: Policy)_
-- **2026-04-14** — [AuditCommitte - Cedar Rapids Schools](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546806&MID=29488) _(matched: Policy)_
-- **2026-04-14** — [Cedar Rapids Schools_AuditCommitteApprovedCharter.Matrix_5-01-19](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=546811&MID=29488) _(matched: Policy)_
 
-_28 more matched documents not shown — browse the meetings above to see them in context._
+_31 more matched documents not shown — browse the meetings above to see them in context._
 
 ## 2026 press coverage on this topic
 

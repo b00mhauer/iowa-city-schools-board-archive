@@ -8,7 +8,7 @@ This file is a machine-readable index of the archive, intended for AI tools (Cha
 
 **Refreshed:** 2026-06-05. Regenerates daily.
 
-**At a glance:** 52 public board meetings in 2026, 490 supporting documents, 77 press articles, 5 topic pages, 7 current board members.
+**At a glance:** 53 public board meetings in 2026, 543 supporting documents, 77 press articles, 5 topic pages, 7 current board members.
 
 ---
 
@@ -56,6 +56,7 @@ Hand-curated facts that aren't directly in press articles or meeting summaries �
 
 Each meeting page has: title, date, official agenda link, a "what happened" editorial summary (where curated), a link to the YouTube recording, and the full supporting-documents list grouped by agenda item with direct deep-links to each PDF.
 
+- **2026-06-02** — [Special Meeting of the Board of Directors](https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/meetings/2026/2026-06-02-special-meeting-of-the-board-of-directors.md) — A Special Meeting whose Action Items were the formal acceptance of Superintendent Matt Degner resignation and the Interim Superintendent Search (Search Options…
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md) — The May 26 board meeting was dominated by Superintendent Matt Degner's transition out of the superintendency.
 - **2026-05-15** — [Special Meeting of the Board of Directors](https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/meetings/2026/2026-05-15-special-meeting-of-the-board-of-directors.md) — A short special board meeting with one substantive action: acceptance of the Special Education Director's resignation.
 - **2026-05-12** — [Regular Meeting of the Board of Directors](https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md) — The May 12 meeting produced the FMP (Facilities Master Plan) resolution, drafted and motioned by Director Lingo — formalizing project-ranking and…

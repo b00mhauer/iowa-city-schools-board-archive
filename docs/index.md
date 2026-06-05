@@ -42,7 +42,7 @@ load the link, try another. For pre-shaped prompts on specific topics
 
 ## Latest
 
-**Most recent board meeting — May 26, 2026:** [Regular Meeting of the Board of Directors - AMENDED AGENDA](meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md). The May 26 board meeting was dominated by Superintendent Matt Degner's transition out of the superintendency.
+**Most recent board meeting — June 02, 2026:** [Special Meeting of the Board of Directors](meetings/2026/2026-06-02-special-meeting-of-the-board-of-directors.md). A Special Meeting whose Action Items were the formal acceptance of Superintendent Matt Degner resignation and the Interim Superintendent Search (Search Options Comparison Chart and Iowa City Interim Superintendent Search proposal attached).
 
 **Recent press coverage:**
 

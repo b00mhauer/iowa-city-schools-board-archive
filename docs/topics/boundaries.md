@@ -4,6 +4,7 @@ School attendance areas, boundary changes, and open-enrollment decisions. ICCSD'
 
 ## 2026 meetings on this topic
 
+- **2026-06-09** — [Regular Meeting of the Board of Directors - Amended Agenda](../meetings/2026/2026-06-09-regular-meeting-of-the-board-of-directors-amended-agenda.md)
 - **2026-05-26** — [Regular Meeting of the Board of Directors - AMENDED AGENDA](../meetings/2026/2026-05-26-regular-meeting-of-the-board-of-directors-amended-agenda.md)
 - **2026-05-12** — [Regular Meeting of the Board of Directors](../meetings/2026/2026-05-12-regular-meeting-of-the-board-of-directors.md)
 - **2026-04-28** — [Regular Meeting of the Board of Directors - Amended Agenda](../meetings/2026/2026-04-28-regular-meeting-of-the-board-of-directors-amended-agenda.md)
@@ -19,6 +20,8 @@ School attendance areas, boundary changes, and open-enrollment decisions. ICCSD'
 
 Direct deep-links to specific supporting documents on the district portal.
 
+- **2026-06-09** — [6-9-2026  Board Meeting  OE (25-26)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577196&MID=29982) _(matched: open enrollment)_
+- **2026-06-09** — [6-9-2026  Board Meeting  OE (26-27)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577197&MID=29982) _(matched: open enrollment)_
 - **2026-05-26** — [5-26-2026  Board Meeting  OE (25-26)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=573831&MID=29981) _(matched: open enrollment)_
 - **2026-05-26** — [5-26-2026 Board Meeting  OE (26-27)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=573832&MID=29981) _(matched: open enrollment)_
 - **2026-05-12** — [5-12-2026 Board Meeting  OE (25-26)-](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=568008&MID=29980) _(matched: open enrollment)_
