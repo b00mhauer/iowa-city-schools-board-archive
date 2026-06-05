@@ -15,6 +15,14 @@ the documents that you'd want as direct references — what the board has
 been working from across multiple meetings, or what represents a major
 one-time decision.
 
+## Audited financial statements
+
+For ICCSD's audited annual financial statements (FY2020–FY2023 currently
+published; FY2024 and FY2025 are part of the active audit backlog) and
+audited financials for 13 peer Iowa districts FY2020–FY2025, see the
+dedicated [Audited Financials](../audited-financials/index.md) page.
+Useful for benchmarking ICCSD against comparable districts.
+
 ## Budget and financial
 
 - [FY27 Certified Budget Update](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=526205&MID=25490)

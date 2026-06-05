@@ -170,6 +170,7 @@ def render_manifest(year: int, summaries: dict, all_meetings: list[dict],
     out.append("## Key documents")
     out.append("")
     out.append(f"- **[Key Documents]({RAW_BASE}/documents/key-documents.md)** — curated by category (budget & financial, capital projects, property dispositions, labor agreements, active-review policies, leadership transition). Direct deep-links to the district portal.")
+    out.append(f"- **[Audited Financial Statements]({RAW_BASE}/audited-financials/index.md)** — audited annual financial statements for ICCSD (FY2020–2023; FY2024–2025 missing as part of the audit backlog story) plus ~13 peer Iowa districts (Ankeny, Burlington, Cedar Rapids, Davenport, Des Moines, Dubuque, Johnston, Linn-Mar, Muscatine, Pleasant Valley, Waterloo, Waukee, West Des Moines) FY2020–2025. PDFs hosted directly on this site.")
     out.append("")
 
     # --- Anchor events ---
