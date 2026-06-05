@@ -6,9 +6,9 @@ title: LLM Manifest
 
 This file is a machine-readable index of the archive, intended for AI tools (ChatGPT, Gemini, Perplexity, Claude, etc.). It lists every page worth reading with a one-line description and a direct link to the raw markdown. Humans landing here are welcome to read it too — it's a useful site map — but the structured site is at <https://b00mhauer.github.io/iowa-city-schools-board-archive/>.
 
-**Refreshed:** 2026-05-29. Regenerates daily.
+**Refreshed:** 2026-06-05. Regenerates daily.
 
-**At a glance:** 51 public board meetings in 2026, 490 supporting documents, 72 press articles, 5 topic pages, 7 current board members.
+**At a glance:** 52 public board meetings in 2026, 490 supporting documents, 77 press articles, 5 topic pages, 7 current board members.
 
 ---
 
@@ -37,7 +37,7 @@ Each topic page has: a stable overview, an auto-generated list of 2026 meetings 
 
 ## Press
 
-- **[2026 Press Index](https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/press/2026.md)** — 72 curated news articles from KCRG, The Cedar Rapids Gazette, The Daily Iowan, CBS2 Iowa, Iowa Public Radio (NPR), Little Village, West Side Story, and others. Each entry: headline, publication, byline, date, summary, and direct link to the original article. Auto-refreshes daily.
+- **[2026 Press Index](https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/press/2026.md)** — 77 curated news articles from KCRG, The Cedar Rapids Gazette, The Daily Iowan, CBS2 Iowa, Iowa Public Radio (NPR), Little Village, West Side Story, and others. Each entry: headline, publication, byline, date, summary, and direct link to the original article. Auto-refreshes daily.
 
 ## Key documents
 

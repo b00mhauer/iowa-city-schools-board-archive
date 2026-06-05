@@ -15,7 +15,7 @@ Direct deep-links to specific supporting documents on the district portal.
 
 ## 2026 press coverage on this topic
 
-Articles matched by keyword from the [press index](../press/2026.md). 15 articles matched. The headline and publication are the source's own; the site adds no characterization.
+Articles matched by keyword from the [press index](../press/2026.md). 19 articles matched. The headline and publication are the source's own; the site adds no characterization.
 
 - **—** — *CBS2 Iowa (KGAN)* — "Iowa City Schools Superintendent faces questions over $10 million loan" — [read article](https://cbs2iowa.com/news/local/iowa-city-schools-superintendent-faces-questions-over-10-million-loan)
 - **—** — *The Cedar Rapids Gazette* — "Iowa City school board questions superintendent on why $10 million loan was taken out without their [knowledge]" — [read article](https://www.thegazette.com/k/iowa-city-school-board-questions-superintendent-on-why-10-million-loan-was-taken-out-without-their/)
@@ -30,6 +30,10 @@ Articles matched by keyword from the [press index](../press/2026.md). 15 article
 - **May 26, 2026** — *CBS2 Iowa (KGAN)* — "Iowa City school board begins interim superintendent search amid leadership concerns" — [read article](https://cbs2iowa.com/news/local/iowa-city-school-board-begins-interim-superintendent-search-amid-leadership-concerns)
 - **May 26, 2026** — *KCRG-TV9* — "Iowa City school board keeps superintendent on staff despite public criticism" — [read article](https://www.kcrg.com/2026/05/27/iowa-city-school-board-keeps-superintendent-staff-despite-public-criticism/)
 - **May 27, 2026 (updated May 28, 2026)** — *The Cedar Rapids Gazette* — "Iowa City school board OKs Superintendent Matt Degner's move to executive director position" — [read article](https://www.thegazette.com/news/education/iowa-city-school-board-oks-superintendent-matt-degner-s-move-to-executive-director-position/article_e72bc117-9596-4d4a-8fba-a9fb9398a4de.html)
+- **May 31, 2026** — *The Cedar Rapids Gazette — Staff columnist* — "Opinion: Giving Iowa City schools' Degner new job a shocking mistake" — [read article](https://www.thegazette.com/opinion/columnists/opinion-giving-iowa-city-schools-degner-new-job-a-shocking-mistake/article_3b40a889-aed8-4bb0-87d0-50a17bd48e73.html)
+- **June 2, 2026** — *KCRG-TV9* — "Iowa City school board accepts superintendent resignation" — [read article](https://www.kcrg.com/2026/06/03/iowa-city-school-board-accepts-superintendent-resignation/)
+- **June 2, 2026** — *The Cedar Rapids Gazette* — "Iowa City school board accepts superintendent resignation" — [read article](https://www.thegazette.com/news/education/iowa-city-school-board-accepts-superintendent-resignation/article_9fffb35e-2b4a-47b4-84b4-1aa3b0d3dcee.html)
+- **June 3, 2026** — *CBS2 Iowa (KGAN)* — "Iowa City superintendent's resignation approved by school board" — [read article](https://cbs2iowa.com/news/local/iowa-city-superintendents-resignation-approved-by-school-board)
 - **—** — *Yahoo News (syndicated)* — "Iowa City's Matt Degner nabs National Superintendent of the Year honor" — [read article](https://www.yahoo.com/news/articles/iowa-citys-matt-degner-nabs-120050866.html)
 - **—** — *K-12 Dive* — "Superintendent of the Year: Matt Degner, Iowa City Community School District" — [read article](https://www.k12dive.com/news/superintendent-of-the-year-matt-degner-iowa-city-community-school-distric/807926/)
 

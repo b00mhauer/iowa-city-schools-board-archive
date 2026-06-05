@@ -15,8 +15,16 @@ The Timeline is **auto-generated** from the press index, the meeting record, and
 ---
 
 
+## June 2026
+
+- **June 3, 2026** — *Reported:* "Iowa City superintendent's resignation approved by school board" — CBS2 Iowa (KGAN) — [read article](https://cbs2iowa.com/news/local/iowa-city-superintendents-resignation-approved-by-school-board)
+- **June 2, 2026** — *Reported:* "Iowa City school board accepts superintendent resignation" — KCRG-TV9 — [read article](https://www.kcrg.com/2026/06/03/iowa-city-school-board-accepts-superintendent-resignation/)
+- **June 2, 2026** — *Reported:* "Iowa City school board accepts superintendent resignation" — The Cedar Rapids Gazette — [read article](https://www.thegazette.com/news/education/iowa-city-school-board-accepts-superintendent-resignation/article_9fffb35e-2b4a-47b4-84b4-1aa3b0d3dcee.html)
+
 ## May 2026
 
+- **May 31, 2026** — *Reported:* "Opinion: Giving Iowa City schools' Degner new job a shocking mistake" — The Cedar Rapids Gazette — Staff columnist — [read article](https://www.thegazette.com/opinion/columnists/opinion-giving-iowa-city-schools-degner-new-job-a-shocking-mistake/article_3b40a889-aed8-4bb0-87d0-50a17bd48e73.html)
+- **May 28, 2026** — *Reported:* "Here's why Iowa City schools special education costs are rising" — The Cedar Rapids Gazette — [read article](https://www.thegazette.com/news/education/here-s-why-iowa-city-schools-special-education-costs-are-rising/article_5f0c2a47-89dc-4e8b-9e5c-e0c9966c0de4.html)
 - **May 27, 2026 (updated May 28, 2026)** — *Reported:* "Iowa City school board OKs Superintendent Matt Degner's move to executive director position" — The Cedar Rapids Gazette — [read article](https://www.thegazette.com/news/education/iowa-city-school-board-oks-superintendent-matt-degner-s-move-to-executive-director-position/article_e72bc117-9596-4d4a-8fba-a9fb9398a4de.html)
 - **May 26, 2026** — *Reported:* "Iowa City School Board searches for interim superintendent amid financial crisis" — KCRG-TV9 — [read article](https://www.kcrg.com/2026/05/26/iowa-city-school-board-searches-interim-superintendent-amid-financial-crisis/)
 - **May 26, 2026** — *Reported:* "Iowa City school board begins interim superintendent search amid leadership concerns" — CBS2 Iowa (KGAN) — [read article](https://cbs2iowa.com/news/local/iowa-city-school-board-begins-interim-superintendent-search-amid-leadership-concerns)

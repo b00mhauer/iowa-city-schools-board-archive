@@ -46,9 +46,9 @@ load the link, try another. For pre-shaped prompts on specific topics
 
 **Recent press coverage:**
 
-- **May 27, 2026 (updated May 28, 2026)** — *The Cedar Rapids Gazette* — [Iowa City school board OKs Superintendent Matt Degner's move to executive director position](https://www.thegazette.com/news/education/iowa-city-school-board-oks-superintendent-matt-degner-s-move-to-executive-director-position/article_e72bc117-9596-4d4a-8fba-a9fb9398a4de.html)
-- **May 26, 2026** — *KCRG-TV9* — [Iowa City School Board searches for interim superintendent amid financial crisis](https://www.kcrg.com/2026/05/26/iowa-city-school-board-searches-interim-superintendent-amid-financial-crisis/)
-- **May 26, 2026** — *CBS2 Iowa (KGAN)* — [Iowa City school board begins interim superintendent search amid leadership concerns](https://cbs2iowa.com/news/local/iowa-city-school-board-begins-interim-superintendent-search-amid-leadership-concerns)
+- **June 3, 2026** — *CBS2 Iowa (KGAN)* — [Iowa City superintendent's resignation approved by school board](https://cbs2iowa.com/news/local/iowa-city-superintendents-resignation-approved-by-school-board)
+- **June 2, 2026** — *KCRG-TV9* — [Iowa City school board accepts superintendent resignation](https://www.kcrg.com/2026/06/03/iowa-city-school-board-accepts-superintendent-resignation/)
+- **June 2, 2026** — *The Cedar Rapids Gazette* — [Iowa City school board accepts superintendent resignation](https://www.thegazette.com/news/education/iowa-city-school-board-accepts-superintendent-resignation/article_9fffb35e-2b4a-47b4-84b4-1aa3b0d3dcee.html)
 
 [Browse all 2026 press coverage →](press/2026.md) · [Browse all 2026 meetings →](meetings/2026/index.md)
 

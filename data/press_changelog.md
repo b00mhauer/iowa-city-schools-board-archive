@@ -32,3 +32,14 @@ automatically (and shouldn't, because synthesis is human judgment).
 
 - "Iowa City school board OKs Superintendent Matt Degner's move to executive director position"
 
+
+## 2026-06-05 14:32 UTC
+
+### Added
+
+- "Here's why Iowa City schools special education costs are rising"
+- "Opinion: Giving Iowa City schools' Degner new job a shocking mistake"
+- "Iowa City school board accepts superintendent resignation"
+- "Iowa City school board accepts superintendent resignation"
+- "Iowa City superintendent's resignation approved by school board"
+
