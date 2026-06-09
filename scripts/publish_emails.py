@@ -31,33 +31,28 @@ TITLE_PREFIX = "KP Google Vault - "
 
 # Categorization rules — (display name, list of case-insensitive keyword
 # fragments). First match wins; order from most-specific to most-generic.
+# Rules are evaluated in order; first match wins. ALL specific categories
+# run before the catch-all "Audit — other" so that, e.g., a file named
+# "Audit - OUTGOING TRANSFER PERSHING LLC $4,000,000.pdf" lands under
+# Outgoing transfers (its substantive topic), not the Audit catch-all.
 CATEGORIES: list[tuple[str, list[str]]] = [
     ("Bond rating, investors, and credit agencies", [
         "bond rating", "Moody", "Nuveen", "bondholder", "rating withdrawal",
         "Truist Gove", "Key Government Finance", "GO Bond",
         "SAVE Bond", "Continuing Disclosure",
+        # debt-history and projections requests are typically investor-facing
+        "Debt History", "Debt Projections",
     ]),
-    ("Auditor relationships and engagements", [
-        "Auditing Services", "Barr & Company", "Barr ", "RSM", "New Iowa Auditors",
-        "Contact for accountant", "Transmittal letter", "Tranmittal letter",
-    ]),
-    ("Audit delay, status, and items", [
-        "Audit Delay", "Audit Update", "Audit Status", "Audit Check",
-        "Audit Inquiry", "Audit Request", "Audit Items", "Audit responses",
-        "Audit question", "audit extension",
-        "FY23", "FY24", "FYE 6_30_2023", "2023 & 2024 Audits",
-    ]),
-    ("Audit — other", [
-        "Audit",
+    ("Outgoing transfers, fund movements, and large transactions", [
+        "PERSHING", "OUTGOING", "OUTGO",
+        "TRANSFER", "Outgo",
+        # banking / treasury operational changes that move fund flows
+        "New Account Number", "Account Number",
     ]),
     ("SBRC and state oversight", [
         "SBRC", "School Budget Review Committee",
         "School Accounting System reporting",
         "FY 2026 School Budget System",
-    ]),
-    ("Outgoing transfers, fund movements, and large transactions", [
-        "PERSHING", "OUTGOING", "OUTGO",
-        "TRANSFER", "Outgo",
     ]),
     ("Compliance, grants, and federal reporting", [
         "Compliance Related", "Perkins V", "Perkins Claim", "Perkins",
@@ -71,17 +66,58 @@ CATEGORIES: list[tuple[str, list[str]]] = [
         "Construction Commitments", "Construction Confirmation",
         "Larson Construction", "Touch Point", "DDI Leasing",
         "Capital Asset Suralink", "Fixed Assets", "Capital Projects Wants",
+        # additional catches: Suralink alone, Commitments Detail,
+        # priority-setting docs, district trailers as a capital asset
+        "Suralink", "Commitments Detail", "Wants v. Needs", "Wants v Needs",
+        "Trailers",
     ]),
     ("Vendor and operational requests", [
         "Hillyard", "Big Iron Welding", "Sewing Machines", "Frontline Analytics",
         "Hardware Break-Fix", "Vista Software", "Delta Dental",
         "Heat Pump Equipment", "Dream Accelerator",
+        # food service, employee-benefit ops, UEN job-aid feedback
+        "Food Srv", "EMP benefit", "CAR Inquir",
+        "UEN-Job", "UEN Job", "Job Aid", "JobAid",
+        # district-side vendor payments
+        "Additional Cost Payment", "Cost Payment received",
+    ]),
+    ("Personnel, hiring, and HR", [
+        "Letter of Recommendation",
+        "Director of Financial Reporting",
+        "New Director of Financial",
+        "Job Application", "Job application",
+    ]),
+    ("Real estate, appraisals, and property dispositions", [
+        "Appraisal Request", "Appraisal",
+        "Real Estate", "Real Property",
+    ]),
+    ("Professional associations and peer networking", [
+        "IASBO", "ASBO ",
+        "Region 7",
+    ]),
+    ("Auditor relationships and engagements", [
+        "Auditing Services", "Barr & Company", "Barr ", "RSM", "New Iowa Auditors",
+        "Contact for accountant", "Transmittal letter", "Tranmittal letter",
+    ]),
+    ("Audit delay, status, and items", [
+        "Audit Delay", "Audit Update", "Audit Status", "Audit Check",
+        "Audit Inquiry", "Audit Request", "Audit Items", "Audit responses",
+        "Audit question", "audit extension",
+        "FY23", "FY24", "FYE 6_30_2023", "2023 & 2024 Audits",
+        # audit-prep workpapers and supporting deliverables
+        "Cash Account reconciliation", "JE uploaded", "new JE",
+        "Excel Report and new JE", "Draft ETA",
+    ]),
+    ("Audit — other", [
+        "Audit",
     ]),
     ("Calendar invites and meetings", [
         "Accepted_",
     ]),
     ("Out-of-office and routine replies", [
         "Out of Office", "Out of the Office",
+        # very short, content-free routine replies
+        "Thank you!", "Help please",
     ]),
 ]
 
