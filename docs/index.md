@@ -46,9 +46,9 @@ load the link, try another. For pre-shaped prompts on specific topics
 
 **Recent press coverage:**
 
+- **June 7, 2026** — *The Cedar Rapids Gazette* — [Iowa City schools appearing before independent state financial oversight committee Tuesday](https://www.thegazette.com/news/education/iowa-city-schools-appearing-before-state-financial-committee/article_30b1ec93-358d-4860-ad09-353eed973946.html)
+- **June 5, 2026** — *The Daily Iowan* — [ICCSD deputy superintendent accepts new position with Council Bluffs Community School District](https://dailyiowan.com/2026/06/05/iccsd-deputy-superintendent-accepts-new-position-with-council-bluffs-community-school-district/)
 - **June 3, 2026** — *CBS2 Iowa (KGAN)* — [Iowa City superintendent's resignation approved by school board](https://cbs2iowa.com/news/local/iowa-city-superintendents-resignation-approved-by-school-board)
-- **June 2, 2026** — *KCRG-TV9* — [Iowa City school board accepts superintendent resignation](https://www.kcrg.com/2026/06/03/iowa-city-school-board-accepts-superintendent-resignation/)
-- **June 2, 2026** — *The Cedar Rapids Gazette* — [Iowa City school board accepts superintendent resignation](https://www.thegazette.com/news/education/iowa-city-school-board-accepts-superintendent-resignation/article_9fffb35e-2b4a-47b4-84b4-1aa3b0d3dcee.html)
 
 [Browse all 2026 press coverage →](press/2026.md) · [Browse all 2026 meetings →](meetings/2026/index.md)
 

@@ -17,6 +17,8 @@ The Timeline is **auto-generated** from the press index, the meeting record, and
 
 ## June 2026
 
+- **June 7, 2026** — *Reported:* "Iowa City schools appearing before independent state financial oversight committee Tuesday" — The Cedar Rapids Gazette — [read article](https://www.thegazette.com/news/education/iowa-city-schools-appearing-before-state-financial-committee/article_30b1ec93-358d-4860-ad09-353eed973946.html)
+- **June 5, 2026** — *Reported:* "ICCSD deputy superintendent accepts new position with Council Bluffs Community School District" — The Daily Iowan — [read article](https://dailyiowan.com/2026/06/05/iccsd-deputy-superintendent-accepts-new-position-with-council-bluffs-community-school-district/)
 - **June 3, 2026** — *Reported:* "Iowa City superintendent's resignation approved by school board" — CBS2 Iowa (KGAN) — [read article](https://cbs2iowa.com/news/local/iowa-city-superintendents-resignation-approved-by-school-board)
 - **June 2, 2026** — *Reported:* "Iowa City school board accepts superintendent resignation" — KCRG-TV9 — [read article](https://www.kcrg.com/2026/06/03/iowa-city-school-board-accepts-superintendent-resignation/)
 - **June 2, 2026** — *Reported:* "Iowa City school board accepts superintendent resignation" — The Cedar Rapids Gazette — [read article](https://www.thegazette.com/news/education/iowa-city-school-board-accepts-superintendent-resignation/article_9fffb35e-2b4a-47b4-84b4-1aa3b0d3dcee.html)

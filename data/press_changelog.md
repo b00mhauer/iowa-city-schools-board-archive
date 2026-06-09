@@ -43,3 +43,11 @@ automatically (and shouldn't, because synthesis is human judgment).
 - "Iowa City school board accepts superintendent resignation"
 - "Iowa City superintendent's resignation approved by school board"
 
+
+## 2026-06-09 04:01 UTC
+
+### Added
+
+- "ICCSD deputy superintendent accepts new position with Council Bluffs Community School District"
+- "Iowa City schools appearing before independent state financial oversight committee Tuesday"
+
