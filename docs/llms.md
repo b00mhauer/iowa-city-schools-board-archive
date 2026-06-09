@@ -43,6 +43,7 @@ Each topic page has: a stable overview, an auto-generated list of 2026 meetings 
 
 - **[Key Documents](https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/documents/key-documents.md)** — curated by category (budget & financial, capital projects, property dispositions, labor agreements, active-review policies, leadership transition). Direct deep-links to the district portal.
 - **[Audited Financial Statements](https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/audited-financials/index.md)** — audited annual financial statements for ICCSD (FY2020–2023; FY2024–2025 missing as part of the audit backlog story) plus ~13 peer Iowa districts (Ankeny, Burlington, Cedar Rapids, Davenport, Des Moines, Dubuque, Johnston, Linn-Mar, Muscatine, Pleasant Valley, Waterloo, Waukee, West Des Moines) FY2020–2025. PDFs hosted directly on this site.
+- **[Email Archive](https://raw.githubusercontent.com/b00mhauer/iowa-city-schools-board-archive/main/docs/emails/index.md)** — 114 emails exported from Google Vault, grouped by topic: audit delay and status, auditor relationships (Barr & Company, RSM US), bond rating and investors (Moody's, Nuveen), SBRC and state oversight, outgoing fund transfers, compliance / grants / federal reporting, open enrollment, construction and asset commitments, and miscellaneous vendor / operational items. Some appear in both unredacted and redacted form. PDFs hosted directly on this site.
 
 ## Anchor events (pre-crisis / out-of-band)
 
