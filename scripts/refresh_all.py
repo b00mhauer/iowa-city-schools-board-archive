@@ -5,14 +5,22 @@ This is what to run when someone says "refresh everything."
 
 Pipeline:
 
-  1. list_meetings.py   (ICCSD folder) — refresh the master meeting list
-  2. bulk_download.py   (ICCSD folder) — download agendas for any new MIDs
-  3. extract_aids.py    — scrape attachment IDs for new MIDs (resumable)
-  4. build_pages.py     — regenerate meeting pages
-  5. refresh_press.py   (without --auto-commit) — mirror news + chain
-     timeline + topic pages + home Latest + LLM manifest + LLM footers
-  6. mkdocs build --strict — verify
-  7. git add -A + commit + push — one commit covering everything
+   1.  list_meetings.py            (ICCSD folder) — refresh master meeting list
+   2.  bulk_download.py            (ICCSD folder) — download agendas for any new MIDs
+   3.  extract_aids.py             — scrape attachment IDs for new MIDs (resumable)
+   4.  build_pages.py              — regenerate meeting pages
+   4b. extract_pdf_text.py         (ICCSD folder) — extract text from attachment PDFs
+                                     (writes a .txt sibling next to each .pdf,
+                                      resumable; needs pdfplumber)
+   4c. publish_extracts.py         — publish extracted .txt files into
+                                     corpus/text/<year>/<mid>/*.md so AI tools
+                                     can ingest the searchable text
+   4d. publish_audited_financials.py — refresh docs/audited-financials/
+   5.  refresh_press.py            (no --auto-commit) — mirror news + chain
+                                     timeline + topic pages + home Latest +
+                                     LLM manifest + LLM footers
+   6.  mkdocs build --strict       — verify
+   7.  git add -A + commit + push  — one commit covering everything
 
 Idempotent at every step. Re-running with no source changes ends in a
 clean no-op commit (or skips the commit entirely).
@@ -20,6 +28,7 @@ clean no-op commit (or skips the commit entirely).
 Usage (no args needed — paths are configured below):
 
     python scripts/refresh_all.py [--no-push] [--skip-list] [--skip-download]
+                                  [--skip-audited] [--skip-corpus]
 """
 
 from __future__ import annotations
@@ -92,6 +101,10 @@ def main() -> int:
                          "chain still runs.")
     ap.add_argument("--skip-audited", action="store_true",
                     help="Skip republishing audited financials.")
+    ap.add_argument("--skip-corpus", action="store_true",
+                    help="Skip PDF text extraction and corpus publishing "
+                         "(Step 4b + 4c). Useful when pdfplumber isn't "
+                         "installed or you only need meeting pages refreshed.")
     args = ap.parse_args()
 
     started = datetime.now(timezone.utc)
@@ -145,12 +158,55 @@ def main() -> int:
         "--corpus-root", str(REPO_ROOT / "corpus"),
     ], label="Step 4/7: build meeting pages")
 
-    # --- Step 4b: publish audited financials (idempotent) ---
+    # --- Step 4b: extract text from attachment PDFs ---
+    # Walks the ICCSD year folder, writes a .txt sibling next to each .pdf
+    # using pdfplumber. Resumable — skips files already extracted. Some
+    # scanned/image-only PDFs come back empty; those are silently skipped
+    # downstream by publish_extracts.
+    if args.skip_corpus:
+        print("\nSkipping PDF text extraction (per --skip-corpus).")
+    else:
+        extract_pdf_text = ICCSD_ROOT / "extract_pdf_text.py"
+        if extract_pdf_text.exists() and ICCSD_YEAR.is_dir():
+            try:
+                py_external(extract_pdf_text,
+                            [str(ICCSD_YEAR), "--workers", "6"],
+                            cwd=ICCSD_ROOT,
+                            label="Step 4b/7: extract text from PDF "
+                                  "attachments (pdfplumber)")
+            except subprocess.CalledProcessError as e:
+                print(f"WARN: extract_pdf_text exit {e.returncode} — "
+                      f"continuing (corpus text may be incomplete).")
+        else:
+            print(f"WARN: {extract_pdf_text} not found or year dir missing; "
+                  f"skipping PDF text extraction.")
+
+    # --- Step 4c: publish extracted text into corpus/text/<year>/<mid>/ ---
+    # Reads .txt files written by Step 4b and the AID lookup from Step 3,
+    # then writes one markdown page per attachment under
+    # corpus/text/<year>/<mid>/<slug>.md. IMPORTANT: --out must include the
+    # year segment, or you'll get duplicate dirs at the wrong path level.
+    if args.skip_corpus:
+        print("\nSkipping corpus publish (per --skip-corpus).")
+    else:
+        try:
+            py("publish_extracts.py", [
+                "--source-root", str(ICCSD_YEAR),
+                "--attachments", str(REPO_ROOT / "data"
+                                     / f"attachments_{YEAR}.json"),
+                "--year", str(YEAR),
+                "--out", str(REPO_ROOT / "corpus" / "text" / str(YEAR)),
+            ], label="Step 4c/7: publish extracted text into corpus")
+        except subprocess.CalledProcessError as e:
+            print(f"WARN: publish_extracts exit {e.returncode} — "
+                  f"continuing (corpus may not reflect latest extracts).")
+
+    # --- Step 4d: publish audited financials (idempotent) ---
     if not args.skip_audited and AUDITED_SOURCE.is_dir():
         py("publish_audited_financials.py", [
             "--source", str(AUDITED_SOURCE),
             "--out", str(REPO_ROOT / "docs" / "audited-financials"),
-        ], label="Step 4b/7: publish audited financials")
+        ], label="Step 4d/7: publish audited financials")
 
     # --- Step 5: mirror press + downstream chain (NO --auto-commit:
     #             we do one combined commit at the bottom) ---

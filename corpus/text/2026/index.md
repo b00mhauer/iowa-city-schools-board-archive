@@ -1,10 +1,13 @@
 # Document Text Extracts (2026)
 
-Plain-text extractions of every PDF attachment from 2026 ICCSD board meetings — 432 documents across 22 meetings. The originals stay on the district portal; these extracts make the corpus searchable on this site and ingestible by AI tools.
+Plain-text extractions of every PDF attachment from 2026 ICCSD board meetings — 483 documents across 25 meetings. The originals stay on the district portal; these extracts make the corpus searchable on this site and ingestible by AI tools.
 
 Browse by meeting (newest first):
 
 - **2026-06-09** — Regular Meeting of the Board of Directors - Amended Agenda ([43 documents](29982/index.md))
+- **2026-06-02** — Special Meeting of the Board of Directors  ([3 documents](31471/index.md))
+- **2026-05-26** — Policy & Governance Committee - AMENDED AGENDA ([6 documents](31126/index.md))
+- **2026-05-26** — Regular Meeting of the Board of Directors - AMENDED AGENDA ([42 documents](29981/index.md))
 - **2026-05-12** — Regular Meeting of the Board of Directors ([52 documents](29980/index.md))
 - **2026-04-28** — Policy & Governance Committee Meeting ([6 documents](29580/index.md))
 - **2026-04-28** — Regular Meeting of the Board of Directors - Amended Agenda ([42 documents](28495/index.md))
