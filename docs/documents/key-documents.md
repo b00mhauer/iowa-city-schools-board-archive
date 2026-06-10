@@ -23,15 +23,6 @@ audited financials for 13 peer Iowa districts FY2020–FY2025, see the
 dedicated [Audited Financials](../audited-financials/index.md) page.
 Useful for benchmarking ICCSD against comparable districts.
 
-## Email archive
-
-114 emails exported from Google Vault, covering the audit backlog, bond
-rating, auditor relationships (Barr & Company, RSM US), Moody's, SBRC
-oversight, fund transfers, and related financial topics. Categorized by
-subject-line keywords; some emails appear in both unredacted and
-redacted form. See the dedicated [Email Archive](../emails/index.md)
-page.
-
 ## Budget and financial
 
 - [FY27 Certified Budget Update](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=526205&MID=25490)

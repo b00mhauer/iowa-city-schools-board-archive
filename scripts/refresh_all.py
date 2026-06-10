@@ -152,13 +152,6 @@ def main() -> int:
             "--out", str(REPO_ROOT / "docs" / "audited-financials"),
         ], label="Step 4b/7: publish audited financials")
 
-    # --- Step 4c: index email archive (re-categorize PDFs in docs/emails/) ---
-    emails_dir = REPO_ROOT / "docs" / "emails"
-    if emails_dir.is_dir() and any(emails_dir.glob("*.pdf")):
-        py("publish_emails.py", [
-            "--dir", str(emails_dir),
-        ], label="Step 4c/7: regenerate email archive index")
-
     # --- Step 5: mirror press + downstream chain (NO --auto-commit:
     #             we do one combined commit at the bottom) ---
     py("refresh_press.py", [
