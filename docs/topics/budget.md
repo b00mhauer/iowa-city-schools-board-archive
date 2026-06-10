@@ -78,7 +78,7 @@ _9 more matched documents not shown — browse the meetings above to see them in
 
 ## 2026 press coverage on this topic
 
-Articles matched by keyword from the [press index](../press/2026.md). 12 articles matched. The headline and publication are the source's own; the site adds no characterization.
+Articles matched by keyword from the [press index](../press/2026.md). 13 articles matched. The headline and publication are the source's own; the site adds no characterization.
 
 - **February 10, 2026** — *The Daily Iowan* — "ICCSD estimates $5 to $6 million budget cut over the next year" — [read article](https://dailyiowan.com/2026/02/10/iccsd-estimates-5-to-6-million-budget-cut-over-the-next-year/)
 - **February 10, 2026** — *KCRG-TV9* — "Iowa City Schools face budget crisis after $10 million transfer without board approval" — [read article](https://www.kcrg.com/2026/02/11/iowa-city-schools-face-budget-crisis-after-10-million-transfer-without-board-approval/)
@@ -90,6 +90,7 @@ Articles matched by keyword from the [press index](../press/2026.md). 12 article
 - **—** — *CBS2 Iowa (KGAN)* — "Iowa City schools weigh closures as district confronts major budget troubles" — [read article](https://cbs2iowa.com/news/local/iowa-city-schools-weigh-closures-as-district-confronts-major-budget-troubles)
 - **May 12, 2026** — *CBS2 Iowa (KGAN)* — "Public criticizes Iowa City schools leadership amid budget crisis" — [read article](https://cbs2iowa.com/news/local/public-criticizes-iowa-city-schools-leadership-amid-budget-crisis)
 - **May 15, 2026** — *KCRG-TV9* — "Facing budget crisis, Iowa City school district accepts resignation of special education director" — [read article](https://www.kcrg.com/2026/05/15/facing-budget-crisis-iowa-city-school-district-accepts-resignation-special-education-director/)
+- **June 9, 2026** — *KCRG-TV9* — "Iowa City schools face hearing with School Budget Review Committee" — [read article](https://www.kcrg.com/2026/06/09/iowa-city-schools-face-hearing-with-school-budget-review-committee/)
 - **—** — *The Cedar Rapids Gazette — Staff editorial* — "Opinion: Iowa City's school budget is a failure of oversight" — [read article](https://www.thegazette.com/opinion/editorials/iowa-city-s-school-budget-is-a-failure-of-oversight/article_89cfaca4-3691-43f0-bf10-46e19e540ba0.html)
 - **—** — *(publication unknown)* — "ICCSD looks for solutions amidst budget struggles" — [read article](https://wsspaper.com/112329/news/iccsd-looks-for-solutions-amidst-budget-struggles/)
 

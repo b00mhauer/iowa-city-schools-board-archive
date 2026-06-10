@@ -23,6 +23,10 @@ Buildings, land, and capital projects — new construction, renovations, propert
 Direct deep-links to specific supporting documents on the district portal.
 
 - **2026-06-09** — [(3) Second Resolution - Scanlon Family, L.L.C. (2)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577966&MID=29982) _(matched: Scanlon)_
+- **2026-06-09** — [PFM_Presentation_ICCSD_Capital_Funding_Capacity_06-09-2026 (2)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=579236&MID=29982) _(matched: SAVE)_
+- **2026-06-09** — [Iowa_City_CSD_SAVE_Cashflow_as_of_06-04-2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=579295&MID=29982) _(matched: SAVE)_
+- **2026-06-09** — [Iowa_City_CSD_PPEL_Cashflow_v1_as_of_06-05-2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=579297&MID=29982) _(matched: PPEL, SAVE)_
+- **2026-06-09** — [Iowa_City_CSD_PPEL_Cashflow_v2_as_of_06-05-2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=579296&MID=29982) _(matched: PPEL, SAVE)_
 - **2026-06-09** — [Center for Innovation 2024 Building Renovation Phase 2](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577255&MID=29982) _(matched: renovation, building)_
 - **2026-06-09** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577260&MID=29982) _(matched: capital project)_
 - **2026-06-09** — [(3) Second Resolution - Scanlon Family, L.L.C. (2)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577947&MID=29982) _(matched: Scanlon)_
@@ -68,12 +72,8 @@ Direct deep-links to specific supporting documents on the district portal.
 - **2026-04-28** — [800 Policies  Buildings & Sites](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=551091&MID=29580) _(matched: building)_
 - **2026-04-14** — [City HS Auditorium Upgrades](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545697&MID=28493) _(matched: auditorium)_
 - **2026-04-14** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=545702&MID=28493) _(matched: capital project)_
-- **2026-03-24** — [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=540026&MID=25493) _(matched: capital project)_
-- **2026-03-10** — [Center for Innovation 2025 Building Renovation Dream Accelerator](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536130&MID=25492) _(matched: renovation, building)_
-- **2026-03-10** — [City HS Auditorium Upgrades 2025 Opstad Theater Lighting](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536131&MID=25492) _(matched: auditorium, Opstad)_
-- **2026-03-10** — [West HS Renovation - Phase 3](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=536133&MID=25492) _(matched: renovation)_
 
-_17 more matched documents not shown — browse the meetings above to see them in context._
+_21 more matched documents not shown — browse the meetings above to see them in context._
 
 ## 2026 press coverage on this topic
 

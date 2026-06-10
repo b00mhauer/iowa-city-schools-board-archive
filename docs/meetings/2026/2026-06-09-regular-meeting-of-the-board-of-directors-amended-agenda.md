@@ -25,7 +25,7 @@ These open an AI chat with a question about this meeting pre-loaded. Just click 
 ---
 ## Supporting documents
 
-48 documents attached to this meeting on the district portal, grouped by agenda item. Click any title to open the PDF directly.
+59 documents attached to this meeting on the district portal, grouped by agenda item. Click any title to open the PDF directly.
 
 ### Public Hearing on the Resolution for Conveyance of an Interest in Real Property
 
@@ -37,13 +37,15 @@ These open an AI chat with a question about this meeting pre-loaded. Just click 
 
 ### Accounts Payable
 
+- [BMO Transactions 050626-060526 - Sheet1](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=579710&MID=29982)
+- [BMO Transactions 050626-060526](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=579193&MID=29982)
 - [BoardReport100036.2.26 (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577695&MID=29982)
 - [5-26-2026 Board Report 10003](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577696&MID=29982)
 - [AP Board Report 6.2.2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577697&MID=29982)
 
 ### Personnel Agenda 6.9.2026
 
-- [June 09, 2026 Board Agenda](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577316&MID=29982)
+- [June 09, 2026 Personnel Agenda](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=579903&MID=29982)
 
 ### Open Enrollments
 
@@ -66,20 +68,6 @@ These open an AI chat with a question about this meeting pre-loaded. Just click 
 
 - [ARC Summer 2026 Interagency Agreement (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577210&MID=29982)
 
-### Iowa City Community School District (ICCSD) Interagency Agreements with the Before and After School Programs (BASP)
-
-- [Coralville Parks & Rec 2026 Interagency Agreement ](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577211&MID=29982)
-- [Champions 2026 Interagency Agreement ](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577212&MID=29982)
-- [Weber 2026 Interagency Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577213&MID=29982)
-- [Shimek 2026 Interagency Agreement ](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577214&MID=29982)
-- [Penn 2026 Interagency Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577215&MID=29982)
-- [Mann 2026 Interagency Agreement  (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577216&MID=29982)
-- [Longfellow 2026 Interagency Agreement (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577217&MID=29982)
-- [Lincoln 2026 Interagency Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577218&MID=29982)
-- [Lemme 2026 Interagency Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577219&MID=29982)
-- [KirkwoodKares 2026 Interagency Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577220&MID=29982)
-- [Coralville Central 2026 Interagency Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577221&MID=29982)
-
 ### Employee Assistance Program (EAP) agreement
 
 - [ICCSD EAP Agreement 2026-2027](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577719&MID=29982)
@@ -99,14 +87,49 @@ These open an AI chat with a question about this meeting pre-loaded. Just click 
 - [Capital Projects Status Report](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577260&MID=29982)
 - [Combined Appendix 9 Approval Requests and Project Updates](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577261&MID=29982)
 
+### Iowa City Community School District (ICCSD) Interagency Agreements with the Before and After School Programs (BASP)
+
+- [Coralville Parks & Rec 2026 Interagency Agreement ](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577211&MID=29982)
+- [Champions 2026 Interagency Agreement ](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577212&MID=29982)
+- [Weber 2026 Interagency Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577213&MID=29982)
+- [Shimek 2026 Interagency Agreement ](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577214&MID=29982)
+- [Penn 2026 Interagency Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577215&MID=29982)
+- [Mann 2026 Interagency Agreement  (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577216&MID=29982)
+- [Longfellow 2026 Interagency Agreement (1)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577217&MID=29982)
+- [Lincoln 2026 Interagency Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577218&MID=29982)
+- [Lemme 2026 Interagency Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577219&MID=29982)
+- [KirkwoodKares 2026 Interagency Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577220&MID=29982)
+- [Coralville Central 2026 Interagency Agreement](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577221&MID=29982)
+
 ### 900 Policies School Distrit -Community Relations
 
 - [900 Policies School District Community Relations](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=577264&MID=29982)
 
+### Board Financial Leadership Update
+
+- [Board Financial Leadership Update](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=578398&MID=29982)
+
 ### Chief Financial Officer Update
 
-- [Summary Update for 06 09 26 Board Meeting](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=578380&MID=29982)
+- [Summary Update for 06 09 26 Board Meeting (3)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=578882&MID=29982)
 - [Summary 6-4 Status of Progress](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=578381&MID=29982)
+
+### RFP:  Compensation Study and Organizational Efficiencies
+
+- [Organizational Study RFP](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=578713&MID=29982)
+- [Compensation Study - RFP](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=578714&MID=29982)
+- [RFP - Demographic Study & Enrollment Projections](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=578712&MID=29982)
+
+### Activities Accounts
+
+- [Activity Fund Review](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=578786&MID=29982)
+
+### SAVE and Capital Accounts
+
+- [PFM_Presentation_ICCSD_Capital_Funding_Capacity_06-09-2026 (2)](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=579236&MID=29982)
+- [Iowa_City_CSD_SAVE_Cashflow_as_of_06-04-2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=579295&MID=29982)
+- [Iowa_City_CSD_PPEL_Cashflow_v1_as_of_06-05-2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=579297&MID=29982)
+- [Iowa_City_CSD_PPEL_Cashflow_v2_as_of_06-05-2026](https://simbli.eboardsolutions.com/Meetings/Attachment.aspx?S=36031992&AID=579296&MID=29982)
 
 ### 900 Policies School District-Community Relations
 
@@ -135,7 +158,7 @@ These open an AI chat with a question about this meeting pre-loaded. Just click 
 
 Agenda content carried through from the district's published materials for [MID 29982](https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=29982). Every attachment link above points directly to the original PDF on the district's Simbli eBoardSolutions portal — this archive does not host the underlying files.
 
-Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-06-09 04:11 UTC.
+Captured by the [archive page generator](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/build_pages.py) on 2026-06-10 03:31 UTC.
 
 Spot something wrong? Open an [issue](https://github.com/b00mhauer/iowa-city-schools-board-archive/issues) — see [Methodology](../../methodology.md) for the editorial standard.
 

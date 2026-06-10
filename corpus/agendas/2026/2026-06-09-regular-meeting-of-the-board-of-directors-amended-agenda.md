@@ -35,6 +35,9 @@ We will be accountable to the public, especially to our students.
 
 ### 1. Approve June 9, 2026 Regular Board Meeting Agenda
 
+**Recommendation**
+Motion to approve the June 9, 2026 Regular Board Meeting agenda.
+
 ## D. Public Forum
 
 ### 1. Community Comment
@@ -92,9 +95,11 @@ Meeting Minutes
 
 **Supporting Documents:**
 
-- [BoardReport100036.2.26 (1)](attachments/F_03_01_BoardReport100036.2.26 (1).pdf) — 178,735 bytes
-- [5-26-2026 Board Report 10003](attachments/F_03_02_5-26-2026 Board Report 10003.pdf) — 25,854 bytes
-- [AP Board Report 6.2.2026](attachments/F_03_03_AP Board Report 6.2.2026.pdf) — 50,123 bytes
+- [BMO Transactions 050626-060526 - Sheet1](attachments/F_03_01_BMO Transactions 050626-060526 - Sheet1.pdf) — 184,328 bytes
+- [BMO Transactions 050626-060526](attachments/F_03_02_BMO Transactions 050626-060526.pdf) — 511,845 bytes
+- [BoardReport100036.2.26 (1)](attachments/F_03_03_BoardReport100036.2.26 (1).pdf) — 178,735 bytes
+- [5-26-2026 Board Report 10003](attachments/F_03_04_5-26-2026 Board Report 10003.pdf) — 25,854 bytes
+- [AP Board Report 6.2.2026](attachments/F_03_05_AP Board Report 6.2.2026.pdf) — 50,123 bytes
 
 ### 4. Personnel Agenda 6.9.2026
 
@@ -103,7 +108,7 @@ Personnel Agenda
 
 **Supporting Documents:**
 
-- [June 09, 2026 Board Agenda](attachments/F_04_01_June 09, 2026 Board Agenda.pdf) — 131,392 bytes
+- [June 09, 2026 Personnel Agenda](attachments/F_04_01_June 09, 2026 Personnel Agenda.pdf) — 131,426 bytes
 
 ### 5. Open Enrollments
 
@@ -181,7 +186,60 @@ FROM: Amy Clair, Coordinator of Extended Day Learning in collaboration with Core
 
 - [ARC Summer 2026 Interagency Agreement (1)](attachments/F_09_01_ARC Summer 2026 Interagency Agreement (1).pdf) — 177,941 bytes
 
-### 10. Iowa City Community School District (ICCSD) Interagency Agreements with the Before and After School Programs (BASP)
+### 10. Employee Assistance Program (EAP) agreement
+
+**Quick Summary / Abstract**
+This agreement continues the District's Employee Assistance Program (EAP).
+
+**Recommendation**
+Motion to approve EAP agreement.
+
+**Contact Person**
+Coreen Frank
+
+HR & Employee Relations Sr. Coordinator
+
+**Supporting Documents:**
+
+- [ICCSD EAP Agreement 2026-2027](attachments/F_10_01_ICCSD EAP Agreement 2026-2027.pdf) — 343,832 bytes
+
+### 11. GWAEA  1st Amendment to Contract for Transfer of State Funding
+
+**Quick Summary / Abstract**
+Due to the legislative change in state funding from 10 monthly payments to quarterly payments, attached is an amendment to the contract for the transfer of special education funds to GWAEA effective  July 1, 2026.  The original contract was approved by the Board on June 10, 2025.
+
+**Recommendation**
+Motion to approve the GWAEA 1st Ammendment to the Contract for Transfer of State Funding.
+
+**Contact Person**
+Pat Moore, Chief Financial Officer
+
+**Supporting Documents:**
+
+- [Iowa City CSD FY27 Amendment](attachments/F_11_01_Iowa City CSD FY27 Amendment.pdf) — 265,651 bytes
+
+### 12. Appendix 9 Approval Requests and Project Updates
+
+**Recommendation**
+Recommend approval of Appendix 9 approval requests.
+
+**Contact Person**
+Curt Pratt, Chief Operating Officer
+
+**Supporting Documents:**
+
+- [Summary of Appendix 9 Approval Requests and Project Updates](attachments/F_12_01_Summary of Appendix 9 Approval Requests and Pro.pdf) — 223,081 bytes
+- [Center for Innovation 2024 Building Renovation Phase 2](attachments/F_12_02_Center for Innovation 2024 Building Renovation.pdf) — 1,058,202 bytes
+- [City HS Baseball & Softball at Mercer Park 2025 Field Improvements](attachments/F_12_03_City HS Baseball & Softball at Mercer Park 2025.pdf) — 789,831 bytes
+- [HVAC Upgrades 2024 Wickham ES HVAC Upgrades](attachments/F_12_04_HVAC Upgrades 2024 Wickham ES HVAC Upgrades.pdf) — 415,502 bytes
+- [Liberty HS 2025 Soccer Field Lighting](attachments/F_12_05_Liberty HS 2025 Soccer Field Lighting.pdf) — 121,346 bytes
+- [Lucas ES Gym Addition](attachments/F_12_06_Lucas ES Gym Addition.pdf) — 141,539 bytes
+- [Capital Projects Status Report](attachments/F_12_07_Capital Projects Status Report.pdf) — 154,866 bytes
+- [Combined Appendix 9 Approval Requests and Project Updates](attachments/F_12_08_Combined Appendix 9 Approval Requests and Proje.pdf) — 2,240,147 bytes
+
+## G. Items Withdrawn from Consent Agenda
+
+### 1. Iowa City Community School District (ICCSD) Interagency Agreements with the Before and After School Programs (BASP)
 
 **Quick Summary / Abstract**
 RE: Iowa City Community School District (ICCSD) Interagency Agreements (11) with the Before and After School Programs (BASP).
@@ -207,70 +265,17 @@ FROM: Amy Clair, Coordinator of Extended Day Learning in collaboration with Core
 
 **Supporting Documents:**
 
-- [Coralville Parks & Rec 2026 Interagency Agreement ](attachments/F_10_01_Coralville Parks & Rec 2026 Interagency Agreeme.pdf) — 214,291 bytes
-- [Champions 2026 Interagency Agreement ](attachments/F_10_02_Champions 2026 Intereagency Agreement.pdf) — 222,523 bytes
-- [Weber 2026 Interagency Agreement](attachments/F_10_03_Weber 2026 Interagency Agreement.pdf) — 213,729 bytes
-- [Shimek 2026 Interagency Agreement ](attachments/F_10_04_Shimek 2026 Interagency Agreement.pdf) — 3,166,082 bytes
-- [Penn 2026 Interagency Agreement](attachments/F_10_05_Penn 2026 Interagency Agreement.pdf) — 371,166 bytes
-- [Mann 2026 Interagency Agreement  (1)](attachments/F_10_06_Mann BASP 2026 Interagency Agreement (1).pdf) — 1,651,683 bytes
-- [Longfellow 2026 Interagency Agreement (1)](attachments/F_10_07_Longfellow 2026 Interagency Agreement (1).pdf) — 376,428 bytes
-- [Lincoln 2026 Interagency Agreement](attachments/F_10_08_Lincoln 2026 Interagency Agreement.pdf) — 555,425 bytes
-- [Lemme 2026 Interagency Agreement](attachments/F_10_09_Lemme 2026 Interagency Agreement.pdf) — 558,347 bytes
-- [KirkwoodKares 2026 Interagency Agreement](attachments/F_10_10_KirkwoodKares_202026_20Interagency_20Agreement.pdf) — 395,926 bytes
-- [Coralville Central 2026 Interagency Agreement](attachments/F_10_11_Coralville Central 2026 Interagency Agreement.pdf) — 8,090,773 bytes
-
-### 11. Employee Assistance Program (EAP) agreement
-
-**Quick Summary / Abstract**
-This agreement continues the District's Employee Assistance Program (EAP).
-
-**Recommendation**
-Motion to approve EAP agreement.
-
-**Contact Person**
-Coreen Frank
-
-HR & Employee Relations Sr. Coordinator
-
-**Supporting Documents:**
-
-- [ICCSD EAP Agreement 2026-2027](attachments/F_11_01_ICCSD EAP Agreement 2026-2027.pdf) — 343,832 bytes
-
-### 12. GWAEA  1st Amendment to Contract for Transfer of State Funding
-
-**Quick Summary / Abstract**
-Due to the legislative change in state funding from 10 monthly payments to quarterly payments, attached is an amendment to the contract for the transfer of special education funds to GWAEA effective  July 1, 2026.  The original contract was approved by the Board on June 10, 2025.
-
-**Recommendation**
-Motion to approve the GWAEA 1st Ammendment to the Contract for Transfer of State Funding.
-
-**Contact Person**
-Pat Moore, Chief Financial Officer
-
-**Supporting Documents:**
-
-- [Iowa City CSD FY27 Amendment](attachments/F_12_01_Iowa City CSD FY27 Amendment.pdf) — 265,651 bytes
-
-### 13. Appendix 9 Approval Requests and Project Updates
-
-**Recommendation**
-Recommend approval of Appendix 9 approval requests.
-
-**Contact Person**
-Curt Pratt, Chief Operating Officer
-
-**Supporting Documents:**
-
-- [Summary of Appendix 9 Approval Requests and Project Updates](attachments/F_13_01_Summary of Appendix 9 Approval Requests and Pro.pdf) — 223,081 bytes
-- [Center for Innovation 2024 Building Renovation Phase 2](attachments/F_13_02_Center for Innovation 2024 Building Renovation.pdf) — 1,058,202 bytes
-- [City HS Baseball & Softball at Mercer Park 2025 Field Improvements](attachments/F_13_03_City HS Baseball & Softball at Mercer Park 2025.pdf) — 789,831 bytes
-- [HVAC Upgrades 2024 Wickham ES HVAC Upgrades](attachments/F_13_04_HVAC Upgrades 2024 Wickham ES HVAC Upgrades.pdf) — 415,502 bytes
-- [Liberty HS 2025 Soccer Field Lighting](attachments/F_13_05_Liberty HS 2025 Soccer Field Lighting.pdf) — 121,346 bytes
-- [Lucas ES Gym Addition](attachments/F_13_06_Lucas ES Gym Addition.pdf) — 141,539 bytes
-- [Capital Projects Status Report](attachments/F_13_07_Capital Projects Status Report.pdf) — 154,866 bytes
-- [Combined Appendix 9 Approval Requests and Project Updates](attachments/F_13_08_Combined Appendix 9 Approval Requests and Proje.pdf) — 2,240,147 bytes
-
-## G. Items Withdrawn from Consent Agenda
+- [Coralville Parks & Rec 2026 Interagency Agreement ](attachments/G_01_01_Coralville Parks & Rec 2026 Interagency Agreeme.pdf) — 214,291 bytes
+- [Champions 2026 Interagency Agreement ](attachments/G_01_02_Champions 2026 Intereagency Agreement.pdf) — 222,523 bytes
+- [Weber 2026 Interagency Agreement](attachments/G_01_03_Weber 2026 Interagency Agreement.pdf) — 213,729 bytes
+- [Shimek 2026 Interagency Agreement ](attachments/G_01_04_Shimek 2026 Interagency Agreement.pdf) — 3,166,082 bytes
+- [Penn 2026 Interagency Agreement](attachments/G_01_05_Penn 2026 Interagency Agreement.pdf) — 371,166 bytes
+- [Mann 2026 Interagency Agreement  (1)](attachments/G_01_06_Mann BASP 2026 Interagency Agreement (1).pdf) — 1,651,683 bytes
+- [Longfellow 2026 Interagency Agreement (1)](attachments/G_01_07_Longfellow 2026 Interagency Agreement (1).pdf) — 376,428 bytes
+- [Lincoln 2026 Interagency Agreement](attachments/G_01_08_Lincoln 2026 Interagency Agreement.pdf) — 555,425 bytes
+- [Lemme 2026 Interagency Agreement](attachments/G_01_09_Lemme 2026 Interagency Agreement.pdf) — 558,347 bytes
+- [KirkwoodKares 2026 Interagency Agreement](attachments/G_01_10_KirkwoodKares_202026_20Interagency_20Agreement.pdf) — 395,926 bytes
+- [Coralville Central 2026 Interagency Agreement](attachments/G_01_11_Coralville Central 2026 Interagency Agreement.pdf) — 8,090,773 bytes
 
 ## H. Committee Reports
 
@@ -297,7 +302,7 @@ Pat Moore, Chief Financial Officer
 
 **Supporting Documents:**
 
-- [Summary Update for 06 09 26 Board Meeting](attachments/J_02_01_Summary Update for 06 09 26 Board Meeting.pdf) — 107,104 bytes
+- [Summary Update for 06 09 26 Board Meeting (3)](attachments/J_02_01_Summary Update for 06 09 26 Board Meeting (3).pdf) — 107,104 bytes
 - [Summary 6-4 Status of Progress](attachments/J_02_02_Summary 6-4 Status of Progress.pdf) — 29,582 bytes
 
 ### 3. RFP:  Compensation Study and Organizational Efficiencies
@@ -312,7 +317,18 @@ Pat Moore, Chief Financial Officer
 
 ### 1. Activities Accounts
 
+**Supporting Documents:**
+
+- [Activity Fund Review](attachments/K_01_01_Activity Fund Review.pdf) — 2,115,777 bytes
+
 ### 2. SAVE and Capital Accounts
+
+**Supporting Documents:**
+
+- [PFM_Presentation_ICCSD_Capital_Funding_Capacity_06-09-2026 (2)](attachments/K_02_01_PFM_Presentation_ICCSD_Capital_Funding_Capacity.pdf) — 418,903 bytes
+- [Iowa_City_CSD_SAVE_Cashflow_as_of_06-04-2026](attachments/K_02_02_Iowa_City_CSD_SAVE_Cashflow_as_of_06-04-2026.pdf) — 85,105 bytes
+- [Iowa_City_CSD_PPEL_Cashflow_v1_as_of_06-05-2026](attachments/K_02_03_Iowa_City_CSD_PPEL_Cashflow_v1_as_of_06-05-2026.pdf) — 121,631 bytes
+- [Iowa_City_CSD_PPEL_Cashflow_v2_as_of_06-05-2026](attachments/K_02_04_Iowa_City_CSD_PPEL_Cashflow_v2_as_of_06-05-2026.pdf) — 122,871 bytes
 
 ## L. Action Items
 
@@ -378,14 +394,7 @@ Motion to approve the resolution authorizing conveyance of real property.
 
 ## M. Upcoming Events and Community Updates
 
-### 1. Agenda Setting
-
-**Supporting Documents:**
-
-- [6-23-26 Policy & Governance Agenda - DRAFT](attachments/M_01_01_6-23-26 Policy & Governance Agenda - DRAFT.pdf) — 1,029,194 bytes
-- [06-23-2026  Board Meeting Agenda - DRAFT](attachments/M_01_02_06-23-2026 Board Meeting Agenda - DRAFT.pdf) — 1,037,689 bytes
-
-### 2. Director Liaison Report
+### 1. Director Liaison Report
 
 **Quick Summary / Abstract**
 Molly Abraham
@@ -412,7 +421,31 @@ May 31: Liberty HS graduation
 
 June 5: 2 meetings with community members
 
+June 5: Student Build Open House
+
+ 
+
 Mitch Lingo
+
+May 14 - Closed Session
+
+May 15 - Board Special Meeting
+
+May 18 - Exempt Session
+
+May 29 - Tate Graduation
+
+May 30 - West Graduation
+
+May 30 - City Graduation
+
+May 31 - Liberty Graduation
+
+June 2 - Board Special Meeting
+
+June 5 - Student Build Open House
+
+June 6 - Farmer's Market Listening Session
 
 Ruthina Malone
 
@@ -439,6 +472,13 @@ May 31 - Liberty High School graduation
 June 2 - Board special meeting
 
 June 5 - Student Build Open House
+
+### 2. Agenda Setting
+
+**Supporting Documents:**
+
+- [6-23-26 Policy & Governance Agenda - DRAFT](attachments/M_02_01_6-23-26 Policy & Governance Agenda - DRAFT.pdf) — 1,029,194 bytes
+- [06-23-2026  Board Meeting Agenda - DRAFT](attachments/M_02_02_06-23-2026 Board Meeting Agenda - DRAFT.pdf) — 1,037,689 bytes
 
 ## N. Adjourn
 
