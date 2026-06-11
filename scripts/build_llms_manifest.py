@@ -171,6 +171,7 @@ def render_manifest(year: int, summaries: dict, all_meetings: list[dict],
     out.append("")
     out.append(f"- **[Key Documents]({RAW_BASE}/documents/key-documents.md)** — curated by category (budget & financial, capital projects, property dispositions, labor agreements, active-review policies, leadership transition). Direct deep-links to the district portal.")
     out.append(f"- **[Audited Financial Statements]({RAW_BASE}/audited-financials/index.md)** — audited annual financial statements for ICCSD (FY2020–2023; FY2024–2025 missing as part of the audit backlog story) plus ~13 peer Iowa districts (Ankeny, Burlington, Cedar Rapids, Davenport, Des Moines, Dubuque, Johnston, Linn-Mar, Muscatine, Pleasant Valley, Waterloo, Waukee, West Des Moines) FY2020–2025. PDFs hosted directly on this site.")
+    out.append(f"- **[Path to A+ — credit rating recovery analysis]({RAW_BASE}/credit-rating-path.md)** — independent community analysis of what it would take to restore ICCSD's bond rating by 2028. Uses S&P Global's April 2026 Iowa school district medians as the benchmark; compares ICCSD's current ratios to A+ thresholds; lays out the three binding gaps (available reserves, three-year operating margin, audit currency) and a quarterly KPI dashboard the Financial Oversight Committee can run the recovery against. Includes the workstream timeline and glide path to FY28 close. Not produced by ICCSD or any rating agency.")
     out.append("")
 
     # --- Anchor events ---

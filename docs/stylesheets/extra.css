@@ -71,3 +71,213 @@
 .md-typeset h3 + p {
   margin-top: 0.5rem;
 }
+
+
+/* ============================================================
+   Credit rating / Cash Watch style cards
+   ============================================================ */
+
+.md-typeset .rating-hero {
+  background: #0b1426;
+  color: #ffffff;
+  padding: 2.5rem 2rem;
+  border-radius: 6px;
+  margin: 1.5rem 0 2rem;
+}
+
+.md-typeset .rating-hero .eyebrow {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #6ea8fe;
+  margin-bottom: 1rem;
+}
+
+.md-typeset .rating-hero h1,
+.md-typeset .rating-hero .hero-title {
+  font-size: 2.25rem;
+  font-weight: 800;
+  line-height: 1.15;
+  color: #ffffff;
+  margin: 0 0 1rem;
+  border: none;
+  padding: 0;
+}
+
+.md-typeset .rating-hero p {
+  color: #c8d4e8;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.md-typeset .stat-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.md-typeset .stat-card {
+  padding: 1.25rem 1.25rem;
+  border-radius: 6px;
+  border: 1px solid;
+}
+
+.md-typeset .stat-card .stat-value {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 0.5rem;
+}
+
+.md-typeset .stat-card .stat-label {
+  font-size: 0.85rem;
+  font-weight: 500;
+  line-height: 1.4;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .stat-card.danger {
+  background: #fdecec;
+  border-color: #f5b7b1;
+}
+
+.md-typeset .stat-card.danger .stat-value {
+  color: #b03a2e;
+}
+
+.md-typeset .stat-card.info {
+  background: #e8f0ff;
+  border-color: #aac6f7;
+}
+
+.md-typeset .stat-card.info .stat-value {
+  color: #1a4f9b;
+}
+
+.md-typeset .stat-card.success {
+  background: #e7f5ec;
+  border-color: #a6dab8;
+}
+
+.md-typeset .stat-card.success .stat-value {
+  color: #1e7a3a;
+}
+
+
+/* -- Gap progress bars (current vs target) --- */
+
+.md-typeset .gap-bar {
+  margin: 1rem 0 1.5rem;
+}
+
+.md-typeset .gap-bar .gap-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  margin-bottom: 0.3rem;
+}
+
+.md-typeset .gap-bar .gap-label strong {
+  font-weight: 600;
+}
+
+.md-typeset .gap-bar .gap-track {
+  position: relative;
+  background: #eef1f6;
+  height: 22px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.md-typeset .gap-bar .gap-fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background: linear-gradient(90deg, #b03a2e, #d96459);
+  border-radius: 4px;
+}
+
+.md-typeset .gap-bar .gap-target {
+  position: absolute;
+  top: -2px;
+  width: 2px;
+  height: 26px;
+  background: #1e7a3a;
+}
+
+.md-typeset .gap-bar .gap-target::after {
+  content: "A+ target";
+  position: absolute;
+  top: 28px;
+  left: -22px;
+  font-size: 0.7rem;
+  color: #1e7a3a;
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+
+/* -- KPI mini-cards for the dashboard section --- */
+
+.md-typeset .kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 2rem;
+}
+
+.md-typeset .kpi-card {
+  padding: 1rem;
+  border-radius: 5px;
+  background: #f7f9fc;
+  border-left: 3px solid #2c5fa1;
+}
+
+.md-typeset .kpi-card .kpi-name {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 0.4rem;
+}
+
+.md-typeset .kpi-card .kpi-current {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #b03a2e;
+}
+
+.md-typeset .kpi-card .kpi-target {
+  font-size: 0.85rem;
+  color: #1e7a3a;
+  font-weight: 600;
+  margin-top: 0.25rem;
+}
+
+
+/* -- Dark mode adjustments for the Cash Watch cards --- */
+
+[data-md-color-scheme="slate"] .md-typeset .stat-card.danger {
+  background: rgba(176, 58, 46, 0.18);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .stat-card.info {
+  background: rgba(26, 79, 155, 0.20);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .stat-card.success {
+  background: rgba(30, 122, 58, 0.20);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .kpi-card {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .gap-bar .gap-track {
+  background: rgba(255, 255, 255, 0.08);
+}
