@@ -222,21 +222,70 @@ That is precisely why "30 days" cannot be judged without a month attached.
 
 **Bottom line:** 30 days in June is a *passing* grade, not a *strong* one. The same 30 days in April would be a red flag; in September it would be reassuring.
 
-## Turning this into a probability (and why we can't, yet)
+## Putting a probability on it: required cushion by month
 
-Your end goal — *"the chance of a liquidity issue in the next 12 months given the current balance"* — is the right framing, but an honest probability needs inputs the archive doesn't have yet:
+The deterministic test above answers "what's the *expected* worst point." Adding the *variability* of the flows turns it into a probability — exactly as you'd expect. Model each forward month's net operating flow as a random draw, **flow = seasonal mean (μ) + noise (σ)**; the cash path is then a seasonal random walk, and "running dry in the next 12 months" is the chance its *running minimum* falls below zero (a [first-passage / ruin problem](https://en.wikipedia.org/wiki/First-hitting-time_model)). The balance needed for confidence *p* is:
 
-- **Only one reconciled year of monthly balances.** A credible distribution of forward-drawdown outcomes needs ~3–5 years; the FY24 and FY25 audits are still in progress, so even history is provisional.
-- **A non-stationary calendar.** The FY27 quarterly-aid switch moves the trough, so you can't pool pre- and post-switch years naively.
-- **Provisional levels.** PFM itself flagged beginning cash as an "unknown variable."
+> **Required balance(month) ≈ (mean forward drawdown to the binding trough) + z<sub>p</sub> × (σ of that drawdown)**, with z = **1.645** (95%), **2.326** (99%), **3.090** (99.9%).
 
-What you *can* do today is the **deterministic stress test** above, expressed as a single ratio:
+The table below is that calculation run as a 400,000-path Monte Carlo from each month-end, using the FY26 cash-basis operating flows as μ and a **$2.5M/month** flow volatility as the base case. It reports the **days of cash on hand** a balance must clear to have a given chance of *not* needing an emergency loan or warrant over the next 12 months. (Reproduce or re-run with your own σ: [`scripts/cash_seasonality_model.py`](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/cash_seasonality_model.py).)
 
-> **Cushion ratio = starting cash ÷ (worst forward drawdown to next inflow + operating floor).**
->
-> Ratio ≥ ~1.3 → safe · ~1.0–1.3 → tight, plan a backstop · < 1.0 → a loan or warrant is already required.
+| Balance held at end of… | 50% (mean) | **95%** | **99%** | **99.9%** | Binding trough |
+|---|---:|---:|---:|---:|---|
+| Jul | 24 | 34 | 39 | 46 | upcoming Sep (near) |
+| Aug | 4 | 22 | 32 | 43 | next Sep (far) |
+| Sep | 0 | 23 | 32 | 43 | next Sep (far) |
+| Oct | 47 | 69 | 78 | 88 | next Sep (far) |
+| Nov | 44 | 64 | 73 | 83 | next Sep (far) |
+| Dec | 35 | 55 | 63 | 72 | next Sep (far) |
+| Jan | 24 | 42 | 50 | 59 | next Sep (far) |
+| Feb | 18 | 36 | 43 | 51 | upcoming Sep |
+| Mar | 15 | 31 | 38 | 46 | upcoming Sep |
+| Apr | 53 | 67 | 74 | 82 | upcoming Sep (near) |
+| May | 51 | 65 | 71 | 78 | upcoming Sep (near) |
+| **Jun** | **41** | **52** | **57** | **64** | upcoming Sep (near) |
 
-Once three-plus years of audited monthly balances exist, the natural upgrade is to fit a distribution to that forward drawdown (it varies with enrollment, tax timing, and one-off transfers) and read the probability directly off it. Until then, the stress test is what the district's own advisors run — and it is enough to answer the practical question for any month.
+*All figures are days of General Fund operating cash (≈ $610K/day). September is the **universal binding trough** — every starting month is ultimately tested against the late-summer low before October property taxes arrive.*
+
+Three things to read off it:
+
+- **The low-balance months are the low-risk months.** August and September need only ~22–23 days at 95% — *less* than June — because October's refill is imminent. The peak months (April, May, October) need the *most* (65–69 days) because from a peak you must self-fund the entire run down to the next trough. Required cushion tracks *forward drawdown*, not current level — your original point, now in numbers.
+- **The near-trough rows are the trustworthy ones.** April–July starts are tested against the *upcoming* September (1–5 months out), where the model is on solid ground. The fall/winter rows are tested against the *following* September (6–11 months out); because the model assumes independent monthly noise, their high-confidence numbers are inflated (real seasonal-timing noise partly reverses month to month). Treat those as upper bounds.
+- **σ is the swing input.** At a conservative **$4M/month** (consistent with the FY25-vs-FY26 summer-drawdown gap), every 95% figure rises ~10–18 days — June, for instance, goes from **52 → 62 days**. The *shape* of the table is robust; the *level* moves with σ.
+
+### What this says about 30 days in June
+
+The model puts hard numbers on the earlier verdict. To make June 30 genuinely safe *without* summer borrowing you'd want roughly:
+
+<div class="stat-cards" markdown>
+
+<div class="stat-card" markdown>
+<div class="stat-value">~41 days</div>
+<div class="stat-label">50/50 — the expected worst case (the Aug–Sep trough) just reaches $0.</div>
+</div>
+
+<div class="stat-card info" markdown>
+<div class="stat-value">~52 days</div>
+<div class="stat-label">95% confidence of clearing the summer with no loan or warrant.</div>
+</div>
+
+<div class="stat-card success" markdown>
+<div class="stat-value">~64 days</div>
+<div class="stat-label">99.9% — effectively never short over the next 12 months.</div>
+</div>
+
+</div>
+
+So **30 days in June is well below even the coin-flip (~41-day) threshold** for self-funding the summer — which is exactly why the district draws an interfund loan or warrant every late summer. Thirty days isn't sized to *avoid* borrowing; it's sized to make *July* payroll and then borrow for August–September. Read against this table, ~30 days in June corresponds to a *high* probability of needing the summer backstop — consistent with what actually happened in FY26.
+
+### Caveats (so the table isn't over-trusted)
+
+- **One clean year of μ, an assumed σ.** FY24/FY25 audits are still open; PFM flagged even beginning cash as an "unknown variable." The means come from a single cash-basis year (partly projected) and σ is an assumption, not an estimate.
+- **A moving calendar.** The FY27 shift of state aid to quarterly payments relocates the trough (Sep → March); the μ vector should be re-cut for FY27+ before applying the table forward.
+- **Month-end, not intra-month.** The true low is mid-month (payroll before late-month receipts), so add a few days of buffer.
+- **Floor = $0.** If the board wants a standing minimum buffer above zero, add it to every cell.
+
+The honest upgrade path: once three-plus years of *reconciled* monthly balances exist, estimate σ (and its seasonal/serial structure) from data instead of assuming it, and the same script returns calibrated probabilities rather than well-reasoned estimates.
 
 ## Sources
 
