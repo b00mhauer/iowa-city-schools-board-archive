@@ -159,19 +159,50 @@ We only have one full year of *reconstructed monthly balances*, but the FY25 mon
 
 The two tax months (+$30M, +$25M) and the steady between-settlement bleed are structural, not one-offs. That is what makes a *baseline* meaningful in the first place.
 
-## The catch: FY27 changes the season
+## The catch: a new state law reshapes the season
 
-The shift of state aid to **quarterly** payments starting FY27 is the single biggest reason a naive seasonal index built on FY26 will mislead you going forward. With a large state-aid payment now landing in **August**, the dangerous late-summer gap shortens — but a **new, deeper trough opens in March**, between the February and May aid payments:
+This is no longer a projection. **[SF 2201](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF2201), signed in February 2026, moves state foundation aid from monthly to quarterly payments (≈$26.5M each) beginning July 15** — replacing the old schedule of ~$10.6M monthly payments that didn't start until September. That single change rewrites the seasonality, because a large payment now refills the General Fund at the *start* of the fiscal year instead of leaving it starved until fall.
+
+Re-running the model on the post-law flow vector (reconstructed from PFM's FY27 schedule, which already assumes quarterly aid; see [`scripts/cash_seasonality_sf2201.py`](https://github.com/b00mhauer/iowa-city-schools-board-archive/blob/main/scripts/cash_seasonality_sf2201.py)) versus the FY26 pre-law baseline:
+
+| Month-end | Pre-law 95% | **Post-law 95%** | Change |
+|---|---:|---:|---:|
+| **Jun** | 47 | **31** | 🟢 −17 |
+| Jul | 30 | 15 | 🟢 −14 |
+| Aug | 17 | 37 | 🔴 +20 |
+| Oct | 62 | 52 | 🟢 −10 |
+| Nov | 58 | 74 | 🔴 +16 |
+| Jan | 37 | 18 | 🟢 −19 |
+| **Mar** | 27 | 15 | 🟢 −12 |
+| Apr | 61 | 40 | 🟢 −21 |
+
+*(Days of cash needed for a 95% chance of not running dry over the next 12 months.)*
+
+Three things change, and one doesn't:
+
+1. **The summer crunch — the binding constraint in every number above — is relieved.** The ~$26.5M July payment means June only has to bridge a few weeks, not the whole summer. **June drops from ~47 to ~31 days; July from 30 to 15.**
+2. **The trough moves from late summer to late winter.** The long dry stretch is now *between* quarterly payments: PFM's FY27 projection bottoms at **March ($6.3M)**, and the months right after a payment (Aug, Nov) now behave like the old Oct/April peaks — flush, with a full quarter to fund.
+3. **But the overall reserve requirement does not fall — it edges up.** Replacing 9 monthly payments with 4 quarterly ones makes revenue *lumpier*, which *increases* the within-year swing. The worst-month 95% requirement actually rises **62 → 74 days**. Quarterly aid helps *timing* (no September cliff) but hurts *smoothness*. **The seasonality reshapes; it does not shrink — so the 60–90 day reserve target holds, arguably reinforced.**
+
+**The consequence for the headline question:** under the *old* law, the district's ~30-day June target sat below the ~47-day 95% bar — inadequate, which is why it borrowed every summer. **Under SF 2201, ~30 days in June sits right at the new ~31-day bar.** The law is essentially what makes the district's own June target defensible.
+
+!!! note "Two caveats on the law"
+
+    **Payment calendar.** PFM modeled the quarters as Aug/Nov/Feb/May; the statute says "beginning **July 15**," which implies Jul/Oct/Jan/Apr — one month earlier. If so, summer and June improve *even more* and the troughs shift a month earlier. The qualitative story is identical either way.
+
+    **SAVE diversion is a separate, not-yet-law risk.** The proposed property-tax bill (SSB 3034, Div. IV) would accelerate diverting SAVE sales-tax revenue to property-tax relief (up to 30% by 2029). That threatens the SAVE/capital fund and bond coverage, **not** General Fund operating cash — but because ICCSD lends GF cash to the SAVE fund, a SAVE shortfall could raise GF cash demand. Monitor it; it is not in this model.
+
+### The pre-law transition year (FY26) for reference
 
 | Month-end | FY26 ending cash | FY27 ending cash | What changed |
 |---|---:|---:|---|
-| Aug | $6.0M | $13.4M | 🟢 Aug state-aid payment cushions the summer |
+| Aug | $6.0M | $13.4M | 🟢 Quarterly aid payment cushions the summer |
 | Sep | $5.1M | $9.9M | Less acute |
 | Jan | $19.6M | $10.1M | 🟠 No monthly aid; spending down |
-| **Mar** | $14.2M | **$6.3M** | 🔴 New annual trough (Feb→May aid gap) |
+| **Mar** | $14.2M | **$6.3M** | 🔴 New annual trough (between quarterly payments) |
 | Jun | $21.4M | $18.3M | Year-end floor, ~30 days |
 
-**Implication for your hypothesis:** a single year is enough to read the *mechanism*, but the trough *month* is not stationary — it migrates from September (FY26) toward March (FY27) as the payment calendar changes. A liquidity model has to track the **payment calendar**, not just the month name.
+**Implication for your hypothesis:** a single year is enough to read the *mechanism*, but the trough *month* is not stationary — SF 2201 migrates it from September toward late winter. A liquidity model has to track the **payment calendar**, not just the month name.
 
 ## Judging a balance: the forward-drawdown test
 
