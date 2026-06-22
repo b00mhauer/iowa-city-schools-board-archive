@@ -9,23 +9,24 @@ from __future__ import annotations
 
 MONTHS = ["Jul","Aug","Sep","Oct","Nov","Dec","Jan","Feb","Mar","Apr","May","Jun"]
 
-# Seasonal shape, days of cash (FY26 actual ending balances, UNBORROWED ~19d avg)
-FY26 = [15,-7,-8,39,36,27,16,10,7,44,29,19]
-R60  = [v+41 for v in FY26]
-R90  = [v+71 for v in FY26]
+# Seasonal shape, days of cash: ICCSD FY27 PROJECTED ending balances under
+# SF 2201 (quarterly state aid), from PFM Exhibit 2a. ~34-day average.
+FY27 = [17,22,16,53,72,46,16,33,10,38,58,30]
+R60  = [v+26 for v in FY27]   # same shape, shifted to a 60-day average
+R90  = [v+56 for v in FY27]   # same shape, shifted to a 90-day average
 
-# Refined component-model required days (95%) by month, plus 50/99 for context
+# Required days (component model) under SF 2201 / FY27 quarterly-aid flows.
 REQ = {  # month: (p50, p95, p99)
- "Jul":(24,30,32),"Aug":(3,17,24),"Sep":(0,17,24),"Oct":(47,62,69),
- "Nov":(43,58,64),"Dec":(34,49,54),"Jan":(23,37,43),"Feb":(18,31,36),
- "Mar":(14,27,32),"Apr":(52,61,65),"May":(51,59,63),"Jun":(40,47,51)}
+ "Jul":(1,15,22),"Aug":(22,37,43),"Sep":(4,18,24),"Oct":(40,52,58),
+ "Nov":(63,74,80),"Dec":(37,48,53),"Jan":(8,18,24),"Feb":(24,34,39),
+ "Mar":(1,15,22),"Apr":(28,40,46),"May":(47,59,65),"Jun":(20,31,37)}
 
 RED,GREEN,BLUE,AMBER,INK,GREY="#b03a2e","#1e7a3a","#2c5fa1","#d98a2b","#1f2937","#6b7280"
 
 # ---------- Chart 1: seasonal swing (line, 3 scenarios) ----------
 def chart_swing():
     W,H=720,360; L,Rg,T,B=58,20,28,300
-    ymin,ymax=-25,120
+    ymin,ymax=0,135
     def X(i): return L+(W-L-Rg)*i/11
     def Y(v): return T+(B-T)*(ymax-v)/(ymax-ymin)
     def poly(d): return " ".join(f"{X(i):.1f},{Y(v):.1f}" for i,v in enumerate(d))
@@ -33,25 +34,23 @@ def chart_swing():
         return "".join(f'<circle cx="{X(i):.1f}" cy="{Y(v):.1f}" r="3.4" fill="{c}"/>' for i,v in enumerate(d))
     xlab="".join(f'<text x="{X(i):.1f}" y="{B+18}" font-size="11" fill="{GREY}" text-anchor="middle">{m}</text>' for i,m in enumerate(MONTHS))
     ylab="".join(f'<text x="{L-8}" y="{Y(v)+4:.1f}" font-size="10" fill="{GREY}" text-anchor="end">{v}</text>'
-                 +f'<line x1="{L}" y1="{Y(v):.1f}" x2="{W-Rg}" y2="{Y(v):.1f}" stroke="#eef1f6"/>' for v in (-25,0,25,50,75,100,120))
+                 +f'<line x1="{L}" y1="{Y(v):.1f}" x2="{W-Rg}" y2="{Y(v):.1f}" stroke="#eef1f6"/>' for v in (0,25,50,75,100,125))
     return f'''<svg viewBox="0 0 {W} {H+4}" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto">
-<rect x="{L}" y="{Y(0):.1f}" width="{W-Rg-L}" height="{B-Y(0):.1f}" fill="{RED}" opacity="0.08"/>
-<rect x="{L}" y="{Y(15):.1f}" width="{W-Rg-L}" height="{Y(0)-Y(15):.1f}" fill="{AMBER}" opacity="0.13"/>
+<rect x="{L}" y="{Y(15):.1f}" width="{W-Rg-L}" height="{B-Y(15):.1f}" fill="{AMBER}" opacity="0.13"/>
 {ylab}
-<line x1="{L}" y1="{Y(0):.1f}" x2="{W-Rg}" y2="{Y(0):.1f}" stroke="{RED}" stroke-width="1.2" stroke-dasharray="6 4" opacity="0.7"/>
 <line x1="{L}" y1="{Y(15):.1f}" x2="{W-Rg}" y2="{Y(15):.1f}" stroke="{AMBER}" stroke-width="1" stroke-dasharray="2 3"/>
 <text x="{L+4}" y="{Y(15)-4:.1f}" font-size="9.5" font-weight="700" fill="{AMBER}">~15-day floor (one mid-month payroll)</text>
-<text x="{W-Rg-4}" y="{Y(-6):.1f}" font-size="9.5" font-style="italic" fill="{RED}" text-anchor="end">overdrawn &#8594; must borrow</text>
 <polyline points="{poly(R90)}" fill="none" stroke="{GREEN}" stroke-width="2.4"/>{dots(R90,GREEN)}
 <polyline points="{poly(R60)}" fill="none" stroke="{BLUE}" stroke-width="2.4"/>{dots(R60,BLUE)}
-<polyline points="{poly(FY26)}" fill="none" stroke="{RED}" stroke-width="2.6"/>{dots(FY26,RED)}
-<text x="{X(2):.1f}" y="{Y(-8)+22:.1f}" font-size="9.5" font-weight="700" fill="{RED}" text-anchor="middle">Aug&#8211;Sep go negative</text>
-<text x="{X(9):.1f}" y="{Y(115):.1f}" font-size="9" fill="{GREY}" text-anchor="middle">Apr property-tax peak</text>
+<polyline points="{poly(FY27)}" fill="none" stroke="{RED}" stroke-width="2.6"/>{dots(FY27,RED)}
+<text x="{X(8):.1f}" y="{Y(10)+16:.1f}" font-size="9.5" font-weight="700" fill="{RED}" text-anchor="middle">March ~10 days: winter trough</text>
+<text x="{X(0)+4:.1f}" y="{Y(33):.1f}" font-size="9" fill="{GREY}" text-anchor="start">July aid refills &#8212; no summer trough</text>
+<text x="{X(4):.1f}" y="{Y(72)-8:.1f}" font-size="9" fill="{GREY}" text-anchor="middle">Nov: quarterly aid</text>
 {xlab}
 <g font-size="10.5">
-<rect x="{L+2}" y="6" width="12" height="3" fill="{RED}"/><text x="{L+18}" y="11" fill="{INK}">ICCSD FY26 actual (~19-day avg, no rescue loan)</text>
-<rect x="{L+292}" y="6" width="12" height="3" fill="{BLUE}"/><text x="{L+308}" y="11" fill="{INK}">60-day policy</text>
-<rect x="{L+402}" y="6" width="12" height="3" fill="{GREEN}"/><text x="{L+418}" y="11" fill="{INK}">90-day policy</text>
+<rect x="{L+2}" y="6" width="12" height="3" fill="{RED}"/><text x="{L+18}" y="11" fill="{INK}">ICCSD FY27 projected under SF 2201 (~34-day avg)</text>
+<rect x="{L+320}" y="6" width="12" height="3" fill="{BLUE}"/><text x="{L+336}" y="11" fill="{INK}">60-day policy</text>
+<rect x="{L+430}" y="6" width="12" height="3" fill="{GREEN}"/><text x="{L+446}" y="11" fill="{INK}">90-day policy</text>
 </g></svg>'''
 
 # ---------- Chart 2: why 60-90 decomposition (stacked bars) ----------
@@ -62,7 +61,7 @@ def chart_decomp():
     segs=[("Operating floor",20,"#9aa7b8"),("Seasonal dip",27,BLUE)]
     def bar(cx,buf,total):
         y=B; out=""
-        parts=[("#9aa7b8",20,"~20"),(BLUE,27,"~27"),(GREEN,buf,f"~{buf}")]
+        parts=[("#9aa7b8",20,"~20"),(BLUE,24,"~24"),(GREEN,buf,f"~{buf}")]
         for col,h,lab in parts:
             hh=(B-T)*h/ymax
             out+=f'<rect x="{cx-bw/2}" y="{y-hh:.1f}" width="{bw}" height="{hh:.1f}" fill="{col}"/>'
@@ -70,7 +69,7 @@ def chart_decomp():
             y-=hh
         out+=f'<text x="{cx}" y="{y-7:.1f}" font-size="14" font-weight="800" fill="{INK}" text-anchor="middle">{total}</text>'
         return out
-    g60=bar(base,13,60); g90=bar(base+150,43,90)
+    g60=bar(base,16,60); g90=bar(base+150,46,90)
     return f'''<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto">
 <rect x="40" y="{Y(35):.1f}" width="{W-50}" height="{Y(19)-Y(35):.1f}" fill="{RED}" opacity="0.07"/>
 <text x="195" y="{Y(29):.1f}" font-size="9" font-weight="700" fill="{RED}" text-anchor="middle">ICCSD today</text><text x="195" y="{Y(29)+11:.1f}" font-size="9" font-weight="700" fill="{RED}" text-anchor="middle">~20&#8211;35</text>
@@ -90,7 +89,7 @@ def chart_decomp():
 # ---------- Chart 3: required days by month (95% bars) ----------
 def chart_req():
     W,H=720,300; L,Rg,T,B=40,16,24,250
-    ymax=80
+    ymax=85
     def X(i): return L+(W-L-Rg)*(i+0.5)/12
     def Y(v): return T+(B-T)*(ymax-v)/ymax
     bw=(W-L-Rg)/12*0.62
@@ -144,21 +143,21 @@ HTML=f'''<!doctype html>
 <body><div class="page">
 <span class="tag">Iowa City Schools &middot; General Fund Liquidity &middot; Unofficial community analysis</span>
 <h1>Why a 60&#8211;90 day cash reserve matters</h1>
-<p class="lead">The General Fund's cash balance swings by about <b>50 days of cash</b> within every year &mdash; not because the district gains or loses money, but because property taxes and state aid arrive in a few big lumps while payroll goes out evenly. A reserve target has to be sized to the <b>seasonal low point</b>, not the average. That is why a healthy target is <b>60&#8211;90 days</b>, even though the year-round average looks higher.</p>
+<p class="lead">The General Fund's cash balance swings by about <b>60 days of cash</b> within every year &mdash; not because the district gains or loses money, but because property taxes and state aid arrive in a few big lumps while payroll goes out evenly. A reserve target has to be sized to the <b>seasonal low point</b>, not the average. That is why a healthy target is <b>60&#8211;90 days</b>, even though the year-round average looks higher. This page reflects the <b>forward-looking picture under Iowa's new school-funding law (SF 2201)</b>, signed February 2026.</p>
 
 <div class="cards">
- <div class="card r"><div class="v">~50 days</div><div class="l">Peak-to-trough swing in cash within a single year</div></div>
- <div class="card"><div class="v b">60 days</div><div class="l">Minimum to keep the late-summer trough above the payroll floor</div></div>
+ <div class="card r"><div class="v">~60 days</div><div class="l">Peak-to-trough swing in cash within a single year (Nov peak &rarr; March trough)</div></div>
+ <div class="card"><div class="v b">60 days</div><div class="l">Minimum to keep the winter trough above the payroll floor</div></div>
  <div class="card g"><div class="v">90 days</div><div class="l">Prudent &mdash; absorbs a bad-variance year and a revenue shock</div></div>
 </div>
 
 <h2>The problem: cash is highly seasonal</h2>
-<p>Local property taxes land in just two months (October &amp; April); state aid is steady; payroll never pauses. So cash drains between tax settlements and bottoms out in late summer before October taxes arrive. The red line is what ICCSD actually looked like in FY26 <i>without</i> its rescue borrowing &mdash; the trough goes <b>negative</b>. Lift the whole curve to a 60- or 90-day reserve and the <i>same</i> trough clears the floor with no borrowing.</p>
-<figure>{chart_swing()}<figcaption>Days of General Fund cash by month (cash &divide; ~$610K/day). Seasonal shape from FY26 monthly cash flows; scenarios shift the same shape to a 60- and 90-day annual average.</figcaption></figure>
+<p>Local property taxes land in just two months (October &amp; April), and under SF 2201 state aid now arrives in four <b>quarterly</b> payments (beginning July 15) instead of monthly &mdash; while payroll never pauses. So cash swings sharply between inflows. The red line is ICCSD's own <b>FY27 projected</b> path under the new law: the July aid payment refills the fund early, so the old summer crisis is gone &mdash; but the low now lands in <b>late winter</b>, with March grazing <b>~10 days</b> (one mid-month payroll). Lift the whole curve to a 60- or 90-day reserve and that winter trough clears the floor with real margin.</p>
+<figure>{chart_swing()}<figcaption>Days of General Fund cash by month (cash &divide; ~$610K/day). Shape from ICCSD's FY27 projection under SF 2201 (PFM Exhibit 2a, quarterly aid); the policy lines shift the same shape to a 60- and 90-day annual average.</figcaption></figure>
 
-<div class="note"><b>Why the average is the wrong number.</b> A district could average a comfortable-sounding 35 days and still go broke every August. What matters is the <b>trough</b> &mdash; the single lowest point &mdash; relative to the cash you must keep on hand to make payroll. The reserve exists to carry the trough, not the average.</div>
+<div class="note"><b>Why the average is the wrong number.</b> A district could average a comfortable-sounding 34 days and still skate to ~10 days &mdash; one payroll from trouble &mdash; every late winter. What matters is the <b>trough</b>, the single lowest point, relative to the cash you must keep on hand to make payroll. The reserve exists to carry the trough, not the average.</div>
 
-<div class="note" style="border-left-color:#2c5fa1;background:#eef3fb"><b>New for FY27 &mdash; a state law reshapes the season, but not the target.</b> Iowa <b>SF 2201</b> (signed Feb 2026) moves state aid from monthly to <b>quarterly</b> payments beginning July 15. That refills the fund at the start of the year, so the <i>late-summer</i> trough above eases &mdash; but the dry stretch simply moves to <b>late winter</b> (Dec&#8211;March), between quarterly payments. Because four big payments are lumpier than nine small ones, the year-to-year swing actually grows, so the <b>60&#8211;90 day target holds &mdash; arguably reinforced.</b> The seasonality reshapes; it does not shrink.</div>
+<div class="note" style="border-left-color:#2c5fa1;background:#eef3fb"><b>What SF 2201 changed &mdash; the season, not the target.</b> Moving state aid from monthly to quarterly (beginning July 15) refills the fund at the start of the year, so the old <i>late-summer</i> trough that forced ICCSD to borrow every August is gone. But the dry stretch simply moves to <b>late winter</b> (Dec&#8211;March), between quarterly payments &mdash; and because four big payments are lumpier than nine small ones, the within-year swing actually <i>grows</i>. The summer crunch eased, but the <b>60&#8211;90 day target holds &mdash; arguably reinforced.</b> The seasonality reshapes; it does not shrink. <i>(Calendar note: PFM modeled the quarters as Aug/Nov/Feb/May; the statute says &ldquo;July 15,&rdquo; which would shift each trough about a month earlier and help summer even more.)</i></div>
 
 <h2>Why 60&#8211;90 days, specifically</h2>
 <div class="build">
@@ -166,23 +165,23 @@ HTML=f'''<!doctype html>
   <p>The target is built from three pieces:</p>
   <ul>
    <li><b>Operating floor (~20 days)</b> &mdash; cash you can never dip below, because payroll is paid mid-month before late-month receipts arrive.</li>
-   <li><b>Seasonal dip (~27 days)</b> &mdash; how far the late-summer trough sits <i>below</i> the annual average, baked in by the tax calendar.</li>
-   <li><b>Volatility / shock buffer (~13 &#8594; 43 days)</b> &mdash; margin for a year where revenues come in light or costs run heavy. A modest buffer gets you to <b>60</b>; covering a real shock (enrollment drop, delayed aid) takes you toward <b>90</b>.</li>
+   <li><b>Seasonal dip (~24 days)</b> &mdash; how far the winter trough sits <i>below</i> the annual average, baked in by the payment calendar.</li>
+   <li><b>Volatility / shock buffer (~16 &#8594; 46 days)</b> &mdash; margin for a year where revenues come in light or costs run heavy. A modest buffer gets you to <b>60</b>; covering a real shock (enrollment drop, delayed aid) takes you toward <b>90</b>.</li>
   </ul>
-  <p>A second, independent check agrees: modeled month by month, the demanding months (the post-tax peaks, which must self-fund the entire run down to the next trough) require <b>60&#8211;76 days</b> for 95&#8211;99% confidence of never running dry. A single reserve policy must satisfy the most demanding month &mdash; so the floor lands at ~60, the prudent level near ~90.</p>
+  <p>A second, independent check agrees: modeled month by month under SF 2201, the demanding months (right after a quarterly payment, which must self-fund the run down to the next trough) require <b>60&#8211;74 days</b> for 95&#8211;99% confidence of never running dry. A single reserve policy must satisfy the most demanding month &mdash; so the floor lands at ~60, the prudent level near ~90.</p>
  </div>
  <div class="svgwrap"><figure style="margin:0">{chart_decomp()}</figure></div>
 </div>
 
 <h2>What each month needs</h2>
-<p>Required days of cash for a 95% chance of not running dry over the following 12 months (component-based volatility model). September is the universal binding trough; the peaks need the most cushion because the whole drawdown is still ahead of them.</p>
+<p>Required days of cash for a 95% chance of not running dry over the following 12 months (component-based volatility model, FY27 quarterly-aid flows). The months right after a quarterly payment need the most cushion, because the whole drawdown to the next trough is still ahead of them; the pre-payment lows (Jul, Sep, Jan, Mar) need little, because the next big inflow is imminent.</p>
 <figure>{chart_req()}</figure>
 
 <h2>Bottom line for ICCSD</h2>
-<p>The district currently steers to roughly <b>20&#8211;35 days</b> &mdash; below even the minimum &mdash; which is exactly why it has borrowed every late summer (the $10M interfund loan, the anticipatory warrants). Those are the symptom of a reserve sized to the average instead of the trough. Moving the floor toward <b>60 days</b>, and the goal toward <b>90</b>, would let the General Fund self-fund its own seasonal cycle, end the recurring summer borrowing and its interest cost, and rebuild the margin that rating agencies look for.</p>
+<p>The district currently steers to roughly <b>20&#8211;35 days</b> &mdash; below even the minimum. Under the old monthly-aid law that meant borrowing every late summer (the $10M interfund loan, the anticipatory warrants). SF 2201 ends that specific summer crunch, but it shifts the squeeze to <b>late winter</b> &mdash; ICCSD's own FY27 projection still skates to ~10 days in March. Moving the floor toward <b>60 days</b>, and the goal toward <b>90</b>, would let the General Fund self-fund its full seasonal cycle, retire the recurring short-term borrowing and its interest cost, and rebuild the margin that rating agencies look for.</p>
 
 <div class="foot">
- <b>Unofficial community analysis</b> &mdash; not produced by ICCSD, PFM Financial Advisors, or the Financial Oversight Committee. Built from unaudited board materials (PFM monthly cash-flow exhibits, the FY26 quarterly financial reports, the FY2024 Certified Annual Report). Figures are provisional: the FY24 and FY25 audits are still outstanding, and the FY27 shift of state aid to quarterly payments will move the trough toward March &mdash; both will revise the exact day counts, not the case for sizing reserves to the seasonal low. Days of cash = General Fund cash &divide; ~$610,000/day (~$223M FY26 operating spend &divide; 365).
+ <b>Unofficial community analysis</b> &mdash; not produced by ICCSD, PFM Financial Advisors, or the Financial Oversight Committee. Forward-looking under SF 2201 (signed Feb 2026); the seasonal shape is ICCSD's FY27 projection (PFM Exhibit 2a), with the required-days model using component-based volatility on the FY27 quarterly-aid flows. Figures are provisional: the FY24 and FY25 audits are still outstanding, and the exact quarterly-payment calendar (PFM modeled Aug/Nov/Feb/May; the statute says July 15) will revise the exact day counts &mdash; not the case for sizing reserves to the seasonal low. Days of cash = General Fund cash &divide; ~$610,000/day (~$223M operating spend &divide; 365). A separate, not-yet-law risk &mdash; the proposed SAVE diversion (SSB 3034) &mdash; could raise GF cash demand via the district's loans to the SAVE fund.
 </div>
 </div></body></html>'''
 
