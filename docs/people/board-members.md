@@ -97,7 +97,8 @@ morale; procedural reading at public hearings.
 Frequent clarifying-question role in vote-prep (e.g., asking COO Curt
 Pratt to summarize the certified budget amendment at
 [2026-05-12 ~2:36:56](https://youtu.be/IQNqY_oE5JA?t=9416)).
-Plays informal "comma police" in Policy & Governance drafting sessions.
+Pays close attention to wording and punctuation detail in Policy &
+Governance drafting sessions.
 
 **Notable individual vote:** The **sole nay** on the consent agenda minus
 item 15 at the
@@ -177,8 +178,8 @@ work.
 - **Term ends:** 2027
 - **Committee roles:** **Chair, Financial Oversight Committee** ([elected 2026-01-13](../meetings/2026/2026-01-13-financial-oversight-committee.md)). **Chair, Policy & Governance Committee** ([elected 2026-01-27](../meetings/2026/2026-01-27-policy-governance-committee-meeting.md), nominated by outgoing chair Lisa Williams).
 
-Runs the policy-review readouts at most regular meetings. Aggressively
-iterates on policy language. The other consistent "no" vote (with Finch)
+Runs the policy-review readouts at most regular meetings. Iterates
+closely on policy language. The other consistent "no" vote (with Finch)
 on contested action items in 2026.
 
 **Notable motions originated:**
@@ -216,9 +217,8 @@ email-retention policy; P-Card process.
 
 Conducts agenda-setting follow-ups (e.g., Johnson County Conference
 Board scheduling at [2026-03-10 ~2:14:29](https://youtu.be/gQTsGo8c0WQ?t=8069)).
-Of the seven members, the lightest extended-speaker footprint on the
-2026 record — focused on procedural and structural points rather than
-sustained monologues. Voted with the majority on every split vote
+Her remarks on the 2026 record are concise and focused on procedural
+and structural points. Voted with the majority on every split vote
 located.
 
 **Themes she speaks to most often:** P&G procedural detail;
